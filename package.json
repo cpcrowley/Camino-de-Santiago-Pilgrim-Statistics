@@ -1,0 +1,21 @@
+{
+  "name": "jeopardyData",
+  "version": "0.1.0",
+  "description": "Manage the jeopardy database file",
+  "main": "main.js",
+  "keywords": [
+    "jeopardy"
+  ],
+  "author": "Charles Crowley <cpcrowley@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "game01": "jq <data/games.json '.[0]' >data/games0.json; jq <data/games.json '.[1]' >data/games1.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cpcrowley/jeopardyData.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0"
+  }
+}
