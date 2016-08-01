@@ -1,8 +1,8 @@
 {
-  "name": "jeopardyData",
+  "name": "pilgrims",
   "version": "0.1.0",
-  "description": "Manage the jeopardy database file",
-  "main": "main.js",
+  "description": "Camino de Santiago Pilgrim Statistics",
+  "main": "lib/server.js",
   "keywords": [
     "jeopardy"
   ],
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cpcrowley/jeopardyData.git"
+    "url": "git://github.com/cpcrowley/pilgrims.git"
   },
   "dependencies": {
     "cheerio": "^0.18.0"

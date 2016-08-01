@@ -1,0 +1,948 @@
+{
+  "year": "2015",
+  "month": "",
+  "pilgrims": "262459",
+  "women": "123530",
+  "men": "138929",
+  "walking": "236716",
+  "cycling": "25346",
+  "riding": "326",
+  "wheelchair": "71",
+  "under30": "74691",
+  "from30to60": "144031",
+  "over60": "43737",
+  "religious": "99681",
+  "religiousCultural": "141969",
+  "cultural": "20809",
+  "spanishTotal": "122387",
+  "spanishFrom": [
+    [
+      "Madrid",
+      "23823"
+    ],
+    [
+      "Andalucía",
+      "22866"
+    ],
+    [
+      "Cataluña",
+      "14107"
+    ],
+    [
+      "Comunidad Valenciana",
+      "14090"
+    ],
+    [
+      "Galicia",
+      "8661"
+    ],
+    [
+      "Castilla León",
+      "7315"
+    ],
+    [
+      "Castilla la Mancha",
+      "5945"
+    ],
+    [
+      "Pais Vasco",
+      "4746"
+    ]
+  ],
+  "foreigners": [
+    [
+      "Italia",
+      "22148"
+    ],
+    [
+      "Alemania",
+      "18869"
+    ],
+    [
+      "Estados Unidos",
+      "13669"
+    ],
+    [
+      "Portugal",
+      "12481"
+    ],
+    [
+      "Francia",
+      "9912"
+    ],
+    [
+      "Reino Unido",
+      "5417"
+    ],
+    [
+      "Irlanda",
+      "5367"
+    ],
+    [
+      "Canadá",
+      "4199"
+    ]
+  ],
+  "professions": [
+    [
+      "Empleados",
+      "56487"
+    ],
+    [
+      "Estudiantes",
+      "50479"
+    ],
+    [
+      "Liberales",
+      "35755"
+    ],
+    [
+      "Jubilados",
+      "32797"
+    ],
+    [
+      "Tecnicos",
+      "30590"
+    ],
+    [
+      "Profesores",
+      "18160"
+    ],
+    [
+      "Funcionarios",
+      "13102"
+    ],
+    [
+      "Amas de Casa",
+      "5639"
+    ],
+    [
+      "Parados",
+      "5266"
+    ],
+    [
+      "Directivos",
+      "4213"
+    ],
+    [
+      "Obreros",
+      "3556"
+    ],
+    [
+      "Artistas",
+      "2557"
+    ],
+    [
+      "Sacerdotes",
+      "1419"
+    ],
+    [
+      "Religiosas",
+      "1053"
+    ],
+    [
+      "Agricultores",
+      "860"
+    ],
+    [
+      "Deportistas",
+      "274"
+    ],
+    [
+      "Marinos",
+      "239"
+    ],
+    [
+      "Oikoten",
+      "13"
+    ]
+  ],
+  "startingPlaces": [
+    [
+      "Sarria",
+      "67406"
+    ],
+    [
+      "S. Jean P. Port",
+      "31053"
+    ],
+    [
+      "Tui",
+      "13800"
+    ],
+    [
+      "Oporto",
+      "13199"
+    ],
+    [
+      "León",
+      "11495"
+    ],
+    [
+      "Cebreiro",
+      "10351"
+    ],
+    [
+      "Ferrol",
+      "8685"
+    ],
+    [
+      "Ponferrada",
+      "8400"
+    ],
+    [
+      "Roncesvalles",
+      "7414"
+    ],
+    [
+      "Oviedo - C.P.",
+      "6410"
+    ],
+    [
+      "Astorga",
+      "6033"
+    ],
+    [
+      "Valença do Minho",
+      "5697"
+    ],
+    [
+      "Pamplona",
+      "4639"
+    ],
+    [
+      "Irún",
+      "4174"
+    ],
+    [
+      "Burgos",
+      "3616"
+    ],
+    [
+      "Le Puy",
+      "3577"
+    ],
+    [
+      "Lugo - C.P.",
+      "3071"
+    ],
+    [
+      "Ourense",
+      "2853"
+    ],
+    [
+      "Vilafranca",
+      "2553"
+    ],
+    [
+      "Sevilla",
+      "2290"
+    ],
+    [
+      "Triacastela",
+      "2213"
+    ],
+    [
+      "Francia - C.F.",
+      "2144"
+    ],
+    [
+      "Resto Portugal",
+      "2141"
+    ],
+    [
+      "Lisboa",
+      "2059"
+    ],
+    [
+      "Resto Asturias - C.N",
+      "1746"
+    ],
+    [
+      "Ponte de Lima",
+      "1564"
+    ],
+    [
+      "Samos",
+      "1508"
+    ],
+    [
+      "Resto C. León C.F.",
+      "1430"
+    ],
+    [
+      "Ribadeo",
+      "1415"
+    ],
+    [
+      "Bilbao",
+      "1230"
+    ],
+    [
+      "Santander",
+      "1154"
+    ],
+    [
+      "Vilalba",
+      "1061"
+    ],
+    [
+      "Gijón",
+      "938"
+    ],
+    [
+      "Logroño",
+      "882"
+    ],
+    [
+      "Rates, S. Pedro",
+      "765"
+    ],
+    [
+      "San Sebastián",
+      "630"
+    ],
+    [
+      "Barcelos",
+      "609"
+    ],
+    [
+      "Alemania",
+      "607"
+    ],
+    [
+      "Fonsagrada - C.P.",
+      "596"
+    ],
+    [
+      "Holanda",
+      "578"
+    ],
+    [
+      "Salamanca",
+      "559"
+    ],
+    [
+      "Avilés",
+      "558"
+    ],
+    [
+      "Neda",
+      "547"
+    ],
+    [
+      "Somport",
+      "524"
+    ],
+    [
+      "Resto Asturias - C.P.",
+      "517"
+    ],
+    [
+      "Madrid - C.F.",
+      "516"
+    ],
+    [
+      "Braga",
+      "505"
+    ],
+    [
+      "Porriño",
+      "469"
+    ],
+    [
+      "Mondoñedo",
+      "461"
+    ],
+    [
+      "Puebla de Sanabria",
+      "454"
+    ],
+    [
+      "Oviedo - C.N.",
+      "453"
+    ],
+    [
+      "Vigo",
+      "440"
+    ],
+    [
+      "Zamora",
+      "427"
+    ],
+    [
+      "Resto Europa",
+      "412"
+    ],
+    [
+      "Muxia",
+      "405"
+    ],
+    [
+      "Sahagún",
+      "400"
+    ],
+    [
+      "Baiona",
+      "378"
+    ],
+    [
+      "Resto País Vasco - C.N.",
+      "378"
+    ],
+    [
+      "Finisterra",
+      "353"
+    ],
+    [
+      "Baamonde",
+      "337"
+    ],
+    [
+      "Grandas de Salime - C.P.",
+      "328"
+    ],
+    [
+      "Lourdes",
+      "327"
+    ],
+    [
+      "Chaves-Portugal",
+      "322"
+    ],
+    [
+      "Abadin",
+      "313"
+    ],
+    [
+      "Guimaraes",
+      "310"
+    ],
+    [
+      "Bélgica",
+      "294"
+    ],
+    [
+      "Francia - C.N",
+      "289"
+    ],
+    [
+      "Resto Cantabria",
+      "287"
+    ],
+    [
+      "Suiza",
+      "267"
+    ],
+    [
+      "A Guarda",
+      "257"
+    ],
+    [
+      "Coimbra",
+      "253"
+    ],
+    [
+      "Resto Andalucia",
+      "248"
+    ],
+    [
+      "Resto C. León - V.P.",
+      "228"
+    ],
+    [
+      "Viana do Castelo",
+      "227"
+    ],
+    [
+      "Hendaya",
+      "222"
+    ],
+    [
+      "Cruz de Ferro",
+      "216"
+    ],
+    [
+      "Vezelay",
+      "216"
+    ],
+    [
+      "Gudiña",
+      "215"
+    ],
+    [
+      "Frómista",
+      "207"
+    ],
+    [
+      "Arles",
+      "200"
+    ],
+    [
+      "Cadavo",
+      "192"
+    ],
+    [
+      "Laza",
+      "190"
+    ],
+    [
+      "Fatima",
+      "176"
+    ],
+    [
+      "Granja de Moreruela",
+      "171"
+    ],
+    [
+      "Vega de Valcarce",
+      "168"
+    ],
+    [
+      "Xunqueira de Ambia",
+      "160"
+    ],
+    [
+      "Allariz",
+      "159"
+    ],
+    [
+      "Cataluña - C.F.",
+      "157"
+    ],
+    [
+      "Sto. Domingo de la Calzada",
+      "155"
+    ],
+    [
+      "Lourenzá",
+      "151"
+    ],
+    [
+      "Carrión de los Condes",
+      "148"
+    ],
+    [
+      "Tineo - C.P.",
+      "146"
+    ],
+    [
+      "Hospital de Orbigo",
+      "145"
+    ],
+    [
+      "Rabanal del Camino",
+      "144"
+    ],
+    [
+      "Jaca",
+      "140"
+    ],
+    [
+      "Puente la Reina",
+      "140"
+    ],
+    [
+      "Com. Valenciana - O.C.",
+      "139"
+    ],
+    [
+      "Barcelona",
+      "137"
+    ],
+    [
+      "Mérida",
+      "134"
+    ],
+    [
+      "Cáceres",
+      "125"
+    ],
+    [
+      "Zaragoza",
+      "123"
+    ],
+    [
+      "Ponferrada. C.Inv.",
+      "117"
+    ],
+    [
+      "Montserrat",
+      "113"
+    ],
+    [
+      "Madrid - V.P.",
+      "108"
+    ],
+    [
+      "París",
+      "105"
+    ],
+    [
+      "Resto de Extremadura",
+      "102"
+    ],
+    [
+      "Valencia O.C.",
+      "99"
+    ],
+    [
+      "Com. Valenciana - C.F.",
+      "99"
+    ],
+    [
+      "Povoa de Varzim",
+      "98"
+    ],
+    [
+      "Castrojeriz",
+      "97"
+    ],
+    [
+      "Granada",
+      "94"
+    ],
+    [
+      "Estella",
+      "91"
+    ],
+    [
+      "R.Pais Vasco C.F.",
+      "91"
+    ],
+    [
+      "Salas",
+      "89"
+    ],
+    [
+      "Navarra",
+      "89"
+    ],
+    [
+      "Verín",
+      "86"
+    ],
+    [
+      "Austria",
+      "82"
+    ],
+    [
+      "Italia",
+      "76"
+    ],
+    [
+      "Malaga",
+      "75"
+    ],
+    [
+      "Esposende",
+      "74"
+    ],
+    [
+      "Molinaseca",
+      "70"
+    ],
+    [
+      "Cast. la Mancha - C.F.",
+      "65"
+    ],
+    [
+      "Viseu",
+      "56"
+    ],
+    [
+      "Vilabade",
+      "56"
+    ],
+    [
+      "Castilla La Mancha VP",
+      "50"
+    ],
+    [
+      "Canfranc",
+      "49"
+    ],
+    [
+      "Monforte de Lemos",
+      "48"
+    ],
+    [
+      "Castilla la Mancha otros",
+      "45"
+    ],
+    [
+      "Polonia",
+      "42"
+    ],
+    [
+      "Valladolid",
+      "41"
+    ],
+    [
+      "Nájera",
+      "37"
+    ],
+    [
+      "Huelva",
+      "37"
+    ],
+    [
+      "Grado",
+      "36"
+    ],
+    [
+      "Faro",
+      "36"
+    ],
+    [
+      "Córdoba",
+      "34"
+    ],
+    [
+      "Cataluña - O.C.",
+      "33"
+    ],
+    [
+      "Badajoz",
+      "31"
+    ],
+    [
+      "Roma",
+      "31"
+    ],
+    [
+      "Resto Galicia",
+      "24"
+    ],
+    [
+      "La Rioja",
+      "22"
+    ],
+    [
+      "Reino Unido C.F.",
+      "22"
+    ],
+    [
+      "Chantada",
+      "22"
+    ],
+    [
+      "La Mesa",
+      "22"
+    ],
+    [
+      "Benavente",
+      "21"
+    ],
+    [
+      "Aveiro",
+      "20"
+    ],
+    [
+      "San Juan de Ortega",
+      "20"
+    ],
+    [
+      "Republica Checa",
+      "19"
+    ],
+    [
+      "Murcia",
+      "17"
+    ],
+    [
+      "Fonfría",
+      "15"
+    ],
+    [
+      "Quiroga",
+      "14"
+    ],
+    [
+      "Dinamarca",
+      "10"
+    ],
+    [
+      "Luxemburgo",
+      "8"
+    ],
+    [
+      "A Rúa",
+      "8"
+    ],
+    [
+      "O Barco de Valdeorras",
+      "7"
+    ],
+    [
+      "Vegadeo",
+      "5"
+    ],
+    [
+      "Eslovaquia",
+      "5"
+    ],
+    [
+      "Ortigueira",
+      "5"
+    ],
+    [
+      "Hungría",
+      "5"
+    ],
+    [
+      "Borres",
+      "4"
+    ],
+    [
+      "Guntín",
+      "4"
+    ],
+    [
+      "Sobrado",
+      "4"
+    ],
+    [
+      "Valcarlos",
+      "4"
+    ],
+    [
+      "Leyre",
+      "4"
+    ],
+    [
+      "Andorra",
+      "4"
+    ],
+    [
+      "Puente de Domingo Flórez",
+      "4"
+    ],
+    [
+      "Irlanda C.F.",
+      "4"
+    ],
+    [
+      "Lalín",
+      "3"
+    ],
+    [
+      "Reino Unido C.Ing",
+      "3"
+    ],
+    [
+      "La Bañeza",
+      "3"
+    ],
+    [
+      "Betanzos",
+      "3"
+    ],
+    [
+      "Inglaterra C.F.",
+      "2"
+    ],
+    [
+      "Covelo",
+      "2"
+    ],
+    [
+      "Pontedeume",
+      "2"
+    ],
+    [
+      "Rusia",
+      "2"
+    ],
+    [
+      "mirallos",
+      "2"
+    ],
+    [
+      "Vincios",
+      "2"
+    ],
+    [
+      "Irlanda C. Ing",
+      "2"
+    ],
+    [
+      "Las Médulas",
+      "2"
+    ],
+    [
+      "Gándara",
+      "1"
+    ],
+    [
+      "Sobrado dos Monxes",
+      "1"
+    ],
+    [
+      "Peñaseita",
+      "1"
+    ],
+    [
+      "Finlandia",
+      "1"
+    ],
+    [
+      "Pardellas",
+      "1"
+    ],
+    [
+      "Paradela",
+      "1"
+    ],
+    [
+      "Petín",
+      "1"
+    ],
+    [
+      "Artieda",
+      "1"
+    ],
+    [
+      "Viveiro",
+      "1"
+    ]
+  ],
+  "caminos": [
+    [
+      "Frances-Camino de",
+      "172206"
+    ],
+    [
+      "Portugues-Camino",
+      "43137"
+    ],
+    [
+      "Norte-Camino de",
+      "15826"
+    ],
+    [
+      "Primitivo-Camino",
+      "11471"
+    ],
+    [
+      "Ingles-Camino",
+      "9247"
+    ],
+    [
+      "Via de la Plata",
+      "9221"
+    ],
+    [
+      "Muxia-Finisterre",
+      "758"
+    ],
+    [
+      "Otros caminos",
+      "371"
+    ],
+    [
+      "Camino de Invierno",
+      "210"
+    ]
+  ]
+}

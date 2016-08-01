@@ -1,0 +1,11 @@
+{
+  "name"         : "node-web-scrape-2",
+  "version"      : "0.0.1",
+  "description"  : "Scrape pilgrim statistics.",
+  "main"         : "server.js",
+  "author"       : "Charles Crowley",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}

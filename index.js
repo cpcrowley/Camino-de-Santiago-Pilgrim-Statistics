@@ -32,79 +32,24 @@ var paneDefinitions = [
     formSpec: [],
   },
   {
-    paneTitle: 'Percent correct by row',
+    paneTitle: 'Show pilgrim counts in various breakdowns',
     category: 'Questions menu',
     categoryPrefix: 'questions-menu',
-    title: 'What percent of clues are answered correctly? (by $ row)',
-    url: 'percentCorrect',
+    title: 'How many pilgrims by year, month, gender, country, etc?',
+    url: 'yearMonthTotals',
     formSpec: [
-      ['select', 'date-range', 'Select season ranges', [
-        {label:'Seasons 1-32 (1984-2016) combined', value:'99', selected:true},
-        {label:'Seasons 1-11, 12-22, 23-32 combined', value:'10', selected:false},
-        {label:'Every 5 seasons combined', value:'5', selected:false},
-        {label:'Show each season separately', value:'1', selected:false}
+      ['select', 'by-what', 'Breakdown by', [
+        {label:'Age', value:'by-age', selected:true},
+        {label:'Month', value:'by-month', selected:false},
+        {label:'Gender', value:'by-gender', selected:false},
+        {label:'Country', value:'by-country', selected:false},
+        {label:'Camino', value:'by-camino', selected:false},
+        {label:'Starting point', value:'by-starting-point', selected:false},
+        {label:'Transport', value:'by-transport', selected:false},
+        {label:'Reason', value:'by-reason', selected:false},
+        {label:'Profession', value:'by-profession', selected:false},
+        {label:'Spanish: region', value:'spanish-by-region', selected:false},
       ]],
-      ['checkbox', 'daily-doubles', 'Show Daily Doubles on separate lines', false],
-      ['checkbox', 'by-round', 'Show Jeopardy and Double Jeopardy on separate lines', false],
-      ['checkbox', 'out-of-order', 'Show line for out-of-order clues', false],
-      ['select', 'sort-by-dd', 'Sort by', [
-        {label:'Season range, then Daily Double, then J or DJ', value:'0', selected:true},
-        {label:'Daily Double, then Season range, then J or DJ', value:'1', selected:false}
-      ]],
-    ],
-  },
-  {
-    paneTitle: 'Percent correct by top players',
-    category: 'Questions menu',
-    categoryPrefix: 'questions-menu',
-    title: 'What percent of clues do top players answer correctly? (by $ row)',
-    url: 'percentCorrectByPlayer',
-    formSpec: [
-      ['select', 'player', 'Number of games', [
-        {label:'20 or more', value:'20', selected:true},
-        {label:'15 or more', value:'15', selected:false},
-        {label:'10 or more', value:'10', selected:false},
-        {label:'5 or more', value:'5', selected:false}
-      ]],
-      ['checkbox', 'by-round', 'Show Jeopardy and Double Jeopardy on separate lines', false],
-      ['checkbox', 'dd-separate', 'Show Daily Double results on separate lines', false],
-    ],
-  },
-  {
-    paneTitle: 'Number of games by player',
-    category: 'Questions menu',
-    categoryPrefix: 'questions-menu',
-    title: 'How many contestants have played in only 1, or 2, or 3, etc games?',
-    url: 'winsByPlayer',
-    formSpec: [],
-  },
-  {
-    paneTitle: 'Final Jeopardy Statistics',
-    category: 'Questions menu',
-    categoryPrefix: 'questions-menu',
-    title: 'How often does the leader going into Final Jeopardy win? (and other stats)',
-    url: 'finalJeopardy',
-    formSpec: [
-    ],
-  },
-  {
-    paneTitle: 'Most common categories',
-    category: 'Questions menu',
-    categoryPrefix: 'questions-menu',
-    title: 'What are the most common categories and how many times have they come up?',
-    url: 'mostCommonCategories',
-    formSpec: [
-      ['string', 'max-categories', 'Maximum number of categories to show', 'Default is 20'],
-    ],
-  },
-  {
-    paneTitle: 'Find string in clues and answers',
-    category: 'Questions menu',
-    categoryPrefix: 'questions-menu',
-    title: 'How many times has a string appeared in clues and answers?',
-    url: 'findInClues',
-    formSpec: [
-      ['string', 'search-text', 'String to find in clues', 'Enter clue search string'],
     ]
   }
 ]
@@ -121,7 +66,7 @@ var recomputePane = function(pane) {
     var v = null
     var element = pane.form.find('.'+item[1])
     if ('select' === item[0]) {
-      v = parseInt(element.val(), 10)
+      v = element.val()
     } else if ('checkbox' === item[0]) {
       v = element.prop('checked') ? 1 : 0
     } else if ('string' === item[0]) {
@@ -139,13 +84,13 @@ var recomputePane = function(pane) {
   if (pane.url) {
     var host = 'http://thechar.com'
     if (debugModeCheckbox) {
-      console.log('debugModeCheckbox', debugModeCheckbox)
+      //console.log('debugModeCheckbox', debugModeCheckbox)
       if (debugModeCheckbox[0].checked) {
         host = 'http://rimac.local'
       }
     }
-    console.log('host='+host)
-    $.get(host + ':3856/' + pane.url, paramsObject, function (serverHtml){
+    //console.log('host='+host)
+    $.get(host + ':3867/' + pane.url, paramsObject, function (serverHtml){
       pane.form.append(serverHtml)
     });
   } else {
@@ -337,3 +282,42 @@ var makeStringEntry = function(idBase, label, placeHolder) {
   </div>
   `
 };
+/*{
+  paneTitle: 'Percent correct by row',
+  category: 'Questions menu',
+  categoryPrefix: 'questions-menu',
+  title: 'What percent of clues are answered correctly? (by $ row)',
+  url: 'percentCorrect',
+  formSpec: [
+    ['select', 'date-range', 'Select season ranges', [
+      {label:'Seasons 1-32 (1984-2016) combined', value:'99', selected:true},
+      {label:'Seasons 1-11, 12-22, 23-32 combined', value:'10', selected:false},
+      {label:'Every 5 seasons combined', value:'5', selected:false},
+      {label:'Show each season separately', value:'1', selected:false}
+    ]],
+    ['checkbox', 'daily-doubles', 'Show Daily Doubles on separate lines', false],
+    ['checkbox', 'by-round', 'Show Jeopardy and Double Jeopardy on separate lines', false],
+    ['checkbox', 'out-of-order', 'Show line for out-of-order clues', false],
+    ['select', 'sort-by-dd', 'Sort by', [
+      {label:'Season range, then Daily Double, then J or DJ', value:'0', selected:true},
+      {label:'Daily Double, then Season range, then J or DJ', value:'1', selected:false}
+    ]],
+  ],
+},*/
+/*{
+  paneTitle: 'Percent correct by top players',
+  category: 'Questions menu',
+  categoryPrefix: 'questions-menu',
+  title: 'What percent of clues do top players answer correctly? (by $ row)',
+  url: 'percentCorrectByPlayer',
+  formSpec: [
+    ['select', 'player', 'Number of games', [
+      {label:'20 or more', value:'20', selected:true},
+      {label:'15 or more', value:'15', selected:false},
+      {label:'10 or more', value:'10', selected:false},
+      {label:'5 or more', value:'5', selected:false}
+    ]],
+    ['checkbox', 'by-round', 'Show Jeopardy and Double Jeopardy on separate lines', false],
+    ['checkbox', 'dd-separate', 'Show Daily Double results on separate lines', false],
+  ],
+},*/

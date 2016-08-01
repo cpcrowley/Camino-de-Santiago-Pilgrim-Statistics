@@ -1,0 +1,344 @@
+{
+  "year": "2004",
+  "month": "1",
+  "pilgrims": "696",
+  "women": "204",
+  "men": "492",
+  "walking": "649",
+  "cycling": "46",
+  "riding": "1",
+  "wheelchair": "0",
+  "under30": "221",
+  "from30to60": "415",
+  "over60": "60",
+  "religious": "541",
+  "religiousCultural": "124",
+  "cultural": "31",
+  "spanishTotal": "584",
+  "spanishFrom": [
+    [
+      "Galicia",
+      "166"
+    ],
+    [
+      "Asturias",
+      "76"
+    ],
+    [
+      "Madrid",
+      "73"
+    ],
+    [
+      "Comunidad Valenciana",
+      "72"
+    ],
+    [
+      "Castilla León",
+      "51"
+    ],
+    [
+      "Cataluña",
+      "44"
+    ],
+    [
+      "Andalucía",
+      "38"
+    ],
+    [
+      "Pais Vasco",
+      "10"
+    ]
+  ],
+  "foreigners": [
+    [
+      "Alemania",
+      "14"
+    ],
+    [
+      "Estados Unidos",
+      "13"
+    ],
+    [
+      "Italia",
+      "13"
+    ],
+    [
+      "Australia",
+      "12"
+    ],
+    [
+      "Francia",
+      "10"
+    ],
+    [
+      "Portugal",
+      "8"
+    ],
+    [
+      "Suiza",
+      "7"
+    ],
+    [
+      "Holanda",
+      "5"
+    ]
+  ],
+  "professions": [
+    [
+      "Estudiantes",
+      "153"
+    ],
+    [
+      "Obreros",
+      "100"
+    ],
+    [
+      "Liberales",
+      "92"
+    ],
+    [
+      "Empleados",
+      "72"
+    ],
+    [
+      "Profesores",
+      "59"
+    ],
+    [
+      "Tecnicos",
+      "55"
+    ],
+    [
+      "Jubilados",
+      "54"
+    ],
+    [
+      "Funcionarios",
+      "36"
+    ],
+    [
+      "Parados",
+      "27"
+    ],
+    [
+      "Amas de Casa",
+      "23"
+    ],
+    [
+      "Agricultores",
+      "8"
+    ],
+    [
+      "Artistas",
+      "6"
+    ],
+    [
+      "Sacerdotes",
+      "5"
+    ],
+    [
+      "Marinos",
+      "3"
+    ],
+    [
+      "Directivos",
+      "2"
+    ],
+    [
+      "Religiosas",
+      "1"
+    ]
+  ],
+  "startingPlaces": [
+    [
+      "Sarria",
+      "162"
+    ],
+    [
+      "Cebreiro",
+      "124"
+    ],
+    [
+      "Vilafranca",
+      "54"
+    ],
+    [
+      "Ponferrada",
+      "51"
+    ],
+    [
+      "Astorga",
+      "34"
+    ],
+    [
+      "Roncesvalles",
+      "33"
+    ],
+    [
+      "S. Jean P. Port",
+      "32"
+    ],
+    [
+      "León",
+      "26"
+    ],
+    [
+      "Madrid",
+      "18"
+    ],
+    [
+      "Pamplona",
+      "16"
+    ],
+    [
+      "Triacastela",
+      "14"
+    ],
+    [
+      "Tui",
+      "13"
+    ],
+    [
+      "Oviedo",
+      "12"
+    ],
+    [
+      "Burgos",
+      "11"
+    ],
+    [
+      "Somport",
+      "10"
+    ],
+    [
+      "Hospital de Orbigo",
+      "8"
+    ],
+    [
+      "Braga",
+      "6"
+    ],
+    [
+      "Samos",
+      "6"
+    ],
+    [
+      "Ferrol",
+      "5"
+    ],
+    [
+      "Francia",
+      "4"
+    ],
+    [
+      "Canfranc",
+      "4"
+    ],
+    [
+      "Sevilla",
+      "4"
+    ],
+    [
+      "Jaca",
+      "3"
+    ],
+    [
+      "Carrión de los Condes",
+      "3"
+    ],
+    [
+      "Valença do Minho",
+      "3"
+    ],
+    [
+      "Holanda",
+      "2"
+    ],
+    [
+      "Ourense",
+      "2"
+    ],
+    [
+      "Puente la Reina",
+      "2"
+    ],
+    [
+      "Resto Portugal",
+      "2"
+    ],
+    [
+      "Sto. Domingo de la Calzada",
+      "2"
+    ],
+    [
+      "Puebla de Sanabria",
+      "2"
+    ],
+    [
+      "Logroño",
+      "2"
+    ],
+    [
+      "Gijón",
+      "2"
+    ],
+    [
+      "Sahagún",
+      "1"
+    ],
+    [
+      "Fonsagrada",
+      "1"
+    ],
+    [
+      "Tineo",
+      "1"
+    ],
+    [
+      "Estella",
+      "1"
+    ],
+    [
+      "Oporto",
+      "1"
+    ],
+    [
+      "Com. Valenciana",
+      "1"
+    ],
+    [
+      "Frómista",
+      "1"
+    ],
+    [
+      "Bélgica",
+      "1"
+    ],
+    [
+      "Resto C. León",
+      "1"
+    ]
+  ],
+  "caminos": [
+    [
+      "Frances-Camino de",
+      "609"
+    ],
+    [
+      "Via de la Plata",
+      "26"
+    ],
+    [
+      "Portugues-Camino",
+      "25"
+    ],
+    [
+      "Norte-Camino de",
+      "16"
+    ],
+    [
+      "Ingles-Camino",
+      "5"
+    ]
+  ]
+}

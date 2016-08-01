@@ -1,0 +1,464 @@
+{
+  "year": "2010",
+  "month": "1",
+  "pilgrims": "1169",
+  "women": "395",
+  "men": "774",
+  "walking": "1103",
+  "cycling": "51",
+  "riding": "15",
+  "wheelchair": "0",
+  "under30": "413",
+  "from30to60": "665",
+  "over60": "91",
+  "religious": "622",
+  "religiousCultural": "485",
+  "cultural": "62",
+  "spanishTotal": "798",
+  "spanishFrom": [
+    [
+      "Madrid",
+      "208"
+    ],
+    [
+      "Galicia",
+      "204"
+    ],
+    [
+      "Andalucía",
+      "79"
+    ],
+    [
+      "Asturias",
+      "60"
+    ],
+    [
+      "Comunidad Valenciana",
+      "45"
+    ],
+    [
+      "Castilla León",
+      "37"
+    ],
+    [
+      "Cataluña",
+      "35"
+    ],
+    [
+      "Baleares",
+      "20"
+    ]
+  ],
+  "foreigners": [
+    [
+      "Alemania",
+      "65"
+    ],
+    [
+      "Corea",
+      "60"
+    ],
+    [
+      "Portugal",
+      "44"
+    ],
+    [
+      "Italia",
+      "42"
+    ],
+    [
+      "Francia",
+      "16"
+    ],
+    [
+      "Holanda",
+      "14"
+    ],
+    [
+      "Estados Unidos",
+      "14"
+    ],
+    [
+      "Brasil",
+      "11"
+    ]
+  ],
+  "professions": [
+    [
+      "Estudiantes",
+      "272"
+    ],
+    [
+      "Empleados",
+      "229"
+    ],
+    [
+      "Liberales",
+      "133"
+    ],
+    [
+      "Tecnicos",
+      "113"
+    ],
+    [
+      "Profesores",
+      "106"
+    ],
+    [
+      "Funcionarios",
+      "77"
+    ],
+    [
+      "Obreros",
+      "67"
+    ],
+    [
+      "Jubilados",
+      "58"
+    ],
+    [
+      "Amas de Casa",
+      "41"
+    ],
+    [
+      "Parados",
+      "41"
+    ],
+    [
+      "Sacerdotes",
+      "11"
+    ],
+    [
+      "Artistas",
+      "9"
+    ],
+    [
+      "Agricultores",
+      "5"
+    ],
+    [
+      "Directivos",
+      "4"
+    ],
+    [
+      "Religiosas",
+      "2"
+    ],
+    [
+      "Deportistas",
+      "1"
+    ]
+  ],
+  "startingPlaces": [
+    [
+      "Sarria",
+      "317"
+    ],
+    [
+      "Cebreiro",
+      "104"
+    ],
+    [
+      "Resto C. León",
+      "78"
+    ],
+    [
+      "Ponferrada",
+      "68"
+    ],
+    [
+      "S. Jean P. Port",
+      "59"
+    ],
+    [
+      "Tui",
+      "58"
+    ],
+    [
+      "Astorga",
+      "56"
+    ],
+    [
+      "Vilalba",
+      "54"
+    ],
+    [
+      "León",
+      "48"
+    ],
+    [
+      "Roncesvalles",
+      "37"
+    ],
+    [
+      "Pamplona",
+      "26"
+    ],
+    [
+      "Oporto",
+      "25"
+    ],
+    [
+      "Ourense",
+      "24"
+    ],
+    [
+      "Vilafranca",
+      "17"
+    ],
+    [
+      "Oviedo - C.P.",
+      "16"
+    ],
+    [
+      "Valença do Minho",
+      "15"
+    ],
+    [
+      "Zamora",
+      "12"
+    ],
+    [
+      "Laza",
+      "12"
+    ],
+    [
+      "Lugo - C.P.",
+      "11"
+    ],
+    [
+      "Ferrol",
+      "10"
+    ],
+    [
+      "Burgos",
+      "9"
+    ],
+    [
+      "Oviedo",
+      "8"
+    ],
+    [
+      "Resto Portugal",
+      "7"
+    ],
+    [
+      "Logroño",
+      "6"
+    ],
+    [
+      "Avilés",
+      "6"
+    ],
+    [
+      "Sevilla",
+      "5"
+    ],
+    [
+      "Abadin",
+      "5"
+    ],
+    [
+      "Somport",
+      "5"
+    ],
+    [
+      "Braga",
+      "5"
+    ],
+    [
+      "Triacastela",
+      "4"
+    ],
+    [
+      "Ribadeo",
+      "3"
+    ],
+    [
+      "Francia",
+      "3"
+    ],
+    [
+      "Madrid - C.F.",
+      "3"
+    ],
+    [
+      "Verín",
+      "3"
+    ],
+    [
+      "Irún",
+      "3"
+    ],
+    [
+      "Alemania",
+      "3"
+    ],
+    [
+      "Jaca",
+      "2"
+    ],
+    [
+      "Cadavo",
+      "2"
+    ],
+    [
+      "Cáceres",
+      "2"
+    ],
+    [
+      "Granja de Moreruela",
+      "2"
+    ],
+    [
+      "Barcelona",
+      "2"
+    ],
+    [
+      "Santander",
+      "2"
+    ],
+    [
+      "Le Puy",
+      "2"
+    ],
+    [
+      "Samos",
+      "2"
+    ],
+    [
+      "Sto. Domingo de la Calzada",
+      "1"
+    ],
+    [
+      "Polonia",
+      "1"
+    ],
+    [
+      "Hospital de Orbigo",
+      "1"
+    ],
+    [
+      "Suiza",
+      "1"
+    ],
+    [
+      "Castilla La Mancha",
+      "1"
+    ],
+    [
+      "Frómista",
+      "1"
+    ],
+    [
+      "Bilbao",
+      "1"
+    ],
+    [
+      "Holanda",
+      "1"
+    ],
+    [
+      "Resto Cantabria",
+      "1"
+    ],
+    [
+      "Reino Unido",
+      "1"
+    ],
+    [
+      "Finisterra",
+      "1"
+    ],
+    [
+      "Lourenzá",
+      "1"
+    ],
+    [
+      "Resto C. León - V.P.",
+      "1"
+    ],
+    [
+      "Resto Asturias",
+      "1"
+    ],
+    [
+      "Lourdes",
+      "1"
+    ],
+    [
+      "Francia",
+      "1"
+    ],
+    [
+      "Xunqueira de Ambia",
+      "1"
+    ],
+    [
+      "Estella",
+      "1"
+    ],
+    [
+      "Murcia",
+      "1"
+    ],
+    [
+      "París",
+      "1"
+    ],
+    [
+      "Carrión de los Condes",
+      "1"
+    ],
+    [
+      "Resto Andalucia",
+      "1"
+    ],
+    [
+      "Salamanca",
+      "1"
+    ],
+    [
+      "Com. Valenciana",
+      "1"
+    ],
+    [
+      "Lisboa",
+      "1"
+    ]
+  ],
+  "caminos": [
+    [
+      "Frances-Camino de",
+      "863"
+    ],
+    [
+      "Portugues-Camino",
+      "111"
+    ],
+    [
+      "Norte-Camino de",
+      "86"
+    ],
+    [
+      "Via de la Plata",
+      "65"
+    ],
+    [
+      "Primitivo-Camino",
+      "29"
+    ],
+    [
+      "Ingles-Camino",
+      "10"
+    ],
+    [
+      "Muxia-Finisterre",
+      "1"
+    ],
+    [
+      "Otros caminos",
+      "1"
+    ]
+  ]
+}

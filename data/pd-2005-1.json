@@ -1,0 +1,356 @@
+{
+  "year": "2005",
+  "month": "1",
+  "pilgrims": "269",
+  "women": "73",
+  "men": "196",
+  "walking": "244",
+  "cycling": "24",
+  "riding": "1",
+  "wheelchair": "0",
+  "under30": "86",
+  "from30to60": "174",
+  "over60": "9",
+  "religious": "188",
+  "religiousCultural": "54",
+  "cultural": "27",
+  "spanishTotal": "164",
+  "spanishFrom": [
+    [
+      "Galicia",
+      "42"
+    ],
+    [
+      "Madrid",
+      "28"
+    ],
+    [
+      "Andalucía",
+      "23"
+    ],
+    [
+      "Cataluña",
+      "14"
+    ],
+    [
+      "Comunidad Valenciana",
+      "13"
+    ],
+    [
+      "Pais Vasco",
+      "9"
+    ],
+    [
+      "Aragón",
+      "7"
+    ],
+    [
+      "Castilla León",
+      "6"
+    ]
+  ],
+  "foreigners": [
+    [
+      "Estados Unidos",
+      "18"
+    ],
+    [
+      "Italia",
+      "16"
+    ],
+    [
+      "Francia",
+      "14"
+    ],
+    [
+      "Brasil",
+      "12"
+    ],
+    [
+      "Alemania",
+      "6"
+    ],
+    [
+      "Austria",
+      "5"
+    ],
+    [
+      "Portugal",
+      "4"
+    ],
+    [
+      "Australia",
+      "4"
+    ]
+  ],
+  "professions": [
+    [
+      "Estudiantes",
+      "49"
+    ],
+    [
+      "Liberales",
+      "43"
+    ],
+    [
+      "Empleados",
+      "38"
+    ],
+    [
+      "Tecnicos",
+      "30"
+    ],
+    [
+      "Obreros",
+      "28"
+    ],
+    [
+      "Profesores",
+      "17"
+    ],
+    [
+      "Jubilados",
+      "14"
+    ],
+    [
+      "Funcionarios",
+      "13"
+    ],
+    [
+      "Parados",
+      "11"
+    ],
+    [
+      "Artistas",
+      "10"
+    ],
+    [
+      "Amas de Casa",
+      "8"
+    ],
+    [
+      "Directivos",
+      "5"
+    ],
+    [
+      "Sacerdotes",
+      "2"
+    ],
+    [
+      "Agricultores",
+      "1"
+    ]
+  ],
+  "startingPlaces": [
+    [
+      "Sarria",
+      "42"
+    ],
+    [
+      "Cebreiro",
+      "33"
+    ],
+    [
+      "León",
+      "28"
+    ],
+    [
+      "S. Jean P. Port",
+      "22"
+    ],
+    [
+      "Ponferrada",
+      "14"
+    ],
+    [
+      "Tui",
+      "13"
+    ],
+    [
+      "Roncesvalles",
+      "11"
+    ],
+    [
+      "Burgos",
+      "9"
+    ],
+    [
+      "Astorga",
+      "9"
+    ],
+    [
+      "Pamplona",
+      "8"
+    ],
+    [
+      "Francia",
+      "8"
+    ],
+    [
+      "Resto Portugal",
+      "7"
+    ],
+    [
+      "Vilafranca",
+      "7"
+    ],
+    [
+      "Sevilla",
+      "4"
+    ],
+    [
+      "Le Puy",
+      "4"
+    ],
+    [
+      "Resto C. León",
+      "3"
+    ],
+    [
+      "Triacastela",
+      "3"
+    ],
+    [
+      "Ferrol",
+      "3"
+    ],
+    [
+      "Vilalba",
+      "3"
+    ],
+    [
+      "Sahagún",
+      "3"
+    ],
+    [
+      "Jaca",
+      "2"
+    ],
+    [
+      "Ourense",
+      "2"
+    ],
+    [
+      "Resto País Vasco",
+      "2"
+    ],
+    [
+      "Alemania",
+      "2"
+    ],
+    [
+      "Cataluña",
+      "2"
+    ],
+    [
+      "Benavente",
+      "2"
+    ],
+    [
+      "Suiza",
+      "2"
+    ],
+    [
+      "Rabanal del Camino",
+      "2"
+    ],
+    [
+      "Logroño",
+      "2"
+    ],
+    [
+      "Inglaterra",
+      "2"
+    ],
+    [
+      "París",
+      "1"
+    ],
+    [
+      "Oviedo",
+      "1"
+    ],
+    [
+      "Lourdes",
+      "1"
+    ],
+    [
+      "Resto Cantabria",
+      "1"
+    ],
+    [
+      "Puente la Reina",
+      "1"
+    ],
+    [
+      "Braga",
+      "1"
+    ],
+    [
+      "Italia",
+      "1"
+    ],
+    [
+      "Roma",
+      "1"
+    ],
+    [
+      "Malaga",
+      "1"
+    ],
+    [
+      "Barcelona",
+      "1"
+    ],
+    [
+      "Bilbao",
+      "1"
+    ],
+    [
+      "Madrid - C.F.",
+      "1"
+    ],
+    [
+      "Austria",
+      "1"
+    ],
+    [
+      "Finisterra",
+      "1"
+    ],
+    [
+      "Oviedo - C.P.",
+      "1"
+    ]
+  ],
+  "caminos": [
+    [
+      "Frances-Camino de",
+      "226"
+    ],
+    [
+      "Portugues-Camino",
+      "21"
+    ],
+    [
+      "Via de la Plata",
+      "9"
+    ],
+    [
+      "Norte-Camino de",
+      "8"
+    ],
+    [
+      "Ingles-Camino",
+      "3"
+    ],
+    [
+      "Primitivo-Camino",
+      "1"
+    ],
+    [
+      "Muxia-Finisterre",
+      "1"
+    ]
+  ]
+}
