@@ -36,7 +36,7 @@ var paneDefinitions = [
     category: 'Questions menu',
     categoryPrefix: 'questions-menu',
     title: 'How many pilgrims by year, month, gender, country, etc?',
-    url: 'yearMonthTotals',
+    url: 'totals',
     formSpec: [
       ['select', 'by-what', 'Breakdown by', [
         {label:'Age', value:'by-age', selected:true},
@@ -84,12 +84,10 @@ var recomputePane = function(pane) {
   if (pane.url) {
     var host = 'http://thechar.com'
     if (debugModeCheckbox) {
-      //console.log('debugModeCheckbox', debugModeCheckbox)
       if (debugModeCheckbox[0].checked) {
         host = 'http://rimac.local'
       }
     }
-    //console.log('host='+host)
     $.get(host + ':3867/' + pane.url, paramsObject, function (serverHtml){
       pane.form.append(serverHtml)
     });
@@ -282,42 +280,3 @@ var makeStringEntry = function(idBase, label, placeHolder) {
   </div>
   `
 };
-/*{
-  paneTitle: 'Percent correct by row',
-  category: 'Questions menu',
-  categoryPrefix: 'questions-menu',
-  title: 'What percent of clues are answered correctly? (by $ row)',
-  url: 'percentCorrect',
-  formSpec: [
-    ['select', 'date-range', 'Select season ranges', [
-      {label:'Seasons 1-32 (1984-2016) combined', value:'99', selected:true},
-      {label:'Seasons 1-11, 12-22, 23-32 combined', value:'10', selected:false},
-      {label:'Every 5 seasons combined', value:'5', selected:false},
-      {label:'Show each season separately', value:'1', selected:false}
-    ]],
-    ['checkbox', 'daily-doubles', 'Show Daily Doubles on separate lines', false],
-    ['checkbox', 'by-round', 'Show Jeopardy and Double Jeopardy on separate lines', false],
-    ['checkbox', 'out-of-order', 'Show line for out-of-order clues', false],
-    ['select', 'sort-by-dd', 'Sort by', [
-      {label:'Season range, then Daily Double, then J or DJ', value:'0', selected:true},
-      {label:'Daily Double, then Season range, then J or DJ', value:'1', selected:false}
-    ]],
-  ],
-},*/
-/*{
-  paneTitle: 'Percent correct by top players',
-  category: 'Questions menu',
-  categoryPrefix: 'questions-menu',
-  title: 'What percent of clues do top players answer correctly? (by $ row)',
-  url: 'percentCorrectByPlayer',
-  formSpec: [
-    ['select', 'player', 'Number of games', [
-      {label:'20 or more', value:'20', selected:true},
-      {label:'15 or more', value:'15', selected:false},
-      {label:'10 or more', value:'10', selected:false},
-      {label:'5 or more', value:'5', selected:false}
-    ]],
-    ['checkbox', 'by-round', 'Show Jeopardy and Double Jeopardy on separate lines', false],
-    ['checkbox', 'dd-separate', 'Show Daily Double results on separate lines', false],
-  ],
-},*/
