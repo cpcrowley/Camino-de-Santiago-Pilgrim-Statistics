@@ -1,0 +1,1430 @@
+[
+  {
+    "ultimo_anno_santo": "2010",
+    "anio": "2011",
+    "mes": "10",
+    "mes_titulo": "Octubre",
+    "nb_registros": "16243",
+    "sexos": [
+      {
+        "letra_sexo": "M",
+        "sexo_titulo": "Hombre",
+        "nb_registros": "9436"
+      },
+      {
+        "letra_sexo": "F",
+        "sexo_titulo": "Mujer",
+        "nb_registros": "6807"
+      }
+    ],
+    "medios": [
+      {
+        "medio_id": "3",
+        "medio_titulo": "Pie",
+        "nb_registros": "14187"
+      },
+      {
+        "medio_id": "1",
+        "medio_titulo": "Bicicleta",
+        "nb_registros": "2009"
+      },
+      {
+        "medio_id": "2",
+        "medio_titulo": "Caballo",
+        "nb_registros": "42"
+      },
+      {
+        "medio_id": "4",
+        "medio_titulo": "Silla de ruedas",
+        "nb_registros": "5"
+      }
+    ],
+    "edades": [
+      {
+        "edad_id": "2",
+        "edad_titulo": "30 - 60",
+        "nb_registros": "9602"
+      },
+      {
+        "edad_id": "1",
+        "edad_titulo": "< 30",
+        "nb_registros": "3324"
+      },
+      {
+        "edad_id": "3",
+        "edad_titulo": "> 60",
+        "nb_registros": "3317"
+      }
+    ],
+    "motivacion": [
+      {
+        "motivo_id": "3",
+        "motivo_titulo": "Religioso y otros",
+        "nb_registros": "8483"
+      },
+      {
+        "motivo_id": "2",
+        "motivo_titulo": "Religioso",
+        "nb_registros": "6745"
+      },
+      {
+        "motivo_id": "1",
+        "motivo_titulo": "No religioso",
+        "nb_registros": "1015"
+      }
+    ],
+    "autonomias": [
+      {
+        "autonomia_id": "14",
+        "autonomia_titulo": "Madrid",
+        "nb_registros": "1270"
+      },
+      {
+        "autonomia_id": "1",
+        "autonomia_titulo": "Andalucía",
+        "nb_registros": "921"
+      },
+      {
+        "autonomia_id": "9",
+        "autonomia_titulo": "Cataluña",
+        "nb_registros": "909"
+      },
+      {
+        "autonomia_id": "12",
+        "autonomia_titulo": "Galicia",
+        "nb_registros": "835"
+      },
+      {
+        "autonomia_id": "20",
+        "autonomia_titulo": "Comunidad Valenciana",
+        "nb_registros": "693"
+      },
+      {
+        "autonomia_id": "8",
+        "autonomia_titulo": "Castilla León",
+        "nb_registros": "459"
+      },
+      {
+        "autonomia_id": "3",
+        "autonomia_titulo": "Asturias",
+        "nb_registros": "304"
+      },
+      {
+        "autonomia_id": "19",
+        "autonomia_titulo": "Pais Vasco",
+        "nb_registros": "300"
+      },
+      {
+        "autonomia_id": "7",
+        "autonomia_titulo": "Castilla la Mancha",
+        "nb_registros": "298"
+      },
+      {
+        "autonomia_id": "5",
+        "autonomia_titulo": "Canarias",
+        "nb_registros": "255"
+      },
+      {
+        "autonomia_id": "4",
+        "autonomia_titulo": "Baleares",
+        "nb_registros": "164"
+      },
+      {
+        "autonomia_id": "2",
+        "autonomia_titulo": "Aragón",
+        "nb_registros": "123"
+      },
+      {
+        "autonomia_id": "11",
+        "autonomia_titulo": "Extremadura",
+        "nb_registros": "114"
+      },
+      {
+        "autonomia_id": "17",
+        "autonomia_titulo": "Navarra",
+        "nb_registros": "108"
+      },
+      {
+        "autonomia_id": "16",
+        "autonomia_titulo": "Murcia",
+        "nb_registros": "102"
+      },
+      {
+        "autonomia_id": "6",
+        "autonomia_titulo": "Cantabria",
+        "nb_registros": "57"
+      },
+      {
+        "autonomia_id": "13",
+        "autonomia_titulo": "La Rioja",
+        "nb_registros": "41"
+      },
+      {
+        "autonomia_id": "21",
+        "autonomia_titulo": "Otra",
+        "nb_registros": "23"
+      },
+      {
+        "autonomia_id": "15",
+        "autonomia_titulo": "Melilla",
+        "nb_registros": "7"
+      },
+      {
+        "autonomia_id": "10",
+        "autonomia_titulo": "Ceuta",
+        "nb_registros": "6"
+      }
+    ],
+    "paises": [
+      {
+        "pais_id": "4",
+        "pais_titulo": "Alemania",
+        "nb_registros": "1658"
+      },
+      {
+        "pais_id": "67",
+        "pais_titulo": "Francia",
+        "nb_registros": "1010"
+      },
+      {
+        "pais_id": "152",
+        "pais_titulo": "Portugal",
+        "nb_registros": "768"
+      },
+      {
+        "pais_id": "101",
+        "pais_titulo": "Italia",
+        "nb_registros": "663"
+      },
+      {
+        "pais_id": "38",
+        "pais_titulo": "Canadá",
+        "nb_registros": "504"
+      },
+      {
+        "pais_id": "61",
+        "pais_titulo": "Estados Unidos",
+        "nb_registros": "474"
+      },
+      {
+        "pais_id": "30",
+        "pais_titulo": "Brasil",
+        "nb_registros": "347"
+      },
+      {
+        "pais_id": "155",
+        "pais_titulo": "Reino Unido",
+        "nb_registros": "328"
+      },
+      {
+        "pais_id": "14",
+        "pais_titulo": "Australia",
+        "nb_registros": "303"
+      },
+      {
+        "pais_id": "209",
+        "pais_titulo": "Corea",
+        "nb_registros": "249"
+      },
+      {
+        "pais_id": "103",
+        "pais_titulo": "Japón",
+        "nb_registros": "231"
+      },
+      {
+        "pais_id": "85",
+        "pais_titulo": "Holanda",
+        "nb_registros": "223"
+      },
+      {
+        "pais_id": "50",
+        "pais_titulo": "Dinamarca",
+        "nb_registros": "213"
+      },
+      {
+        "pais_id": "182",
+        "pais_titulo": "Suiza",
+        "nb_registros": "210"
+      },
+      {
+        "pais_id": "93",
+        "pais_titulo": "Irlanda",
+        "nb_registros": "198"
+      },
+      {
+        "pais_id": "181",
+        "pais_titulo": "Suecia",
+        "nb_registros": "180"
+      },
+      {
+        "pais_id": "142",
+        "pais_titulo": "Noruega",
+        "nb_registros": "175"
+      },
+      {
+        "pais_id": "151",
+        "pais_titulo": "Polonia",
+        "nb_registros": "141"
+      },
+      {
+        "pais_id": "15",
+        "pais_titulo": "Austria",
+        "nb_registros": "141"
+      },
+      {
+        "pais_id": "129",
+        "pais_titulo": "México",
+        "nb_registros": "129"
+      },
+      {
+        "pais_id": "21",
+        "pais_titulo": "Belgica",
+        "nb_registros": "110"
+      },
+      {
+        "pais_id": "11",
+        "pais_titulo": "Argentina",
+        "nb_registros": "99"
+      },
+      {
+        "pais_id": "66",
+        "pais_titulo": "Finlandia",
+        "nb_registros": "85"
+      },
+      {
+        "pais_id": "87",
+        "pais_titulo": "Hungría",
+        "nb_registros": "73"
+      },
+      {
+        "pais_id": "179",
+        "pais_titulo": "Sudáfrica",
+        "nb_registros": "73"
+      },
+      {
+        "pais_id": "160",
+        "pais_titulo": "República Checa",
+        "nb_registros": "65"
+      },
+      {
+        "pais_id": "39",
+        "pais_titulo": "Colombia",
+        "nb_registros": "59"
+      },
+      {
+        "pais_id": "100",
+        "pais_titulo": "Israel",
+        "nb_registros": "52"
+      },
+      {
+        "pais_id": "202",
+        "pais_titulo": "Venezuela",
+        "nb_registros": "43"
+      },
+      {
+        "pais_id": "143",
+        "pais_titulo": "Nueva Zelanda",
+        "nb_registros": "38"
+      },
+      {
+        "pais_id": "150",
+        "pais_titulo": "Perú",
+        "nb_registros": "36"
+      },
+      {
+        "pais_id": "47",
+        "pais_titulo": "Chile",
+        "nb_registros": "29"
+      },
+      {
+        "pais_id": "58",
+        "pais_titulo": "Eslovaquia",
+        "nb_registros": "29"
+      },
+      {
+        "pais_id": "48",
+        "pais_titulo": "China",
+        "nb_registros": "28"
+      },
+      {
+        "pais_id": "161",
+        "pais_titulo": "Rumania",
+        "nb_registros": "27"
+      },
+      {
+        "pais_id": "162",
+        "pais_titulo": "Rusia",
+        "nb_registros": "21"
+      },
+      {
+        "pais_id": "53",
+        "pais_titulo": "Ecuador",
+        "nb_registros": "21"
+      },
+      {
+        "pais_id": "59",
+        "pais_titulo": "Eslovenia",
+        "nb_registros": "18"
+      },
+      {
+        "pais_id": "186",
+        "pais_titulo": "Taiwán",
+        "nb_registros": "15"
+      },
+      {
+        "pais_id": "199",
+        "pais_titulo": "Uruguay",
+        "nb_registros": "14"
+      },
+      {
+        "pais_id": "118",
+        "pais_titulo": "Luxemburgo",
+        "nb_registros": "13"
+      },
+      {
+        "pais_id": "112",
+        "pais_titulo": "Letonia",
+        "nb_registros": "12"
+      },
+      {
+        "pais_id": "27",
+        "pais_titulo": "Bolivia",
+        "nb_registros": "11"
+      },
+      {
+        "pais_id": "62",
+        "pais_titulo": "Estonia",
+        "nb_registros": "11"
+      },
+      {
+        "pais_id": "43",
+        "pais_titulo": "Costa Rica",
+        "nb_registros": "9"
+      },
+      {
+        "pais_id": "65",
+        "pais_titulo": "Filipinas",
+        "nb_registros": "9"
+      },
+      {
+        "pais_id": "32",
+        "pais_titulo": "Bulgaria",
+        "nb_registros": "9"
+      },
+      {
+        "pais_id": "158",
+        "pais_titulo": "Rep. Dominicana",
+        "nb_registros": "8"
+      },
+      {
+        "pais_id": "175",
+        "pais_titulo": "Singapur",
+        "nb_registros": "7"
+      },
+      {
+        "pais_id": "117",
+        "pais_titulo": "Lituania",
+        "nb_registros": "7"
+      },
+      {
+        "pais_id": "89",
+        "pais_titulo": "India",
+        "nb_registros": "6"
+      },
+      {
+        "pais_id": "153",
+        "pais_titulo": "Puerto Rico",
+        "nb_registros": "6"
+      },
+      {
+        "pais_id": "44",
+        "pais_titulo": "Croacia",
+        "nb_registros": "6"
+      },
+      {
+        "pais_id": "121",
+        "pais_titulo": "Malasia",
+        "nb_registros": "5"
+      },
+      {
+        "pais_id": "73",
+        "pais_titulo": "Grecia",
+        "nb_registros": "5"
+      },
+      {
+        "pais_id": "196",
+        "pais_titulo": "Ucrania",
+        "nb_registros": "5"
+      },
+      {
+        "pais_id": "94",
+        "pais_titulo": "Islandia",
+        "nb_registros": "4"
+      },
+      {
+        "pais_id": "147",
+        "pais_titulo": "Panamá",
+        "nb_registros": "3"
+      },
+      {
+        "pais_id": "116",
+        "pais_titulo": "Liechtensein",
+        "nb_registros": "3"
+      },
+      {
+        "pais_id": "149",
+        "pais_titulo": "Paraguay",
+        "nb_registros": "3"
+      },
+      {
+        "pais_id": "113",
+        "pais_titulo": "Líbano",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "35",
+        "pais_titulo": "Cabo Verde",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "54",
+        "pais_titulo": "Egipto",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "56",
+        "pais_titulo": "Emiratos Arabes Unidos",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "125",
+        "pais_titulo": "Marruecos",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "77",
+        "pais_titulo": "Guatemala",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "92",
+        "pais_titulo": "Irán",
+        "nb_registros": "2"
+      },
+      {
+        "pais_id": "37",
+        "pais_titulo": "Camerún",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "90",
+        "pais_titulo": "Indonesia",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "139",
+        "pais_titulo": "Nicaragua",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "45",
+        "pais_titulo": "Cuba",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "124",
+        "pais_titulo": "Malta",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "10",
+        "pais_titulo": "Argelia",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "212",
+        "pais_titulo": "Mali",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "55",
+        "pais_titulo": "El Salvador",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "3",
+        "pais_titulo": "Albania",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "6",
+        "pais_titulo": "Angola",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "185",
+        "pais_titulo": "Tailandia",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "52",
+        "pais_titulo": "Dominica",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "49",
+        "pais_titulo": "Chipre",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "24",
+        "pais_titulo": "Bermudas",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "141",
+        "pais_titulo": "Nigeria",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "5",
+        "pais_titulo": "Andorra",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "194",
+        "pais_titulo": "Turquía",
+        "nb_registros": "1"
+      },
+      {
+        "pais_id": "102",
+        "pais_titulo": "Jamaica",
+        "nb_registros": "1"
+      }
+    ],
+    "profesiones": [
+      {
+        "grupo_id": "6",
+        "grupo_titulo": "Empleados",
+        "nb_registros": "3750"
+      },
+      {
+        "grupo_id": "9",
+        "grupo_titulo": "Jubilados",
+        "nb_registros": "2677"
+      },
+      {
+        "grupo_id": "18",
+        "grupo_titulo": "Tecnicos",
+        "nb_registros": "2339"
+      },
+      {
+        "grupo_id": "10",
+        "grupo_titulo": "Liberales",
+        "nb_registros": "2062"
+      },
+      {
+        "grupo_id": "7",
+        "grupo_titulo": "Estudiantes",
+        "nb_registros": "1734"
+      },
+      {
+        "grupo_id": "8",
+        "grupo_titulo": "Funcionarios",
+        "nb_registros": "916"
+      },
+      {
+        "grupo_id": "15",
+        "grupo_titulo": "Profesores",
+        "nb_registros": "686"
+      },
+      {
+        "grupo_id": "12",
+        "grupo_titulo": "Obreros",
+        "nb_registros": "622"
+      },
+      {
+        "grupo_id": "14",
+        "grupo_titulo": "Parados",
+        "nb_registros": "508"
+      },
+      {
+        "grupo_id": "2",
+        "grupo_titulo": "Amas de Casa",
+        "nb_registros": "346"
+      },
+      {
+        "grupo_id": "5",
+        "grupo_titulo": "Directivos",
+        "nb_registros": "189"
+      },
+      {
+        "grupo_id": "3",
+        "grupo_titulo": "Artistas",
+        "nb_registros": "157"
+      },
+      {
+        "grupo_id": "17",
+        "grupo_titulo": "Sacerdotes",
+        "nb_registros": "86"
+      },
+      {
+        "grupo_id": "1",
+        "grupo_titulo": "Agricultores",
+        "nb_registros": "64"
+      },
+      {
+        "grupo_id": "11",
+        "grupo_titulo": "Marinos",
+        "nb_registros": "49"
+      },
+      {
+        "grupo_id": "4",
+        "grupo_titulo": "Deportistas",
+        "nb_registros": "29"
+      },
+      {
+        "grupo_id": "16",
+        "grupo_titulo": "Religiosas",
+        "nb_registros": "29"
+      }
+    ],
+    "procedencia": [
+      {
+        "procedencia_id": "2241",
+        "procedencia_titulo": "Sarria",
+        "nb_registros": "2958"
+      },
+      {
+        "procedencia_id": "2234",
+        "procedencia_titulo": "S. Jean P. Port",
+        "nb_registros": "2762"
+      },
+      {
+        "procedencia_id": "2146",
+        "procedencia_titulo": "Cebreiro",
+        "nb_registros": "981"
+      },
+      {
+        "procedencia_id": "2233",
+        "procedencia_titulo": "Roncesvalles",
+        "nb_registros": "829"
+      },
+      {
+        "procedencia_id": "2187",
+        "procedencia_titulo": "León",
+        "nb_registros": "798"
+      },
+      {
+        "procedencia_id": "2203",
+        "procedencia_titulo": "Oporto",
+        "nb_registros": "661"
+      },
+      {
+        "procedencia_id": "2252",
+        "procedencia_titulo": "Tui",
+        "nb_registros": "653"
+      },
+      {
+        "procedencia_id": "2216",
+        "procedencia_titulo": "Ponferrada",
+        "nb_registros": "585"
+      },
+      {
+        "procedencia_id": "2186",
+        "procedencia_titulo": "Le Puy",
+        "nb_registros": "450"
+      },
+      {
+        "procedencia_id": "2125",
+        "procedencia_titulo": "Astorga",
+        "nb_registros": "431"
+      },
+      {
+        "procedencia_id": "2210",
+        "procedencia_titulo": "Pamplona",
+        "nb_registros": "391"
+      },
+      {
+        "procedencia_id": "2136",
+        "procedencia_titulo": "Burgos",
+        "nb_registros": "337"
+      },
+      {
+        "procedencia_id": "2208",
+        "procedencia_titulo": "Oviedo - C.P.",
+        "nb_registros": "275"
+      },
+      {
+        "procedencia_id": "2161",
+        "procedencia_titulo": "Francia",
+        "nb_registros": "256"
+      },
+      {
+        "procedencia_id": "2242",
+        "procedencia_titulo": "Sevilla",
+        "nb_registros": "253"
+      },
+      {
+        "procedencia_id": "2230",
+        "procedencia_titulo": "Resto Portugal",
+        "nb_registros": "236"
+      },
+      {
+        "procedencia_id": "2179",
+        "procedencia_titulo": "Irún",
+        "nb_registros": "228"
+      },
+      {
+        "procedencia_id": "2261",
+        "procedencia_titulo": "Vilafranca",
+        "nb_registros": "223"
+      },
+      {
+        "procedencia_id": "2254",
+        "procedencia_titulo": "Valença do Minho",
+        "nb_registros": "183"
+      },
+      {
+        "procedencia_id": "2154",
+        "procedencia_titulo": "Ferrol",
+        "nb_registros": "178"
+      },
+      {
+        "procedencia_id": "2206",
+        "procedencia_titulo": "Ourense",
+        "nb_registros": "158"
+      },
+      {
+        "procedencia_id": "2238",
+        "procedencia_titulo": "Samos",
+        "nb_registros": "134"
+      },
+      {
+        "procedencia_id": "2225",
+        "procedencia_titulo": "Resto C. León",
+        "nb_registros": "94"
+      },
+      {
+        "procedencia_id": "2251",
+        "procedencia_titulo": "Triacastela",
+        "nb_registros": "88"
+      },
+      {
+        "procedencia_id": "2246",
+        "procedencia_titulo": "Somport",
+        "nb_registros": "87"
+      },
+      {
+        "procedencia_id": "2281",
+        "procedencia_titulo": "Alemania",
+        "nb_registros": "83"
+      },
+      {
+        "procedencia_id": "2189",
+        "procedencia_titulo": "Lisboa",
+        "nb_registros": "80"
+      },
+      {
+        "procedencia_id": "2269",
+        "procedencia_titulo": "Ponte de Lima",
+        "nb_registros": "80"
+      },
+      {
+        "procedencia_id": "2190",
+        "procedencia_titulo": "Logroño",
+        "nb_registros": "79"
+      },
+      {
+        "procedencia_id": "2193",
+        "procedencia_titulo": "Lugo - C.P.",
+        "nb_registros": "76"
+      },
+      {
+        "procedencia_id": "2236",
+        "procedencia_titulo": "Salamanca",
+        "nb_registros": "73"
+      },
+      {
+        "procedencia_id": "2133",
+        "procedencia_titulo": "Bilbao",
+        "nb_registros": "69"
+      },
+      {
+        "procedencia_id": "2262",
+        "procedencia_titulo": "Vilalba",
+        "nb_registros": "63"
+      },
+      {
+        "procedencia_id": "2248",
+        "procedencia_titulo": "Suiza",
+        "nb_registros": "56"
+      },
+      {
+        "procedencia_id": "2240",
+        "procedencia_titulo": "Santander",
+        "nb_registros": "49"
+      },
+      {
+        "procedencia_id": "2127",
+        "procedencia_titulo": "Avilés",
+        "nb_registros": "46"
+      },
+      {
+        "procedencia_id": "2164",
+        "procedencia_titulo": "Gijón",
+        "nb_registros": "45"
+      },
+      {
+        "procedencia_id": "2223",
+        "procedencia_titulo": "Resto Asturias",
+        "nb_registros": "45"
+      },
+      {
+        "procedencia_id": "2174",
+        "procedencia_titulo": "Holanda",
+        "nb_registros": "42"
+      },
+      {
+        "procedencia_id": "2268",
+        "procedencia_titulo": "Rabanal del Camino",
+        "nb_registros": "40"
+      },
+      {
+        "procedencia_id": "2229",
+        "procedencia_titulo": "Resto País Vasco",
+        "nb_registros": "38"
+      },
+      {
+        "procedencia_id": "2265",
+        "procedencia_titulo": "Zamora",
+        "nb_registros": "37"
+      },
+      {
+        "procedencia_id": "2220",
+        "procedencia_titulo": "Puebla de Sanabria",
+        "nb_registros": "33"
+      },
+      {
+        "procedencia_id": "2231",
+        "procedencia_titulo": "Ribadeo",
+        "nb_registros": "33"
+      },
+      {
+        "procedencia_id": "2181",
+        "procedencia_titulo": "Jaca",
+        "nb_registros": "33"
+      },
+      {
+        "procedencia_id": "2162",
+        "procedencia_titulo": "Frómista",
+        "nb_registros": "31"
+      },
+      {
+        "procedencia_id": "2219",
+        "procedencia_titulo": "Porriño",
+        "nb_registros": "30"
+      },
+      {
+        "procedencia_id": "2235",
+        "procedencia_titulo": "Sahagún",
+        "nb_registros": "30"
+      },
+      {
+        "procedencia_id": "2119",
+        "procedencia_titulo": "Vezelay",
+        "nb_registros": "27"
+      },
+      {
+        "procedencia_id": "2207",
+        "procedencia_titulo": "Oviedo",
+        "nb_registros": "26"
+      },
+      {
+        "procedencia_id": "2196",
+        "procedencia_titulo": "Madrid - C.F.",
+        "nb_registros": "25"
+      },
+      {
+        "procedencia_id": "2130",
+        "procedencia_titulo": "Bélgica",
+        "nb_registros": "24"
+      },
+      {
+        "procedencia_id": "2191",
+        "procedencia_titulo": "Lourdes",
+        "nb_registros": "24"
+      },
+      {
+        "procedencia_id": "2221",
+        "procedencia_titulo": "Puente la Reina",
+        "nb_registros": "24"
+      },
+      {
+        "procedencia_id": "2141",
+        "procedencia_titulo": "Carrión de los Condes",
+        "nb_registros": "21"
+      },
+      {
+        "procedencia_id": "2286",
+        "procedencia_titulo": "Francia",
+        "nb_registros": "21"
+      },
+      {
+        "procedencia_id": "2298",
+        "procedencia_titulo": "Baamonde",
+        "nb_registros": "20"
+      },
+      {
+        "procedencia_id": "2120",
+        "procedencia_titulo": "Arles",
+        "nb_registros": "20"
+      },
+      {
+        "procedencia_id": "2270",
+        "procedencia_titulo": "Xunqueira de Ambia",
+        "nb_registros": "19"
+      },
+      {
+        "procedencia_id": "2227",
+        "procedencia_titulo": "Resto Cantabria",
+        "nb_registros": "19"
+      },
+      {
+        "procedencia_id": "2285",
+        "procedencia_titulo": "Chaves-Portugal",
+        "nb_registros": "17"
+      },
+      {
+        "procedencia_id": "2195",
+        "procedencia_titulo": "Madrid",
+        "nb_registros": "16"
+      },
+      {
+        "procedencia_id": "2224",
+        "procedencia_titulo": "Resto Asturias - C.P.",
+        "nb_registros": "16"
+      },
+      {
+        "procedencia_id": "2123",
+        "procedencia_titulo": "Valencia",
+        "nb_registros": "16"
+      },
+      {
+        "procedencia_id": "2118",
+        "procedencia_titulo": "Vega de Valcarce",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2198",
+        "procedencia_titulo": "Mérida",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2266",
+        "procedencia_titulo": "Granja de Moreruela",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2280",
+        "procedencia_titulo": "Gudiña",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2144",
+        "procedencia_titulo": "Cataluña",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2185",
+        "procedencia_titulo": "Laza",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2169",
+        "procedencia_titulo": "Grandas de Salime - C.P.",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2126",
+        "procedencia_titulo": "Austria",
+        "nb_registros": "15"
+      },
+      {
+        "procedencia_id": "2295",
+        "procedencia_titulo": "San Sebastián",
+        "nb_registros": "14"
+      },
+      {
+        "procedencia_id": "2175",
+        "procedencia_titulo": "Hospital de Orbigo",
+        "nb_registros": "14"
+      },
+      {
+        "procedencia_id": "2158",
+        "procedencia_titulo": "Fonfría",
+        "nb_registros": "13"
+      },
+      {
+        "procedencia_id": "2276",
+        "procedencia_titulo": "Zaragoza",
+        "nb_registros": "13"
+      },
+      {
+        "procedencia_id": "2199",
+        "procedencia_titulo": "Mondoñedo",
+        "nb_registros": "12"
+      },
+      {
+        "procedencia_id": "2271",
+        "procedencia_titulo": "Resto Andalucia",
+        "nb_registros": "12"
+      },
+      {
+        "procedencia_id": "2173",
+        "procedencia_titulo": "Hendaya",
+        "nb_registros": "12"
+      },
+      {
+        "procedencia_id": "2314",
+        "procedencia_titulo": "Povoa de Varzim",
+        "nb_registros": "11"
+      },
+      {
+        "procedencia_id": "2247",
+        "procedencia_titulo": "Sto. Domingo de la Calzada",
+        "nb_registros": "11"
+      },
+      {
+        "procedencia_id": "2284",
+        "procedencia_titulo": "Com. Valenciana",
+        "nb_registros": "10"
+      },
+      {
+        "procedencia_id": "2313",
+        "procedencia_titulo": "Ponferrada. C.Inv.",
+        "nb_registros": "10"
+      },
+      {
+        "procedencia_id": "2226",
+        "procedencia_titulo": "Resto C. León - V.P.",
+        "nb_registros": "10"
+      },
+      {
+        "procedencia_id": "2213",
+        "procedencia_titulo": "París",
+        "nb_registros": "9"
+      },
+      {
+        "procedencia_id": "2228",
+        "procedencia_titulo": "Resto de Extremadura",
+        "nb_registros": "9"
+      },
+      {
+        "procedencia_id": "2135",
+        "procedencia_titulo": "Braga",
+        "nb_registros": "9"
+      },
+      {
+        "procedencia_id": "2160",
+        "procedencia_titulo": "Fonsagrada - C.P.",
+        "nb_registros": "9"
+      },
+      {
+        "procedencia_id": "2202",
+        "procedencia_titulo": "Neda",
+        "nb_registros": "8"
+      },
+      {
+        "procedencia_id": "2129",
+        "procedencia_titulo": "Barcelona",
+        "nb_registros": "8"
+      },
+      {
+        "procedencia_id": "2194",
+        "procedencia_titulo": "Luxemburgo",
+        "nb_registros": "7"
+      },
+      {
+        "procedencia_id": "2249",
+        "procedencia_titulo": "Tineo",
+        "nb_registros": "7"
+      },
+      {
+        "procedencia_id": "2122",
+        "procedencia_titulo": "Murcia",
+        "nb_registros": "7"
+      },
+      {
+        "procedencia_id": "2137",
+        "procedencia_titulo": "Cáceres",
+        "nb_registros": "7"
+      },
+      {
+        "procedencia_id": "2272",
+        "procedencia_titulo": "Lourenzá",
+        "nb_registros": "7"
+      },
+      {
+        "procedencia_id": "2296",
+        "procedencia_titulo": "Montserrat",
+        "nb_registros": "6"
+      },
+      {
+        "procedencia_id": "2168",
+        "procedencia_titulo": "Grandas de Salime",
+        "nb_registros": "6"
+      },
+      {
+        "procedencia_id": "2167",
+        "procedencia_titulo": "Granada",
+        "nb_registros": "6"
+      },
+      {
+        "procedencia_id": "2250",
+        "procedencia_titulo": "Tineo - C.P.",
+        "nb_registros": "6"
+      },
+      {
+        "procedencia_id": "2201",
+        "procedencia_titulo": "Nájera",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2308",
+        "procedencia_titulo": "Navarra",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2153",
+        "procedencia_titulo": "Estella",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2131",
+        "procedencia_titulo": "Benavente",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2139",
+        "procedencia_titulo": "Canfranc",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2148",
+        "procedencia_titulo": "Córdoba",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2307",
+        "procedencia_titulo": "San Sebastian",
+        "nb_registros": "5"
+      },
+      {
+        "procedencia_id": "2309",
+        "procedencia_titulo": "La Rioja",
+        "nb_registros": "4"
+      },
+      {
+        "procedencia_id": "2259",
+        "procedencia_titulo": "Vigo",
+        "nb_registros": "4"
+      },
+      {
+        "procedencia_id": "2279",
+        "procedencia_titulo": "R.Pais Vasco",
+        "nb_registros": "4"
+      },
+      {
+        "procedencia_id": "2255",
+        "procedencia_titulo": "Valladolid",
+        "nb_registros": "4"
+      },
+      {
+        "procedencia_id": "2200",
+        "procedencia_titulo": "Muxia",
+        "nb_registros": "4"
+      },
+      {
+        "procedencia_id": "2258",
+        "procedencia_titulo": "Verín",
+        "nb_registros": "4"
+      },
+      {
+        "procedencia_id": "2277",
+        "procedencia_titulo": "Polonia",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2273",
+        "procedencia_titulo": "Resto Europa",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2116",
+        "procedencia_titulo": "Reino Unido",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2278",
+        "procedencia_titulo": "Cadavo",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2289",
+        "procedencia_titulo": "Allariz",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2117",
+        "procedencia_titulo": "Castilla La Mancha",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2180",
+        "procedencia_titulo": "Italia",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2267",
+        "procedencia_titulo": "Malaga",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2147",
+        "procedencia_titulo": "Com. Valenciana",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2311",
+        "procedencia_titulo": "Molinaseca",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2176",
+        "procedencia_titulo": "Huelva",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2151",
+        "procedencia_titulo": "Dinamarca",
+        "nb_registros": "3"
+      },
+      {
+        "procedencia_id": "2232",
+        "procedencia_titulo": "Roma",
+        "nb_registros": "2"
+      },
+      {
+        "procedencia_id": "2159",
+        "procedencia_titulo": "Fonsagrada",
+        "nb_registros": "2"
+      },
+      {
+        "procedencia_id": "2142",
+        "procedencia_titulo": "Cast. la Mancha",
+        "nb_registros": "2"
+      },
+      {
+        "procedencia_id": "2312",
+        "procedencia_titulo": "La Rioja",
+        "nb_registros": "2"
+      },
+      {
+        "procedencia_id": "2115",
+        "procedencia_titulo": "Castilla la Mancha",
+        "nb_registros": "2"
+      },
+      {
+        "procedencia_id": "2237",
+        "procedencia_titulo": "Salas",
+        "nb_registros": "2"
+      },
+      {
+        "procedencia_id": "2287",
+        "procedencia_titulo": "Andorra",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2156",
+        "procedencia_titulo": "Cataluña",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2239",
+        "procedencia_titulo": "San Juan de Ortega",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2121",
+        "procedencia_titulo": "Republica Checa",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2283",
+        "procedencia_titulo": "A Guarda",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2177",
+        "procedencia_titulo": "Inglaterra",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2183",
+        "procedencia_titulo": "La Mesa",
+        "nb_registros": "1"
+      },
+      {
+        "procedencia_id": "2143",
+        "procedencia_titulo": "Castrojeriz",
+        "nb_registros": "1"
+      }
+    ],
+    "camino": [
+      {
+        "camino_id": null,
+        "camino_titulo": "Frances-Camino de",
+        "nb_registros": "12136"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Portugues-Camino",
+        "nb_registros": "1948"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Norte-Camino de",
+        "nb_registros": "780"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Via de la Plata",
+        "nb_registros": "740"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Primitivo-Camino",
+        "nb_registros": "403"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Ingles-Camino",
+        "nb_registros": "186"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Otros caminos",
+        "nb_registros": "46"
+      },
+      {
+        "camino_id": null,
+        "camino_titulo": "Muxia-Finisterre",
+        "nb_registros": "4"
+      }
+    ],
+    "created_at": "2012-08-29 19:11:09",
+    "updated_at": "2016-08-02 21:17:52",
+    "nb_ultimo_anno_santo": "26600"
+  }
+]

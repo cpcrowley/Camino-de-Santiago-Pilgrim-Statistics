@@ -3,7 +3,7 @@ var dropDownMenus = {}
 var debugModeCheckbox = null
 
 var paneDefinitions = [
-  {
+  /*{
     paneTitle: '',
     category: '',
     categoryPrefix: '',
@@ -14,30 +14,17 @@ var paneDefinitions = [
       'Debug mode: do NOT check this. It will cause the app to stop working.',
       false],
     ],
-  },
+  },*/
   {
     paneTitle: '',
     category: '',
     categoryPrefix: '',
-    title: 'About',
-    url: 'about',
-    formSpec: [],
-  },
-  {
-    paneTitle: '',
-    category: '',
-    categoryPrefix: '',
-    title: 'Notes',
-    url: 'notes',
-    formSpec: [],
-  },
-  {
-    paneTitle: 'Show pilgrim counts in various breakdowns',
-    category: 'Questions menu',
-    categoryPrefix: 'questions-menu',
-    title: 'How many pilgrims by year, month, gender, country, etc?',
+    title: 'Pilgrim counts',
     url: 'totals',
     formSpec: [
+      ['checkbox', 'debug-mode',
+      'Debug mode: do NOT check this. It will cause the app to stop working.',
+      false],
       ['select', 'by-what', 'Breakdown by', [
         {label:'Age', value:'by-age', selected:true},
         {label:'Month', value:'by-month', selected:false},
@@ -51,7 +38,23 @@ var paneDefinitions = [
         {label:'Spanish: region', value:'spanish-by-region', selected:false},
       ]],
     ]
-  }
+  },
+  {
+    paneTitle: '',
+    category: '',
+    categoryPrefix: '',
+    title: 'Notes',
+    url: 'notes',
+    formSpec: [],
+  },
+  {
+    paneTitle: '',
+    category: '',
+    categoryPrefix: '',
+    title: 'About',
+    url: 'about',
+    formSpec: [],
+  },
 ]
 
 //------------------------------------------------------------------------------
@@ -83,10 +86,11 @@ var recomputePane = function(pane) {
   })
   if (pane.url) {
     var host = 'http://thechar.com'
-    if (debugModeCheckbox) {
-      if (debugModeCheckbox[0].checked) {
-        host = 'http://rimac.local'
-      }
+    if (!debugModeCheckbox) {
+      debugModeCheckbox = $('.debug-mode')
+    }
+    if (debugModeCheckbox[0].checked) {
+      host = 'http://rimac.local'
     }
     $.get(host + ':3867/' + pane.url, paramsObject, function (serverHtml){
       pane.form.append(serverHtml)
@@ -151,9 +155,6 @@ var addPanesToTabMenu = function() {
       li = $('<li role="presentation"></li>').append(pane.link)
       $('#topline-tabs').append(li)
       if (pane.createImmediately) pane.link.click()
-      if (pane.title === 'Questions') {
-        debugModeCheckbox = pane.form.find('.debug-mode')
-      }
     }
   })
 };
