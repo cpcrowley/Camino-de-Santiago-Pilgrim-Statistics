@@ -3,25 +3,54 @@
     "year": "2015",
     "month": "1",
     "pilgrims": 1217,
-    "gender": {
-      "men": 783,
-      "women": 434
-    },
-    "transport": {
-      "walk": 1158,
-      "bicycle": 59,
-      "horse": 0
-    },
-    "age": {
-      "from30to60": 743,
-      "under30": 421,
-      "over60": 53
-    },
-    "motivation": {
-      "religious": 745,
-      "religiousAndOther": 346,
-      "notReligious": 126
-    },
+    "gender": [
+      [
+        "Hombre",
+        783
+      ],
+      [
+        "Mujer",
+        434
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        1158
+      ],
+      [
+        "Bicicleta",
+        59
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        743
+      ],
+      [
+        "< 30",
+        421
+      ],
+      [
+        "> 60",
+        53
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        745
+      ],
+      [
+        "Religioso",
+        346
+      ],
+      [
+        "No religioso",
+        126
+      ]
+    ],
     "spanishFrom": [
       [
         "Galicia",
@@ -102,7 +131,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         493
       ],
       [
@@ -202,7 +231,7 @@
         6
       ],
       [
-        "Suecia",
+        "Sweden",
         5
       ],
       [
@@ -230,7 +259,7 @@
         3
       ],
       [
-        "Phillipines",
+        "Philippines",
         3
       ],
       [
@@ -262,7 +291,7 @@
         2
       ],
       [
-        "Chipre",
+        "Cyprus",
         1
       ],
       [
@@ -274,7 +303,7 @@
         1
       ],
       [
-        "Malasia",
+        "Malaysia",
         1
       ],
       [
@@ -290,7 +319,7 @@
         1
       ],
       [
-        "Letonia",
+        "Latvia",
         1
       ],
       [
@@ -298,7 +327,7 @@
         1
       ],
       [
-        "Islandia",
+        "Iceland",
         1
       ],
       [
@@ -725,25 +754,54 @@
     "year": "2015",
     "month": "2",
     "pilgrims": 1544,
-    "gender": {
-      "men": 951,
-      "women": 593
-    },
-    "transport": {
-      "walk": 1468,
-      "bicycle": 76,
-      "horse": 0
-    },
-    "age": {
-      "from30to60": 799,
-      "under30": 672,
-      "over60": 73
-    },
-    "motivation": {
-      "religious": 947,
-      "religiousAndOther": 475,
-      "notReligious": 122
-    },
+    "gender": [
+      [
+        "Hombre",
+        951
+      ],
+      [
+        "Mujer",
+        593
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        1468
+      ],
+      [
+        "Bicicleta",
+        76
+      ]
+    ],
+    "age": [
+      [
+        "< 30",
+        799
+      ],
+      [
+        "30 - 60",
+        672
+      ],
+      [
+        "> 60",
+        73
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        947
+      ],
+      [
+        "Religioso",
+        475
+      ],
+      [
+        "No religioso",
+        122
+      ]
+    ],
     "spanishFrom": [
       [
         "Andalucía",
@@ -824,7 +882,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         667
       ],
       [
@@ -920,7 +978,7 @@
         6
       ],
       [
-        "South Africa",
+        "S. Africa",
         5
       ],
       [
@@ -980,7 +1038,7 @@
         3
       ],
       [
-        "Letonia",
+        "Latvia",
         2
       ],
       [
@@ -988,7 +1046,7 @@
         2
       ],
       [
-        "Suecia",
+        "Sweden",
         2
       ],
       [
@@ -996,7 +1054,7 @@
         2
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         1
       ],
       [
@@ -1423,25 +1481,58 @@
     "year": "2015",
     "month": "3",
     "pilgrims": 5080,
-    "gender": {
-      "men": 2832,
-      "women": 2248
-    },
-    "transport": {
-      "walk": 4806,
-      "bicycle": 270,
-      "horse": 4
-    },
-    "age": {
-      "from30to60": 2436,
-      "under30": 2229,
-      "over60": 415
-    },
-    "motivation": {
-      "religious": 2884,
-      "religiousAndOther": 1783,
-      "notReligious": 413
-    },
+    "gender": [
+      [
+        "Hombre",
+        2832
+      ],
+      [
+        "Mujer",
+        2248
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        4806
+      ],
+      [
+        "Bicicleta",
+        270
+      ],
+      [
+        "Silla de ruedas",
+        4
+      ]
+    ],
+    "age": [
+      [
+        "< 30",
+        2436
+      ],
+      [
+        "30 - 60",
+        2229
+      ],
+      [
+        "> 60",
+        415
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        2884
+      ],
+      [
+        "Religioso",
+        1783
+      ],
+      [
+        "No religioso",
+        413
+      ]
+    ],
     "spanishFrom": [
       [
         "Madrid",
@@ -1526,7 +1617,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         2891
       ],
       [
@@ -1646,7 +1737,7 @@
         7
       ],
       [
-        "Suecia",
+        "Sweden",
         7
       ],
       [
@@ -1666,7 +1757,7 @@
         5
       ],
       [
-        "South Africa",
+        "S. Africa",
         5
       ],
       [
@@ -1678,7 +1769,7 @@
         4
       ],
       [
-        "Phillipines",
+        "Philippines",
         4
       ],
       [
@@ -1686,7 +1777,7 @@
         3
       ],
       [
-        "Islandia",
+        "Iceland",
         3
       ],
       [
@@ -1694,7 +1785,7 @@
         3
       ],
       [
-        "Malasia",
+        "Malaysia",
         3
       ],
       [
@@ -1702,7 +1793,7 @@
         3
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         3
       ],
       [
@@ -1778,7 +1869,7 @@
         1
       ],
       [
-        "Chipre",
+        "Cyprus",
         1
       ],
       [
@@ -2353,25 +2444,62 @@
     "year": "2015",
     "month": "4",
     "pilgrims": 17722,
-    "gender": {
-      "men": 9186,
-      "women": 8536
-    },
-    "transport": {
-      "walk": 16181,
-      "bicycle": 1485,
-      "horse": 55
-    },
-    "age": {
-      "from30to60": 9966,
-      "under30": 5090,
-      "over60": 2666
-    },
-    "motivation": {
-      "religious": 9533,
-      "religiousAndOther": 6453,
-      "notReligious": 1736
-    },
+    "gender": [
+      [
+        "Hombre",
+        9186
+      ],
+      [
+        "Mujer",
+        8536
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        16181
+      ],
+      [
+        "Bicicleta",
+        1485
+      ],
+      [
+        "Caballo",
+        55
+      ],
+      [
+        "Silla de ruedas",
+        1
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        9966
+      ],
+      [
+        "< 30",
+        5090
+      ],
+      [
+        "> 60",
+        2666
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        9533
+      ],
+      [
+        "Religioso",
+        6453
+      ],
+      [
+        "No religioso",
+        1736
+      ]
+    ],
     "spanishFrom": [
       [
         "Madrid",
@@ -2456,7 +2584,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         8728
       ],
       [
@@ -2544,11 +2672,11 @@
         93
       ],
       [
-        "Suecia",
+        "Sweden",
         85
       ],
       [
-        "South Africa",
+        "S. Africa",
         78
       ],
       [
@@ -2588,7 +2716,7 @@
         28
       ],
       [
-        "Islandia",
+        "Iceland",
         28
       ],
       [
@@ -2624,7 +2752,7 @@
         16
       ],
       [
-        "Malasia",
+        "Malaysia",
         16
       ],
       [
@@ -2640,7 +2768,7 @@
         12
       ],
       [
-        "Phillipines",
+        "Philippines",
         11
       ],
       [
@@ -2656,7 +2784,7 @@
         10
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         9
       ],
       [
@@ -2696,7 +2824,7 @@
         5
       ],
       [
-        "Liberia",
+        "Lebanon",
         5
       ],
       [
@@ -2720,7 +2848,7 @@
         3
       ],
       [
-        "Letonia",
+        "Latvia",
         3
       ],
       [
@@ -2748,7 +2876,7 @@
         2
       ],
       [
-        "Chipre",
+        "Cyprus",
         2
       ],
       [
@@ -3519,25 +3647,62 @@
     "year": "2015",
     "month": "5",
     "pilgrims": 31078,
-    "gender": {
-      "men": 17127,
-      "women": 13951
-    },
-    "transport": {
-      "walk": 27090,
-      "bicycle": 3943,
-      "horse": 42
-    },
-    "age": {
-      "from30to60": 18001,
-      "under30": 8524,
-      "over60": 4553
-    },
-    "motivation": {
-      "religious": 17522,
-      "religiousAndOther": 11349,
-      "notReligious": 2207
-    },
+    "gender": [
+      [
+        "Hombre",
+        17127
+      ],
+      [
+        "Mujer",
+        13951
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        27090
+      ],
+      [
+        "Bicicleta",
+        3943
+      ],
+      [
+        "Caballo",
+        42
+      ],
+      [
+        "Silla de ruedas",
+        3
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        18001
+      ],
+      [
+        "> 60",
+        8524
+      ],
+      [
+        "< 30",
+        4553
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        17522
+      ],
+      [
+        "Religioso",
+        11349
+      ],
+      [
+        "No religioso",
+        2207
+      ]
+    ],
     "spanishFrom": [
       [
         "Madrid",
@@ -3622,7 +3787,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         9037
       ],
       [
@@ -3714,7 +3879,7 @@
         174
       ],
       [
-        "Suecia",
+        "Sweden",
         157
       ],
       [
@@ -3730,7 +3895,7 @@
         124
       ],
       [
-        "South Africa",
+        "S. Africa",
         114
       ],
       [
@@ -3790,11 +3955,11 @@
         29
       ],
       [
-        "Phillipines",
+        "Philippines",
         28
       ],
       [
-        "Letonia",
+        "Latvia",
         28
       ],
       [
@@ -3802,7 +3967,7 @@
         23
       ],
       [
-        "Islandia",
+        "Iceland",
         23
       ],
       [
@@ -3826,7 +3991,7 @@
         18
       ],
       [
-        "Malasia",
+        "Malaysia",
         17
       ],
       [
@@ -3854,7 +4019,7 @@
         9
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         9
       ],
       [
@@ -3874,7 +4039,7 @@
         6
       ],
       [
-        "Liberia",
+        "Lebanon",
         6
       ],
       [
@@ -3982,7 +4147,7 @@
         1
       ],
       [
-        "Chipre",
+        "Cyprus",
         1
       ],
       [
@@ -4785,25 +4950,62 @@
     "year": "2015",
     "month": "6",
     "pilgrims": 35925,
-    "gender": {
-      "men": 19254,
-      "women": 16671
-    },
-    "transport": {
-      "walk": 31444,
-      "bicycle": 4431,
-      "horse": 44
-    },
-    "age": {
-      "from30to60": 20061,
-      "under30": 8867,
-      "over60": 6997
-    },
-    "motivation": {
-      "religious": 19955,
-      "religiousAndOther": 13182,
-      "notReligious": 2788
-    },
+    "gender": [
+      [
+        "Hombre",
+        19254
+      ],
+      [
+        "Mujer",
+        16671
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        31444
+      ],
+      [
+        "Bicicleta",
+        4431
+      ],
+      [
+        "Caballo",
+        44
+      ],
+      [
+        "Silla de ruedas",
+        6
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        20061
+      ],
+      [
+        "> 60",
+        8867
+      ],
+      [
+        "< 30",
+        6997
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        19955
+      ],
+      [
+        "Religioso",
+        13182
+      ],
+      [
+        "No religioso",
+        2788
+      ]
+    ],
     "spanishFrom": [
       [
         "Madrid",
@@ -4888,7 +5090,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         13709
       ],
       [
@@ -4972,11 +5174,11 @@
         201
       ],
       [
-        "South Africa",
+        "S. Africa",
         165
       ],
       [
-        "Suecia",
+        "Sweden",
         156
       ],
       [
@@ -5012,7 +5214,7 @@
         103
       ],
       [
-        "Islandia",
+        "Iceland",
         77
       ],
       [
@@ -5052,7 +5254,7 @@
         33
       ],
       [
-        "Phillipines",
+        "Philippines",
         33
       ],
       [
@@ -5072,7 +5274,7 @@
         28
       ],
       [
-        "Letonia",
+        "Latvia",
         25
       ],
       [
@@ -5116,7 +5318,7 @@
         12
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         11
       ],
       [
@@ -5164,11 +5366,11 @@
         5
       ],
       [
-        "Chipre",
+        "Cyprus",
         5
       ],
       [
-        "Malasia",
+        "Malaysia",
         5
       ],
       [
@@ -5196,7 +5398,7 @@
         4
       ],
       [
-        "Liberia",
+        "Lebanon",
         4
       ],
       [
@@ -6047,25 +6249,62 @@
     "year": "2015",
     "month": "7",
     "pilgrims": 44799,
-    "gender": {
-      "men": 22949,
-      "women": 21850
-    },
-    "transport": {
-      "walk": 41164,
-      "bicycle": 3591,
-      "horse": 33
-    },
-    "age": {
-      "from30to60": 21617,
-      "under30": 18723,
-      "over60": 4459
-    },
-    "motivation": {
-      "religious": 22020,
-      "religiousAndOther": 19368,
-      "notReligious": 3411
-    },
+    "gender": [
+      [
+        "Hombre",
+        22949
+      ],
+      [
+        "Mujer",
+        21850
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        41164
+      ],
+      [
+        "Bicicleta",
+        3591
+      ],
+      [
+        "Caballo",
+        33
+      ],
+      [
+        "Silla de ruedas",
+        11
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        21617
+      ],
+      [
+        "< 30",
+        18723
+      ],
+      [
+        "> 60",
+        4459
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        22020
+      ],
+      [
+        "Religioso",
+        19368
+      ],
+      [
+        "No religioso",
+        3411
+      ]
+    ],
     "spanishFrom": [
       [
         "Andalucía",
@@ -6150,7 +6389,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         27075
       ],
       [
@@ -6230,7 +6469,7 @@
         180
       ],
       [
-        "Suecia",
+        "Sweden",
         163
       ],
       [
@@ -6250,7 +6489,7 @@
         132
       ],
       [
-        "South Africa",
+        "S. Africa",
         108
       ],
       [
@@ -6334,7 +6573,7 @@
         32
       ],
       [
-        "Liberia",
+        "Lebanon",
         28
       ],
       [
@@ -6346,7 +6585,7 @@
         19
       ],
       [
-        "Phillipines",
+        "Philippines",
         19
       ],
       [
@@ -6374,7 +6613,7 @@
         12
       ],
       [
-        "Letonia",
+        "Latvia",
         12
       ],
       [
@@ -6386,7 +6625,7 @@
         10
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         9
       ],
       [
@@ -6406,7 +6645,7 @@
         7
       ],
       [
-        "Malasia",
+        "Malaysia",
         7
       ],
       [
@@ -6414,7 +6653,7 @@
         7
       ],
       [
-        "Islandia",
+        "Iceland",
         7
       ],
       [
@@ -6446,7 +6685,7 @@
         3
       ],
       [
-        "Chipre",
+        "Cyprus",
         3
       ],
       [
@@ -7377,25 +7616,62 @@
     "year": "2015",
     "month": "8",
     "pilgrims": 54796,
-    "gender": {
-      "men": 29071,
-      "women": 25725
-    },
-    "transport": {
-      "walk": 49196,
-      "bicycle": 5500,
-      "horse": 84
-    },
-    "age": {
-      "from30to60": 30779,
-      "under30": 20810,
-      "over60": 3207
-    },
-    "motivation": {
-      "religious": 28355,
-      "religiousAndOther": 21279,
-      "notReligious": 5162
-    },
+    "gender": [
+      [
+        "Hombre",
+        29071
+      ],
+      [
+        "Mujer",
+        25725
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        49196
+      ],
+      [
+        "Bicicleta",
+        5500
+      ],
+      [
+        "Caballo",
+        84
+      ],
+      [
+        "Silla de ruedas",
+        16
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        30779
+      ],
+      [
+        "< 30",
+        20810
+      ],
+      [
+        "> 60",
+        3207
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        28355
+      ],
+      [
+        "Religioso",
+        21279
+      ],
+      [
+        "No religioso",
+        5162
+      ]
+    ],
     "spanishFrom": [
       [
         "Andalucía",
@@ -7480,7 +7756,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         33223
       ],
       [
@@ -7592,7 +7868,7 @@
         84
       ],
       [
-        "Suecia",
+        "Sweden",
         82
       ],
       [
@@ -7652,7 +7928,7 @@
         29
       ],
       [
-        "South Africa",
+        "S. Africa",
         29
       ],
       [
@@ -7684,11 +7960,11 @@
         20
       ],
       [
-        "Letonia",
+        "Latvia",
         20
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         18
       ],
       [
@@ -7700,7 +7976,7 @@
         16
       ],
       [
-        "Phillipines",
+        "Philippines",
         15
       ],
       [
@@ -7756,7 +8032,7 @@
         5
       ],
       [
-        "Liberia",
+        "Lebanon",
         4
       ],
       [
@@ -7764,7 +8040,7 @@
         4
       ],
       [
-        "Malasia",
+        "Malaysia",
         4
       ],
       [
@@ -7776,7 +8052,7 @@
         4
       ],
       [
-        "Chipre",
+        "Cyprus",
         4
       ],
       [
@@ -7852,7 +8128,7 @@
         1
       ],
       [
-        "Islandia",
+        "Iceland",
         1
       ],
       [
@@ -8679,25 +8955,62 @@
     "year": "2015",
     "month": "9",
     "pilgrims": 37433,
-    "gender": {
-      "men": 18951,
-      "women": 18482
-    },
-    "transport": {
-      "walk": 33592,
-      "bicycle": 3802,
-      "horse": 30
-    },
-    "age": {
-      "from30to60": 20950,
-      "under30": 8277,
-      "over60": 8206
-    },
-    "motivation": {
-      "religious": 20111,
-      "religiousAndOther": 14283,
-      "notReligious": 3039
-    },
+    "gender": [
+      [
+        "Hombre",
+        18951
+      ],
+      [
+        "Mujer",
+        18482
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        33592
+      ],
+      [
+        "Bicicleta",
+        3802
+      ],
+      [
+        "Caballo",
+        30
+      ],
+      [
+        "Silla de ruedas",
+        9
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        20950
+      ],
+      [
+        "> 60",
+        8277
+      ],
+      [
+        "< 30",
+        8206
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        20111
+      ],
+      [
+        "Religioso",
+        14283
+      ],
+      [
+        "No religioso",
+        3039
+      ]
+    ],
     "spanishFrom": [
       [
         "Andalucía",
@@ -8782,7 +9095,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         15367
       ],
       [
@@ -8866,7 +9179,7 @@
         231
       ],
       [
-        "Suecia",
+        "Sweden",
         228
       ],
       [
@@ -8878,7 +9191,7 @@
         189
       ],
       [
-        "South Africa",
+        "S. Africa",
         187
       ],
       [
@@ -8930,7 +9243,7 @@
         64
       ],
       [
-        "Phillipines",
+        "Philippines",
         62
       ],
       [
@@ -8946,7 +9259,7 @@
         44
       ],
       [
-        "Islandia",
+        "Iceland",
         42
       ],
       [
@@ -8954,7 +9267,7 @@
         41
       ],
       [
-        "Letonia",
+        "Latvia",
         36
       ],
       [
@@ -8978,7 +9291,7 @@
         28
       ],
       [
-        "Malasia",
+        "Malaysia",
         26
       ],
       [
@@ -9010,11 +9323,11 @@
         11
       ],
       [
-        "Liberia",
+        "Lebanon",
         10
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         10
       ],
       [
@@ -9114,7 +9427,7 @@
         2
       ],
       [
-        "Chipre",
+        "Cyprus",
         2
       ],
       [
@@ -9937,25 +10250,62 @@
     "year": "2015",
     "month": "10",
     "pilgrims": 25574,
-    "gender": {
-      "men": 13352,
-      "women": 12222
-    },
-    "transport": {
-      "walk": 23782,
-      "bicycle": 1741,
-      "horse": 36
-    },
-    "age": {
-      "from30to60": 14516,
-      "under30": 6312,
-      "over60": 4746
-    },
-    "motivation": {
-      "religious": 14949,
-      "religiousAndOther": 9261,
-      "notReligious": 1364
-    },
+    "gender": [
+      [
+        "Hombre",
+        13352
+      ],
+      [
+        "Mujer",
+        12222
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        23782
+      ],
+      [
+        "Bicicleta",
+        1741
+      ],
+      [
+        "Caballo",
+        36
+      ],
+      [
+        "Silla de ruedas",
+        15
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        14516
+      ],
+      [
+        "> 60",
+        6312
+      ],
+      [
+        "< 30",
+        4746
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        14949
+      ],
+      [
+        "Religioso",
+        9261
+      ],
+      [
+        "No religioso",
+        1364
+      ]
+    ],
     "spanishFrom": [
       [
         "Madrid",
@@ -10040,7 +10390,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         8030
       ],
       [
@@ -10112,7 +10462,7 @@
         192
       ],
       [
-        "Suecia",
+        "Sweden",
         183
       ],
       [
@@ -10156,7 +10506,7 @@
         103
       ],
       [
-        "South Africa",
+        "S. Africa",
         102
       ],
       [
@@ -10180,7 +10530,7 @@
         72
       ],
       [
-        "Phillipines",
+        "Philippines",
         54
       ],
       [
@@ -10196,7 +10546,7 @@
         39
       ],
       [
-        "Letonia",
+        "Latvia",
         38
       ],
       [
@@ -10232,7 +10582,7 @@
         22
       ],
       [
-        "Islandia",
+        "Iceland",
         17
       ],
       [
@@ -10272,11 +10622,11 @@
         8
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         8
       ],
       [
-        "Malasia",
+        "Malaysia",
         8
       ],
       [
@@ -10304,11 +10654,11 @@
         4
       ],
       [
-        "Chipre",
+        "Cyprus",
         3
       ],
       [
-        "Liberia",
+        "Lebanon",
         3
       ],
       [
@@ -11147,25 +11497,58 @@
     "year": "2015",
     "month": "11",
     "pilgrims": 5229,
-    "gender": {
-      "men": 3105,
-      "women": 2124
-    },
-    "transport": {
-      "walk": 4924,
-      "bicycle": 299,
-      "horse": 6
-    },
-    "age": {
-      "from30to60": 3179,
-      "under30": 1329,
-      "over60": 721
-    },
-    "motivation": {
-      "religious": 3595,
-      "religiousAndOther": 1317,
-      "notReligious": 317
-    },
+    "gender": [
+      [
+        "Hombre",
+        3105
+      ],
+      [
+        "Mujer",
+        2124
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        4924
+      ],
+      [
+        "Bicicleta",
+        299
+      ],
+      [
+        "Silla de ruedas",
+        6
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        3179
+      ],
+      [
+        "< 30",
+        1329
+      ],
+      [
+        "> 60",
+        721
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        3595
+      ],
+      [
+        "Religioso",
+        1317
+      ],
+      [
+        "No religioso",
+        317
+      ]
+    ],
     "spanishFrom": [
       [
         "Galicia",
@@ -11242,7 +11625,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         2071
       ],
       [
@@ -11342,7 +11725,7 @@
         25
       ],
       [
-        "Suecia",
+        "Sweden",
         23
       ],
       [
@@ -11366,7 +11749,7 @@
         13
       ],
       [
-        "South Africa",
+        "S. Africa",
         13
       ],
       [
@@ -11398,7 +11781,7 @@
         8
       ],
       [
-        "Letonia",
+        "Latvia",
         8
       ],
       [
@@ -11414,7 +11797,7 @@
         7
       ],
       [
-        "Phillipines",
+        "Philippines",
         7
       ],
       [
@@ -11450,7 +11833,7 @@
         3
       ],
       [
-        "Malasia",
+        "Malaysia",
         3
       ],
       [
@@ -12137,25 +12520,58 @@
     "year": "2015",
     "month": "12",
     "pilgrims": 2062,
-    "gender": {
-      "men": 1368,
-      "women": 694
-    },
-    "transport": {
-      "walk": 1911,
-      "bicycle": 149,
-      "horse": 2
-    },
-    "age": {
-      "from30to60": 1318,
-      "under30": 581,
-      "over60": 163
-    },
-    "motivation": {
-      "religious": 1353,
-      "religiousAndOther": 585,
-      "notReligious": 124
-    },
+    "gender": [
+      [
+        "Hombre",
+        1368
+      ],
+      [
+        "Mujer",
+        694
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        1911
+      ],
+      [
+        "Bicicleta",
+        149
+      ],
+      [
+        "Caballo",
+        2
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        1318
+      ],
+      [
+        "< 30",
+        581
+      ],
+      [
+        "> 60",
+        163
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        1353
+      ],
+      [
+        "Religioso",
+        585
+      ],
+      [
+        "No religioso",
+        124
+      ]
+    ],
     "spanishFrom": [
       [
         "Galicia",
@@ -12232,7 +12648,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         1096
       ],
       [
@@ -12368,7 +12784,7 @@
         3
       ],
       [
-        "Letonia",
+        "Latvia",
         3
       ],
       [
@@ -12388,7 +12804,7 @@
         2
       ],
       [
-        "Suecia",
+        "Sweden",
         2
       ],
       [
@@ -12400,7 +12816,7 @@
         2
       ],
       [
-        "South Africa",
+        "S. Africa",
         2
       ],
       [
@@ -12999,25 +13415,62 @@
     "year": "2015",
     "month": "",
     "pilgrims": 262459,
-    "gender": {
-      "men": 138929,
-      "women": 123530
-    },
-    "transport": {
-      "walk": 236716,
-      "bicycle": 25346,
-      "horse": 336
-    },
-    "age": {
-      "from30to60": 144365,
-      "under30": 81835,
-      "over60": 36259
-    },
-    "motivation": {
-      "religious": 141969,
-      "religiousAndOther": 99681,
-      "notReligious": 20809
-    },
+    "gender": [
+      [
+        "Hombre",
+        138929
+      ],
+      [
+        "Mujer",
+        123530
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        236716
+      ],
+      [
+        "Bicicleta",
+        25346
+      ],
+      [
+        "Silla de ruedas",
+        71
+      ],
+      [
+        "Caballo",
+        326
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        144031
+      ],
+      [
+        "< 30",
+        74691
+      ],
+      [
+        "> 60",
+        43737
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        141969
+      ],
+      [
+        "Religioso",
+        99681
+      ],
+      [
+        "No religioso",
+        20809
+      ]
+    ],
     "spanishFrom": [
       [
         "Madrid",
@@ -13102,7 +13555,7 @@
     ],
     "byCountry": [
       [
-        "Espana",
+        "Spain",
         122387
       ],
       [
@@ -13194,7 +13647,7 @@
         1145
       ],
       [
-        "Suecia",
+        "Sweden",
         1093
       ],
       [
@@ -13210,7 +13663,7 @@
         823
       ],
       [
-        "South Africa",
+        "S. Africa",
         808
       ],
       [
@@ -13270,7 +13723,7 @@
         247
       ],
       [
-        "Phillipines",
+        "Philippines",
         236
       ],
       [
@@ -13278,7 +13731,7 @@
         230
       ],
       [
-        "Islandia",
+        "Iceland",
         199
       ],
       [
@@ -13290,7 +13743,7 @@
         181
       ],
       [
-        "Letonia",
+        "Latvia",
         176
       ],
       [
@@ -13322,11 +13775,11 @@
         95
       ],
       [
-        "Malasia",
+        "Malaysia",
         90
       ],
       [
-        "Dominican Rep.",
+        "Dom. Rep.",
         78
       ],
       [
@@ -13350,7 +13803,7 @@
         61
       ],
       [
-        "Liberia",
+        "Lebanon",
         60
       ],
       [
@@ -13406,7 +13859,7 @@
         22
       ],
       [
-        "Chipre",
+        "Cyprus",
         22
       ],
       [

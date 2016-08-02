@@ -3,18 +3,6 @@ var dropDownMenus = {}
 var debugModeCheckbox = null
 
 var paneDefinitions = [
-  /*{
-    paneTitle: '',
-    category: '',
-    categoryPrefix: '',
-    title: 'Questions',
-    createImmediately: true,
-    formSpec: [
-      ['checkbox', 'debug-mode',
-      'Debug mode: do NOT check this. It will cause the app to stop working.',
-      false],
-    ],
-  },*/
   {
     paneTitle: '',
     category: '',
@@ -22,21 +10,28 @@ var paneDefinitions = [
     title: 'Pilgrim counts',
     url: 'totals',
     formSpec: [
+      ['select', 'by-what', 'Breakdown by', [
+        {label:'Age of pilgrims', value:'by-age', selected:true},
+        {label:'Month they completed the Camino', value:'by-month', selected:false},
+        {label:'Gender of pilgrims', value:'by-gender', selected:false},
+        {label:'Country of origin', value:'by-country', selected:false},
+        {label:'Which Camino they traveled', value:'by-camino', selected:false},
+        {label:'Where they started', value:'by-starting-point', selected:false},
+        {label:'Method of transport', value:'by-transport', selected:false},
+        {label:'Reason for pilgramage', value:'by-reason', selected:false},
+        {label:'Profession of pilgrims', value:'by-profession', selected:false},
+        {label:'Spanish pilgrims by region', value:'spanish-by-region', selected:false},
+      ]],
+      ['select', 'max-columns', 'Maximum number of columns to show', [
+        {label:'15', value:'15', selected:true},
+        {label:'25', value:'25', selected:false},
+        {label:'35', value:'35', selected:false},
+        {label:'50', value:'50', selected:false},
+        {label:'All columns', value:'9999', selected:false},
+      ]],
       ['checkbox', 'debug-mode',
       'Debug mode: do NOT check this. It will cause the app to stop working.',
       false],
-      ['select', 'by-what', 'Breakdown by', [
-        {label:'Age', value:'by-age', selected:true},
-        {label:'Month', value:'by-month', selected:false},
-        {label:'Gender', value:'by-gender', selected:false},
-        {label:'Country', value:'by-country', selected:false},
-        {label:'Camino', value:'by-camino', selected:false},
-        {label:'Starting point', value:'by-starting-point', selected:false},
-        {label:'Transport', value:'by-transport', selected:false},
-        {label:'Reason', value:'by-reason', selected:false},
-        {label:'Profession', value:'by-profession', selected:false},
-        {label:'Spanish: region', value:'spanish-by-region', selected:false},
-      ]],
     ]
   },
   {
@@ -257,7 +252,7 @@ var makeCheckbox = function(idBase, label, defaultValue) {
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
 var makeForm = function(formBody) {
-  return '<form class="form-horizontal" role="form">'
+  return '<form class="form-inline" role="form">'
   + '<div class="form-group">' + formBody + '</div></form>'
 };
 
