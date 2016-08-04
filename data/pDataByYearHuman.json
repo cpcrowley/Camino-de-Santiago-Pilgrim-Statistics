@@ -673,7 +673,7 @@
         11
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         39583
@@ -1215,6 +1215,176 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "Sarria",
+        39583
+      ],
+      [
+        "Lugo - Sarria",
+        28838
+      ],
+      [
+        "León",
+        28070
+      ],
+      [
+        "Navarra",
+        16910
+      ],
+      [
+        "Other",
+        11909
+      ],
+      [
+        "Ponte- vedra",
+        11769
+      ],
+      [
+        "St. Jean",
+        9343
+      ],
+      [
+        "Ourense",
+        5975
+      ],
+      [
+        "France - St. Jean",
+        4233
+      ],
+      [
+        "Port- ugal",
+        4069
+      ],
+      [
+        "Asturias",
+        3980
+      ],
+      [
+        "A Coruña",
+        3372
+      ],
+      [
+        "Burgos",
+        3356
+      ],
+      [
+        "La Rioja",
+        1256
+      ],
+      [
+        "Sevilla",
+        987
+      ],
+      [
+        "Palencia",
+        918
+      ],
+      [
+        "Cantabria",
+        767
+      ],
+      [
+        "Zamora",
+        672
+      ],
+      [
+        "Holland",
+        599
+      ],
+      [
+        "Huesca",
+        536
+      ],
+      [
+        "Gipuzkoa",
+        534
+      ],
+      [
+        "Badajoz",
+        496
+      ],
+      [
+        "Salamanca",
+        414
+      ],
+      [
+        "Belgium",
+        327
+      ],
+      [
+        "Vizcaya",
+        244
+      ],
+      [
+        "Madrid",
+        187
+      ],
+      [
+        "Switzerland",
+        175
+      ],
+      [
+        "Italy",
+        80
+      ],
+      [
+        "Austria",
+        73
+      ],
+      [
+        "Czech Republic",
+        71
+      ],
+      [
+        "Barcelona",
+        65
+      ],
+      [
+        "Cáceres",
+        43
+      ],
+      [
+        "Granada",
+        31
+      ],
+      [
+        "Huelva",
+        22
+      ],
+      [
+        "Córdoba",
+        13
+      ],
+      [
+        "Denmark",
+        7
+      ],
+      [
+        "Finland",
+        6
+      ],
+      [
+        "Valladolid",
+        6
+      ],
+      [
+        "Luxembourg",
+        5
+      ],
+      [
+        "Zaragoza",
+        1
+      ],
+      [
+        "Germany",
+        1
+      ],
+      [
+        "Murcia",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -1241,7 +1411,7 @@
         3092
       ],
       [
-        null,
+        "Other",
         642
       ],
       [
@@ -1900,7 +2070,7 @@
         69
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         14848
@@ -2470,6 +2640,192 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "León",
+        18205
+      ],
+      [
+        "Sarria",
+        14848
+      ],
+      [
+        "Navarra",
+        12844
+      ],
+      [
+        "Lugo - Sarria",
+        10485
+      ],
+      [
+        "St. Jean",
+        9851
+      ],
+      [
+        "Other",
+        5720
+      ],
+      [
+        "France - St. Jean",
+        3607
+      ],
+      [
+        "Port- ugal",
+        2845
+      ],
+      [
+        "Ponte- vedra",
+        2662
+      ],
+      [
+        "Burgos",
+        2661
+      ],
+      [
+        "Ourense",
+        1126
+      ],
+      [
+        "La Rioja",
+        1084
+      ],
+      [
+        "Sevilla",
+        1004
+      ],
+      [
+        "Asturias",
+        908
+      ],
+      [
+        "A Coruña",
+        758
+      ],
+      [
+        "Gipuzkoa",
+        720
+      ],
+      [
+        "Holland",
+        671
+      ],
+      [
+        "Germany",
+        513
+      ],
+      [
+        "Huesca",
+        456
+      ],
+      [
+        "Palencia",
+        449
+      ],
+      [
+        "Cantabria",
+        411
+      ],
+      [
+        "Badajoz",
+        335
+      ],
+      [
+        "Vizcaya",
+        281
+      ],
+      [
+        "Zamora",
+        269
+      ],
+      [
+        "Belgium",
+        259
+      ],
+      [
+        "Switzerland",
+        188
+      ],
+      [
+        "Salamanca",
+        186
+      ],
+      [
+        "Madrid",
+        154
+      ],
+      [
+        "Austria",
+        78
+      ],
+      [
+        "Barcelona",
+        58
+      ],
+      [
+        "Italy",
+        58
+      ],
+      [
+        "Zaragoza",
+        56
+      ],
+      [
+        "Cáceres",
+        54
+      ],
+      [
+        "Málaga",
+        15
+      ],
+      [
+        "Huelva",
+        15
+      ],
+      [
+        "Denmark",
+        14
+      ],
+      [
+        "Europe Other",
+        11
+      ],
+      [
+        "Valladolid",
+        10
+      ],
+      [
+        "Granada",
+        10
+      ],
+      [
+        "Czech Republic",
+        10
+      ],
+      [
+        "Murcia",
+        9
+      ],
+      [
+        "Luxembourg",
+        8
+      ],
+      [
+        "Poland",
+        7
+      ],
+      [
+        "Hungary",
+        6
+      ],
+      [
+        "Córdoba",
+        4
+      ],
+      [
+        "Finland",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -2496,7 +2852,7 @@
         651
       ],
       [
-        null,
+        "Other",
         155
       ],
       [
@@ -3167,7 +3523,7 @@
         3
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         16215
@@ -3733,6 +4089,196 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "León",
+        18081
+      ],
+      [
+        "Sarria",
+        16215
+      ],
+      [
+        "Navarra",
+        12893
+      ],
+      [
+        "St. Jean",
+        10875
+      ],
+      [
+        "Lugo - Sarria",
+        10527
+      ],
+      [
+        "Other",
+        6519
+      ],
+      [
+        "France - St. Jean",
+        4315
+      ],
+      [
+        "Port- ugal",
+        4143
+      ],
+      [
+        "Burgos",
+        2858
+      ],
+      [
+        "Ponte- vedra",
+        2396
+      ],
+      [
+        "Asturias",
+        1386
+      ],
+      [
+        "Ourense",
+        1258
+      ],
+      [
+        "Sevilla",
+        1015
+      ],
+      [
+        "La Rioja",
+        997
+      ],
+      [
+        "A Coruña",
+        919
+      ],
+      [
+        "Gipuzkoa",
+        875
+      ],
+      [
+        "Holland",
+        726
+      ],
+      [
+        "Germany",
+        628
+      ],
+      [
+        "Cantabria",
+        555
+      ],
+      [
+        "Huesca",
+        415
+      ],
+      [
+        "Zamora",
+        360
+      ],
+      [
+        "Palencia",
+        345
+      ],
+      [
+        "Vizcaya",
+        331
+      ],
+      [
+        "Belgium",
+        315
+      ],
+      [
+        "Badajoz",
+        301
+      ],
+      [
+        "Switzerland",
+        232
+      ],
+      [
+        "Salamanca",
+        223
+      ],
+      [
+        "Madrid",
+        189
+      ],
+      [
+        "Austria",
+        78
+      ],
+      [
+        "Barcelona",
+        70
+      ],
+      [
+        "Zaragoza",
+        65
+      ],
+      [
+        "Cáceres",
+        62
+      ],
+      [
+        "Italy",
+        60
+      ],
+      [
+        "Europe Other",
+        32
+      ],
+      [
+        "Málaga",
+        21
+      ],
+      [
+        "Granada",
+        20
+      ],
+      [
+        "Córdoba",
+        20
+      ],
+      [
+        "Huelva",
+        13
+      ],
+      [
+        "Valladolid",
+        10
+      ],
+      [
+        "Murcia",
+        9
+      ],
+      [
+        "Luxembourg",
+        5
+      ],
+      [
+        "Denmark",
+        5
+      ],
+      [
+        "Poland",
+        5
+      ],
+      [
+        "Czech Republic",
+        4
+      ],
+      [
+        "Finland",
+        3
+      ],
+      [
+        "Andorra",
+        2
+      ],
+      [
+        "Hungary",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -3759,7 +4305,7 @@
         804
       ],
       [
-        null,
+        "Other",
         120
       ],
       [
@@ -4474,7 +5020,7 @@
         121
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         18969
@@ -5048,6 +5594,192 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "León",
+        19371
+      ],
+      [
+        "Sarria",
+        18969
+      ],
+      [
+        "St. Jean",
+        14040
+      ],
+      [
+        "Navarra",
+        13193
+      ],
+      [
+        "Lugo - Sarria",
+        11786
+      ],
+      [
+        "Other",
+        6681
+      ],
+      [
+        "Port- ugal",
+        5334
+      ],
+      [
+        "France - St. Jean",
+        4627
+      ],
+      [
+        "Burgos",
+        3020
+      ],
+      [
+        "Ponte- vedra",
+        2910
+      ],
+      [
+        "Asturias",
+        2336
+      ],
+      [
+        "Sevilla",
+        1432
+      ],
+      [
+        "Ourense",
+        1415
+      ],
+      [
+        "A Coruña",
+        1266
+      ],
+      [
+        "Gipuzkoa",
+        1096
+      ],
+      [
+        "La Rioja",
+        1082
+      ],
+      [
+        "Germany",
+        769
+      ],
+      [
+        "Holland",
+        637
+      ],
+      [
+        "Cantabria",
+        615
+      ],
+      [
+        "Vizcaya",
+        483
+      ],
+      [
+        "Palencia",
+        439
+      ],
+      [
+        "Huesca",
+        395
+      ],
+      [
+        "Switzerland",
+        323
+      ],
+      [
+        "Zamora",
+        314
+      ],
+      [
+        "Belgium",
+        284
+      ],
+      [
+        "Badajoz",
+        267
+      ],
+      [
+        "Salamanca",
+        261
+      ],
+      [
+        "Madrid",
+        222
+      ],
+      [
+        "Austria",
+        79
+      ],
+      [
+        "Zaragoza",
+        69
+      ],
+      [
+        "Italy",
+        60
+      ],
+      [
+        "Cáceres",
+        59
+      ],
+      [
+        "Barcelona",
+        55
+      ],
+      [
+        "Murcia",
+        20
+      ],
+      [
+        "Granada",
+        19
+      ],
+      [
+        "Córdoba",
+        18
+      ],
+      [
+        "Denmark",
+        15
+      ],
+      [
+        "Huelva",
+        13
+      ],
+      [
+        "Málaga",
+        12
+      ],
+      [
+        "Valladolid",
+        12
+      ],
+      [
+        "Czech Republic",
+        9
+      ],
+      [
+        "Luxembourg",
+        7
+      ],
+      [
+        "Europe Other",
+        5
+      ],
+      [
+        "Poland",
+        5
+      ],
+      [
+        "Hungary",
+        1
+      ],
+      [
+        "Andorra",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -5082,7 +5814,7 @@
         138
       ],
       [
-        null,
+        "Other",
         63
       ]
     ]
@@ -5749,7 +6481,7 @@
         113
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         20853
@@ -6323,6 +7055,196 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "León",
+        21016
+      ],
+      [
+        "Sarria",
+        20853
+      ],
+      [
+        "St. Jean",
+        15763
+      ],
+      [
+        "Navarra",
+        13835
+      ],
+      [
+        "Lugo - Sarria",
+        12644
+      ],
+      [
+        "Other",
+        7407
+      ],
+      [
+        "Port- ugal",
+        6220
+      ],
+      [
+        "France - St. Jean",
+        4450
+      ],
+      [
+        "Ponte- vedra",
+        3705
+      ],
+      [
+        "Burgos",
+        3246
+      ],
+      [
+        "Asturias",
+        2737
+      ],
+      [
+        "Ourense",
+        1716
+      ],
+      [
+        "Sevilla",
+        1703
+      ],
+      [
+        "A Coruña",
+        1531
+      ],
+      [
+        "Gipuzkoa",
+        1356
+      ],
+      [
+        "La Rioja",
+        1011
+      ],
+      [
+        "Holland",
+        733
+      ],
+      [
+        "Germany",
+        720
+      ],
+      [
+        "Cantabria",
+        713
+      ],
+      [
+        "Vizcaya",
+        566
+      ],
+      [
+        "Zamora",
+        473
+      ],
+      [
+        "Palencia",
+        369
+      ],
+      [
+        "Salamanca",
+        368
+      ],
+      [
+        "Huesca",
+        358
+      ],
+      [
+        "Switzerland",
+        331
+      ],
+      [
+        "Madrid",
+        271
+      ],
+      [
+        "Belgium",
+        230
+      ],
+      [
+        "Badajoz",
+        225
+      ],
+      [
+        "Barcelona",
+        116
+      ],
+      [
+        "Italy",
+        97
+      ],
+      [
+        "Cáceres",
+        76
+      ],
+      [
+        "Zaragoza",
+        72
+      ],
+      [
+        "Austria",
+        72
+      ],
+      [
+        "Murcia",
+        38
+      ],
+      [
+        "Málaga",
+        32
+      ],
+      [
+        "Granada",
+        30
+      ],
+      [
+        "Valladolid",
+        15
+      ],
+      [
+        "Huelva",
+        11
+      ],
+      [
+        "Poland",
+        10
+      ],
+      [
+        "Czech Republic",
+        6
+      ],
+      [
+        "Córdoba",
+        4
+      ],
+      [
+        "Europe Other",
+        4
+      ],
+      [
+        "Andorra",
+        3
+      ],
+      [
+        "Luxembourg",
+        2
+      ],
+      [
+        "Hungary",
+        1
+      ],
+      [
+        "Denmark",
+        1
+      ],
+      [
+        "Finland",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -6357,7 +7279,7 @@
         104
       ],
       [
-        null,
+        "Other",
         73
       ]
     ]
@@ -7076,7 +7998,7 @@
         20
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         26203
@@ -7674,6 +8596,200 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "Sarria",
+        26203
+      ],
+      [
+        "León",
+        24309
+      ],
+      [
+        "St. Jean",
+        15826
+      ],
+      [
+        "Navarra",
+        15059
+      ],
+      [
+        "Lugo - Sarria",
+        14846
+      ],
+      [
+        "Other",
+        9499
+      ],
+      [
+        "Port- ugal",
+        7762
+      ],
+      [
+        "France - St. Jean",
+        4828
+      ],
+      [
+        "Ponte- vedra",
+        4334
+      ],
+      [
+        "Burgos",
+        3818
+      ],
+      [
+        "Asturias",
+        3301
+      ],
+      [
+        "Ourense",
+        2146
+      ],
+      [
+        "Sevilla",
+        1905
+      ],
+      [
+        "Gipuzkoa",
+        1892
+      ],
+      [
+        "A Coruña",
+        1863
+      ],
+      [
+        "La Rioja",
+        1179
+      ],
+      [
+        "Cantabria",
+        1011
+      ],
+      [
+        "Zamora",
+        819
+      ],
+      [
+        "Germany",
+        729
+      ],
+      [
+        "Holland",
+        666
+      ],
+      [
+        "Vizcaya",
+        596
+      ],
+      [
+        "Palencia",
+        486
+      ],
+      [
+        "Salamanca",
+        460
+      ],
+      [
+        "Huesca",
+        399
+      ],
+      [
+        "Switzerland",
+        297
+      ],
+      [
+        "Madrid",
+        287
+      ],
+      [
+        "Badajoz",
+        265
+      ],
+      [
+        "Belgium",
+        261
+      ],
+      [
+        "Barcelona",
+        170
+      ],
+      [
+        "Zaragoza",
+        120
+      ],
+      [
+        "Austria",
+        118
+      ],
+      [
+        "Poland",
+        77
+      ],
+      [
+        "Cáceres",
+        74
+      ],
+      [
+        "Italy",
+        60
+      ],
+      [
+        "Europe Other",
+        44
+      ],
+      [
+        "Granada",
+        42
+      ],
+      [
+        "Málaga",
+        28
+      ],
+      [
+        "Córdoba",
+        26
+      ],
+      [
+        "Huelva",
+        24
+      ],
+      [
+        "Valladolid",
+        15
+      ],
+      [
+        "Murcia",
+        13
+      ],
+      [
+        "Czech Republic",
+        8
+      ],
+      [
+        "Denmark",
+        5
+      ],
+      [
+        "Luxembourg",
+        3
+      ],
+      [
+        "Hungary",
+        2
+      ],
+      [
+        "Russia",
+        1
+      ],
+      [
+        "Finland",
+        1
+      ],
+      [
+        "Andorra",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -7704,7 +8820,7 @@
         216
       ],
       [
-        null,
+        "Other",
         205
       ],
       [
@@ -8487,7 +9603,7 @@
         45
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         67730
@@ -9189,6 +10305,196 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "Sarria",
+        67730
+      ],
+      [
+        "Lugo - Sarria",
+        36334
+      ],
+      [
+        "León",
+        33936
+      ],
+      [
+        "Ponte- vedra",
+        19864
+      ],
+      [
+        "Navarra",
+        18279
+      ],
+      [
+        "St. Jean",
+        17833
+      ],
+      [
+        "Other",
+        15803
+      ],
+      [
+        "Port- ugal",
+        14561
+      ],
+      [
+        "Ourense",
+        8438
+      ],
+      [
+        "A Coruña",
+        8258
+      ],
+      [
+        "Asturias",
+        5957
+      ],
+      [
+        "France - St. Jean",
+        5202
+      ],
+      [
+        "Burgos",
+        4285
+      ],
+      [
+        "Gipuzkoa",
+        2698
+      ],
+      [
+        "Sevilla",
+        2385
+      ],
+      [
+        "Cantabria",
+        1584
+      ],
+      [
+        "Zamora",
+        1379
+      ],
+      [
+        "La Rioja",
+        1344
+      ],
+      [
+        "Vizcaya",
+        785
+      ],
+      [
+        "Holland",
+        721
+      ],
+      [
+        "Palencia",
+        693
+      ],
+      [
+        "Salamanca",
+        649
+      ],
+      [
+        "Madrid",
+        647
+      ],
+      [
+        "Germany",
+        603
+      ],
+      [
+        "Huesca",
+        495
+      ],
+      [
+        "Belgium",
+        266
+      ],
+      [
+        "Barcelona",
+        252
+      ],
+      [
+        "Switzerland",
+        252
+      ],
+      [
+        "Badajoz",
+        224
+      ],
+      [
+        "Zaragoza",
+        166
+      ],
+      [
+        "Cáceres",
+        117
+      ],
+      [
+        "Murcia",
+        101
+      ],
+      [
+        "Italy",
+        99
+      ],
+      [
+        "Granada",
+        88
+      ],
+      [
+        "Austria",
+        77
+      ],
+      [
+        "Europe Other",
+        71
+      ],
+      [
+        "Córdoba",
+        58
+      ],
+      [
+        "Valladolid",
+        43
+      ],
+      [
+        "Málaga",
+        38
+      ],
+      [
+        "Huelva",
+        36
+      ],
+      [
+        "Poland",
+        22
+      ],
+      [
+        "Czech Republic",
+        12
+      ],
+      [
+        "Denmark",
+        10
+      ],
+      [
+        "Finland",
+        5
+      ],
+      [
+        "Hungary",
+        5
+      ],
+      [
+        "Andorra",
+        4
+      ],
+      [
+        "Luxembourg",
+        3
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -9223,7 +10529,7 @@
         659
       ],
       [
-        null,
+        "Other",
         63
       ]
     ]
@@ -9954,7 +11260,7 @@
         30
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         39158
@@ -10573,6 +11879,196 @@
       ],
       [
         "Grecia",
+        1
+      ]
+    ],
+    "startingRegions": [
+      [
+        "Sarria",
+        39158
+      ],
+      [
+        "León",
+        26046
+      ],
+      [
+        "St. Jean",
+        19416
+      ],
+      [
+        "Lugo - Sarria",
+        17068
+      ],
+      [
+        "Port- ugal",
+        14106
+      ],
+      [
+        "Navarra",
+        14020
+      ],
+      [
+        "Other",
+        10640
+      ],
+      [
+        "Ponte- vedra",
+        8105
+      ],
+      [
+        "Asturias",
+        5264
+      ],
+      [
+        "France - St. Jean",
+        4916
+      ],
+      [
+        "Burgos",
+        3962
+      ],
+      [
+        "A Coruña",
+        2920
+      ],
+      [
+        "Gipuzkoa",
+        2864
+      ],
+      [
+        "Ourense",
+        2820
+      ],
+      [
+        "Sevilla",
+        2308
+      ],
+      [
+        "La Rioja",
+        1253
+      ],
+      [
+        "Cantabria",
+        1249
+      ],
+      [
+        "Zamora",
+        1020
+      ],
+      [
+        "Vizcaya",
+        855
+      ],
+      [
+        "Germany",
+        756
+      ],
+      [
+        "Holland",
+        711
+      ],
+      [
+        "Salamanca",
+        669
+      ],
+      [
+        "Palencia",
+        537
+      ],
+      [
+        "Madrid",
+        395
+      ],
+      [
+        "Huesca",
+        380
+      ],
+      [
+        "Belgium",
+        359
+      ],
+      [
+        "Switzerland",
+        345
+      ],
+      [
+        "Barcelona",
+        211
+      ],
+      [
+        "Badajoz",
+        195
+      ],
+      [
+        "Zaragoza",
+        141
+      ],
+      [
+        "Cáceres",
+        117
+      ],
+      [
+        "Austria",
+        97
+      ],
+      [
+        "Italy",
+        95
+      ],
+      [
+        "Europe Other",
+        64
+      ],
+      [
+        "Granada",
+        63
+      ],
+      [
+        "Valladolid",
+        46
+      ],
+      [
+        "Málaga",
+        43
+      ],
+      [
+        "Huelva",
+        41
+      ],
+      [
+        "Córdoba",
+        32
+      ],
+      [
+        "Murcia",
+        26
+      ],
+      [
+        "Poland",
+        19
+      ],
+      [
+        "Czech Republic",
+        11
+      ],
+      [
+        "Denmark",
+        8
+      ],
+      [
+        "Luxembourg",
+        8
+      ],
+      [
+        "Hungary",
+        3
+      ],
+      [
+        "Finland",
+        3
+      ],
+      [
+        "Andorra",
         1
       ]
     ],
@@ -11365,7 +12861,7 @@
         30
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         40734
@@ -12072,6 +13568,208 @@
       ],
       [
         "Gándara",
+        1
+      ]
+    ],
+    "startingRegions": [
+      [
+        "Sarria",
+        40734
+      ],
+      [
+        "León",
+        25139
+      ],
+      [
+        "St. Jean",
+        22213
+      ],
+      [
+        "Lugo - Sarria",
+        18483
+      ],
+      [
+        "Port- ugal",
+        16547
+      ],
+      [
+        "Navarra",
+        13037
+      ],
+      [
+        "Other",
+        10341
+      ],
+      [
+        "Ponte- vedra",
+        9017
+      ],
+      [
+        "Asturias",
+        5802
+      ],
+      [
+        "France - St. Jean",
+        4921
+      ],
+      [
+        "A Coruña",
+        3992
+      ],
+      [
+        "Burgos",
+        3905
+      ],
+      [
+        "Gipuzkoa",
+        3450
+      ],
+      [
+        "Ourense",
+        3028
+      ],
+      [
+        "Sevilla",
+        2287
+      ],
+      [
+        "Cantabria",
+        1433
+      ],
+      [
+        "La Rioja",
+        1244
+      ],
+      [
+        "Zamora",
+        1007
+      ],
+      [
+        "Vizcaya",
+        905
+      ],
+      [
+        "Holland",
+        786
+      ],
+      [
+        "Germany",
+        603
+      ],
+      [
+        "Salamanca",
+        515
+      ],
+      [
+        "Madrid",
+        481
+      ],
+      [
+        "Palencia",
+        437
+      ],
+      [
+        "Belgium",
+        372
+      ],
+      [
+        "Huesca",
+        357
+      ],
+      [
+        "Switzerland",
+        277
+      ],
+      [
+        "Barcelona",
+        237
+      ],
+      [
+        "Badajoz",
+        192
+      ],
+      [
+        "Austria",
+        110
+      ],
+      [
+        "Zaragoza",
+        102
+      ],
+      [
+        "Cáceres",
+        101
+      ],
+      [
+        "Italy",
+        100
+      ],
+      [
+        "Granada",
+        54
+      ],
+      [
+        "Huelva",
+        43
+      ],
+      [
+        "Córdoba",
+        33
+      ],
+      [
+        "Málaga",
+        32
+      ],
+      [
+        "Poland",
+        32
+      ],
+      [
+        "Europe Other",
+        28
+      ],
+      [
+        "Valladolid",
+        28
+      ],
+      [
+        "Murcia",
+        24
+      ],
+      [
+        "Czech Republic",
+        19
+      ],
+      [
+        "Slovakia",
+        13
+      ],
+      [
+        "Hungary",
+        8
+      ],
+      [
+        "Finland",
+        6
+      ],
+      [
+        "Denmark",
+        6
+      ],
+      [
+        "Luxembourg",
+        4
+      ],
+      [
+        "Ireland",
+        1
+      ],
+      [
+        "Andorra",
+        1
+      ],
+      [
+        "UK",
         1
       ]
     ],
@@ -12948,7 +14646,7 @@
         32
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         52063
@@ -13730,6 +15428,220 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "Sarria",
+        52063
+      ],
+      [
+        "León",
+        27923
+      ],
+      [
+        "St. Jean",
+        26569
+      ],
+      [
+        "Lugo - Sarria",
+        19173
+      ],
+      [
+        "Port- ugal",
+        18933
+      ],
+      [
+        "Navarra",
+        12987
+      ],
+      [
+        "Ponte- vedra",
+        10312
+      ],
+      [
+        "Asturias",
+        8116
+      ],
+      [
+        "France - St. Jean",
+        6956
+      ],
+      [
+        "A Coruña",
+        4854
+      ],
+      [
+        "Other",
+        4466
+      ],
+      [
+        "Ourense",
+        3850
+      ],
+      [
+        "Gipuzkoa",
+        3790
+      ],
+      [
+        "Burgos",
+        3648
+      ],
+      [
+        "Sevilla",
+        2292
+      ],
+      [
+        "Cantabria",
+        1332
+      ],
+      [
+        "La Rioja",
+        1139
+      ],
+      [
+        "Zamora",
+        956
+      ],
+      [
+        "Vizcaya",
+        918
+      ],
+      [
+        "Holland",
+        723
+      ],
+      [
+        "Madrid",
+        683
+      ],
+      [
+        "Germany",
+        617
+      ],
+      [
+        "Salamanca",
+        567
+      ],
+      [
+        "Palencia",
+        421
+      ],
+      [
+        "Belgium",
+        386
+      ],
+      [
+        "Huesca",
+        316
+      ],
+      [
+        "Valencia",
+        285
+      ],
+      [
+        "Switzerland",
+        269
+      ],
+      [
+        "Barcelona",
+        214
+      ],
+      [
+        "Badajoz",
+        157
+      ],
+      [
+        "Albacete",
+        150
+      ],
+      [
+        "Zaragoza",
+        129
+      ],
+      [
+        "Cáceres",
+        129
+      ],
+      [
+        "Austria",
+        82
+      ],
+      [
+        "Italy",
+        81
+      ],
+      [
+        "Europe Other",
+        67
+      ],
+      [
+        "Granada",
+        67
+      ],
+      [
+        "Málaga",
+        40
+      ],
+      [
+        "Huelva",
+        35
+      ],
+      [
+        "UK",
+        32
+      ],
+      [
+        "Poland",
+        29
+      ],
+      [
+        "Valladolid",
+        26
+      ],
+      [
+        "Córdoba",
+        26
+      ],
+      [
+        "Ireland",
+        15
+      ],
+      [
+        "Czech Republic",
+        13
+      ],
+      [
+        "Murcia",
+        13
+      ],
+      [
+        "Hungary",
+        7
+      ],
+      [
+        "Luxembourg",
+        6
+      ],
+      [
+        "Denmark",
+        5
+      ],
+      [
+        "Andorra",
+        4
+      ],
+      [
+        "Finland",
+        3
+      ],
+      [
+        "Slovakia",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -13764,7 +15676,7 @@
         444
       ],
       [
-        null,
+        "Other",
         4
       ]
     ]
@@ -14547,7 +16459,7 @@
         45
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         58554
@@ -15349,6 +17261,220 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "Sarria",
+        58554
+      ],
+      [
+        "St. Jean",
+        29344
+      ],
+      [
+        "León",
+        28133
+      ],
+      [
+        "Port- ugal",
+        22580
+      ],
+      [
+        "Lugo - Sarria",
+        20059
+      ],
+      [
+        "Navarra",
+        12767
+      ],
+      [
+        "Ponte- vedra",
+        12685
+      ],
+      [
+        "Asturias",
+        9506
+      ],
+      [
+        "France - St. Jean",
+        7960
+      ],
+      [
+        "A Coruña",
+        7847
+      ],
+      [
+        "Other",
+        4426
+      ],
+      [
+        "Gipuzkoa",
+        4340
+      ],
+      [
+        "Burgos",
+        3786
+      ],
+      [
+        "Ourense",
+        3623
+      ],
+      [
+        "Sevilla",
+        2132
+      ],
+      [
+        "Cantabria",
+        1419
+      ],
+      [
+        "La Rioja",
+        1246
+      ],
+      [
+        "Vizcaya",
+        1028
+      ],
+      [
+        "Zamora",
+        819
+      ],
+      [
+        "Holland",
+        683
+      ],
+      [
+        "Madrid",
+        629
+      ],
+      [
+        "Germany",
+        618
+      ],
+      [
+        "Salamanca",
+        506
+      ],
+      [
+        "Valencia",
+        392
+      ],
+      [
+        "Palencia",
+        331
+      ],
+      [
+        "Belgium",
+        317
+      ],
+      [
+        "Huesca",
+        295
+      ],
+      [
+        "Albacete",
+        275
+      ],
+      [
+        "Europe Other",
+        241
+      ],
+      [
+        "Barcelona",
+        211
+      ],
+      [
+        "Switzerland",
+        210
+      ],
+      [
+        "Badajoz",
+        144
+      ],
+      [
+        "Zaragoza",
+        124
+      ],
+      [
+        "Italy",
+        111
+      ],
+      [
+        "Austria",
+        110
+      ],
+      [
+        "Cáceres",
+        93
+      ],
+      [
+        "Granada",
+        70
+      ],
+      [
+        "Córdoba",
+        37
+      ],
+      [
+        "Huelva",
+        34
+      ],
+      [
+        "Málaga",
+        30
+      ],
+      [
+        "Poland",
+        30
+      ],
+      [
+        "UK",
+        27
+      ],
+      [
+        "Murcia",
+        22
+      ],
+      [
+        "Valladolid",
+        20
+      ],
+      [
+        "Ireland",
+        13
+      ],
+      [
+        "Slovakia",
+        13
+      ],
+      [
+        "Czech Republic",
+        13
+      ],
+      [
+        "Luxembourg",
+        9
+      ],
+      [
+        "Hungary",
+        8
+      ],
+      [
+        "Andorra",
+        6
+      ],
+      [
+        "Denmark",
+        6
+      ],
+      [
+        "Finland",
+        3
+      ],
+      [
+        "Russia",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -15383,7 +17509,7 @@
         652
       ],
       [
-        null,
+        "Other",
         2
       ]
     ]
@@ -16214,7 +18340,7 @@
         13
       ]
     ],
-    "startingPlaces": [
+    "startingCities": [
       [
         "Sarria",
         67406
@@ -16968,6 +19094,220 @@
         1
       ]
     ],
+    "startingRegions": [
+      [
+        "Sarria",
+        67406
+      ],
+      [
+        "St. Jean",
+        31053
+      ],
+      [
+        "León",
+        28855
+      ],
+      [
+        "Port- ugal",
+        27272
+      ],
+      [
+        "Lugo - Sarria",
+        21828
+      ],
+      [
+        "Ponte- vedra",
+        15352
+      ],
+      [
+        "Navarra",
+        12381
+      ],
+      [
+        "Asturias",
+        11253
+      ],
+      [
+        "A Coruña",
+        10004
+      ],
+      [
+        "France - St. Jean",
+        7604
+      ],
+      [
+        "Gipuzkoa",
+        4804
+      ],
+      [
+        "Other",
+        4370
+      ],
+      [
+        "Ourense",
+        3752
+      ],
+      [
+        "Burgos",
+        3733
+      ],
+      [
+        "Sevilla",
+        2290
+      ],
+      [
+        "Cantabria",
+        1441
+      ],
+      [
+        "Vizcaya",
+        1230
+      ],
+      [
+        "La Rioja",
+        1096
+      ],
+      [
+        "Zamora",
+        1073
+      ],
+      [
+        "Madrid",
+        624
+      ],
+      [
+        "Germany",
+        607
+      ],
+      [
+        "Holland",
+        578
+      ],
+      [
+        "Salamanca",
+        559
+      ],
+      [
+        "Europe Other",
+        412
+      ],
+      [
+        "Palencia",
+        355
+      ],
+      [
+        "Valencia",
+        337
+      ],
+      [
+        "Belgium",
+        294
+      ],
+      [
+        "Switzerland",
+        267
+      ],
+      [
+        "Barcelona",
+        250
+      ],
+      [
+        "Huesca",
+        189
+      ],
+      [
+        "Badajoz",
+        165
+      ],
+      [
+        "Albacete",
+        160
+      ],
+      [
+        "Cáceres",
+        125
+      ],
+      [
+        "Zaragoza",
+        124
+      ],
+      [
+        "Italy",
+        107
+      ],
+      [
+        "Granada",
+        94
+      ],
+      [
+        "Austria",
+        82
+      ],
+      [
+        "Málaga",
+        75
+      ],
+      [
+        "Poland",
+        42
+      ],
+      [
+        "Valladolid",
+        41
+      ],
+      [
+        "Huelva",
+        37
+      ],
+      [
+        "Córdoba",
+        34
+      ],
+      [
+        "UK",
+        27
+      ],
+      [
+        "Czech Republic",
+        19
+      ],
+      [
+        "Murcia",
+        17
+      ],
+      [
+        "Denmark",
+        10
+      ],
+      [
+        "Luxembourg",
+        8
+      ],
+      [
+        "Ireland",
+        6
+      ],
+      [
+        "Slovakia",
+        5
+      ],
+      [
+        "Hungary",
+        5
+      ],
+      [
+        "Andorra",
+        4
+      ],
+      [
+        "Russia",
+        2
+      ],
+      [
+        "Finland",
+        1
+      ]
+    ],
     "caminos": [
       [
         "Frances-Camino de",
@@ -17006,8 +19346,1853 @@
         210
       ],
       [
-        null,
+        "Other",
         12
+      ]
+    ]
+  },
+  "2016": {
+    "year": "2016",
+    "month": "",
+    "pilgrims": 146551,
+    "gender": [
+      [
+        "Hombre",
+        76485
+      ],
+      [
+        "Mujer",
+        70066
+      ]
+    ],
+    "transport": [
+      [
+        "Pie",
+        133584
+      ],
+      [
+        "Bicicleta",
+        12560
+      ],
+      [
+        "Caballo",
+        328
+      ],
+      [
+        "Silla de ruedas",
+        79
+      ]
+    ],
+    "age": [
+      [
+        "30 - 60",
+        78129
+      ],
+      [
+        "< 30",
+        39990
+      ],
+      [
+        "> 60",
+        28432
+      ]
+    ],
+    "motivation": [
+      [
+        "Religioso y otros",
+        70397
+      ],
+      [
+        "Religioso",
+        65082
+      ],
+      [
+        "No religioso",
+        11072
+      ]
+    ],
+    "spanishFrom": [
+      [
+        "Madrid",
+        12423
+      ],
+      [
+        "Andalucía",
+        12074
+      ],
+      [
+        "Comunidad Valenciana",
+        6873
+      ],
+      [
+        "Cataluña",
+        6527
+      ],
+      [
+        "Galicia",
+        4344
+      ],
+      [
+        "Castilla León",
+        3984
+      ],
+      [
+        "Castilla la Mancha",
+        3437
+      ],
+      [
+        "Pais Vasco",
+        2443
+      ],
+      [
+        "Canarias",
+        2220
+      ],
+      [
+        "Extremadura",
+        1987
+      ],
+      [
+        "Murcia",
+        1644
+      ],
+      [
+        "Aragón",
+        1559
+      ],
+      [
+        "Asturias",
+        1243
+      ],
+      [
+        "Baleares",
+        967
+      ],
+      [
+        "Navarra",
+        577
+      ],
+      [
+        "Cantabria",
+        565
+      ],
+      [
+        "Otra",
+        229
+      ],
+      [
+        "La Rioja",
+        228
+      ],
+      [
+        "Ceuta",
+        133
+      ],
+      [
+        "Melilla",
+        61
+      ]
+    ],
+    "byCountry": [
+      [
+        "Spain",
+        63518
+      ],
+      [
+        "Germany",
+        11906
+      ],
+      [
+        "Italy",
+        10831
+      ],
+      [
+        "USA",
+        8944
+      ],
+      [
+        "Portugal",
+        7949
+      ],
+      [
+        "France",
+        5153
+      ],
+      [
+        "Ireland",
+        3834
+      ],
+      [
+        "UK",
+        3416
+      ],
+      [
+        "Korea",
+        2649
+      ],
+      [
+        "Brazil",
+        2432
+      ],
+      [
+        "Australia",
+        2346
+      ],
+      [
+        "Holland",
+        2165
+      ],
+      [
+        "Canada",
+        2066
+      ],
+      [
+        "Poland",
+        1655
+      ],
+      [
+        "Denmark",
+        1442
+      ],
+      [
+        "Mexico",
+        1405
+      ],
+      [
+        "Argentina",
+        1075
+      ],
+      [
+        "Belgium",
+        1067
+      ],
+      [
+        "Austria",
+        957
+      ],
+      [
+        "Swiss",
+        811
+      ],
+      [
+        "Japan",
+        799
+      ],
+      [
+        "Sweden",
+        718
+      ],
+      [
+        "Colombia",
+        687
+      ],
+      [
+        "Czech",
+        648
+      ],
+      [
+        "Hungary",
+        556
+      ],
+      [
+        "Finland",
+        484
+      ],
+      [
+        "Russia",
+        442
+      ],
+      [
+        "New Zealand",
+        418
+      ],
+      [
+        "China",
+        418
+      ],
+      [
+        "Norway",
+        410
+      ],
+      [
+        "S. Africa",
+        405
+      ],
+      [
+        "Venezuela",
+        355
+      ],
+      [
+        "Slovakia",
+        351
+      ],
+      [
+        "Lithuania",
+        340
+      ],
+      [
+        "Chile",
+        287
+      ],
+      [
+        "Eslovenia",
+        260
+      ],
+      [
+        "Roumania",
+        244
+      ],
+      [
+        "Bulgaria",
+        223
+      ],
+      [
+        "Uruguay",
+        177
+      ],
+      [
+        "Estonia",
+        173
+      ],
+      [
+        "Ecuador",
+        170
+      ],
+      [
+        "Philippines",
+        166
+      ],
+      [
+        "Taiwan",
+        158
+      ],
+      [
+        "Puerto Rico",
+        153
+      ],
+      [
+        "Croacia",
+        149
+      ],
+      [
+        "Ukraine",
+        125
+      ],
+      [
+        "Peru",
+        107
+      ],
+      [
+        "Andorra",
+        100
+      ],
+      [
+        "Israel",
+        97
+      ],
+      [
+        "Malta",
+        95
+      ],
+      [
+        "Singapore",
+        95
+      ],
+      [
+        "Latvia",
+        71
+      ],
+      [
+        "Costa Rica",
+        65
+      ],
+      [
+        "Iceland",
+        60
+      ],
+      [
+        "Malaysia",
+        54
+      ],
+      [
+        "Panamá",
+        54
+      ],
+      [
+        "Greece",
+        49
+      ],
+      [
+        "Luxemburg",
+        47
+      ],
+      [
+        "Dom. Rep.",
+        38
+      ],
+      [
+        "Paraguay",
+        35
+      ],
+      [
+        "Bolivia",
+        31
+      ],
+      [
+        "Indonesia",
+        31
+      ],
+      [
+        "Cuba",
+        29
+      ],
+      [
+        "India",
+        27
+      ],
+      [
+        "Turkey",
+        26
+      ],
+      [
+        "Armenia",
+        26
+      ],
+      [
+        "El Salvador",
+        24
+      ],
+      [
+        "Cyprus",
+        23
+      ],
+      [
+        "Nicaragua",
+        23
+      ],
+      [
+        "Guatemala",
+        22
+      ],
+      [
+        "Belarus",
+        21
+      ],
+      [
+        "Honduras",
+        17
+      ],
+      [
+        "Lebanon",
+        16
+      ],
+      [
+        "Marruecos",
+        15
+      ],
+      [
+        "Maldivas",
+        15
+      ],
+      [
+        "Namibia",
+        15
+      ],
+      [
+        "Serbia",
+        14
+      ],
+      [
+        "Egipto",
+        14
+      ],
+      [
+        "Emiratos Arabes Unidos",
+        13
+      ],
+      [
+        "Jordania",
+        13
+      ],
+      [
+        "Swazilandia",
+        12
+      ],
+      [
+        "Moldavia",
+        12
+      ],
+      [
+        "Albania",
+        9
+      ],
+      [
+        "Tailandia",
+        9
+      ],
+      [
+        "Omán",
+        8
+      ],
+      [
+        "Islas Feroe",
+        8
+      ],
+      [
+        "Sri Lanka",
+        7
+      ],
+      [
+        "Kazajistán",
+        6
+      ],
+      [
+        "Túnez",
+        6
+      ],
+      [
+        "San Marino",
+        5
+      ],
+      [
+        "Madagascar",
+        5
+      ],
+      [
+        "Trinidad y Tobago",
+        5
+      ],
+      [
+        "Bosnia",
+        5
+      ],
+      [
+        "Siria",
+        5
+      ],
+      [
+        "Irán",
+        5
+      ],
+      [
+        "Tuvalu",
+        5
+      ],
+      [
+        "Kuwait",
+        5
+      ],
+      [
+        "Angola",
+        5
+      ],
+      [
+        "Argelia",
+        4
+      ],
+      [
+        "Camerún",
+        4
+      ],
+      [
+        "Bermudas",
+        4
+      ],
+      [
+        "Pakistán",
+        4
+      ],
+      [
+        "Sudán",
+        4
+      ],
+      [
+        "Gambia",
+        4
+      ],
+      [
+        "Nigeria",
+        4
+      ],
+      [
+        "Zimbabwe",
+        4
+      ],
+      [
+        "Kenya",
+        4
+      ],
+      [
+        "Arabia Saudita",
+        3
+      ],
+      [
+        "Macedonia",
+        3
+      ],
+      [
+        "Eritrea",
+        3
+      ],
+      [
+        "Botswana",
+        3
+      ],
+      [
+        "Cabo Verde",
+        3
+      ],
+      [
+        "Haití",
+        3
+      ],
+      [
+        "Palau",
+        2
+      ],
+      [
+        "Dominica",
+        2
+      ],
+      [
+        "Guinea Ecuatorial",
+        2
+      ],
+      [
+        "Antillas Holandesas",
+        2
+      ],
+      [
+        "Comores",
+        2
+      ],
+      [
+        "Jamaica",
+        2
+      ],
+      [
+        "Nepal",
+        2
+      ],
+      [
+        "Granada",
+        2
+      ],
+      [
+        "Afganistán",
+        2
+      ],
+      [
+        "Groenlandia",
+        2
+      ],
+      [
+        "Ghana",
+        2
+      ],
+      [
+        "Burkina Faso",
+        2
+      ],
+      [
+        "Lesotho",
+        2
+      ],
+      [
+        "Mali",
+        2
+      ],
+      [
+        "Yugoslavia",
+        2
+      ],
+      [
+        "Barbados",
+        1
+      ],
+      [
+        "Surinam",
+        1
+      ],
+      [
+        "Irak",
+        1
+      ],
+      [
+        "Palestina",
+        1
+      ],
+      [
+        "Libia",
+        1
+      ],
+      [
+        "Mauritania",
+        1
+      ],
+      [
+        "Samoa Occidental",
+        1
+      ],
+      [
+        "Bangladesh",
+        1
+      ],
+      [
+        "Liechtensein",
+        1
+      ],
+      [
+        "Mauricio",
+        1
+      ],
+      [
+        "Camboya",
+        1
+      ],
+      [
+        "Senegal",
+        1
+      ],
+      [
+        "Aruba",
+        1
+      ],
+      [
+        "Islas Malvinas",
+        1
+      ],
+      [
+        "Rwanda",
+        1
+      ],
+      [
+        "Rep. Centroafricana",
+        1
+      ],
+      [
+        "Guyana",
+        1
+      ],
+      [
+        "Vietnam",
+        1
+      ],
+      [
+        "Urbekistán",
+        1
+      ],
+      [
+        "Montenegro",
+        1
+      ],
+      [
+        "Timor Oriental",
+        1
+      ],
+      [
+        "Mónaco",
+        1
+      ],
+      [
+        "Costa de Marfil",
+        1
+      ],
+      [
+        "Sierra Leona",
+        1
+      ],
+      [
+        "Djibouti",
+        1
+      ],
+      [
+        "Somalia",
+        1
+      ]
+    ],
+    "professions": [
+      [
+        "Estudiantes",
+        28483
+      ],
+      [
+        "Empleados",
+        28448
+      ],
+      [
+        "Jubilados",
+        21183
+      ],
+      [
+        "Liberales",
+        20253
+      ],
+      [
+        "Tecnicos",
+        17094
+      ],
+      [
+        "Profesores",
+        10046
+      ],
+      [
+        "Funcionarios",
+        8707
+      ],
+      [
+        "Amas de Casa",
+        3245
+      ],
+      [
+        "Parados",
+        2356
+      ],
+      [
+        "Directivos",
+        1953
+      ],
+      [
+        "Obreros",
+        1551
+      ],
+      [
+        "Artistas",
+        1243
+      ],
+      [
+        "Sacerdotes",
+        717
+      ],
+      [
+        "Religiosas",
+        509
+      ],
+      [
+        "Agricultores",
+        428
+      ],
+      [
+        "Marinos",
+        166
+      ],
+      [
+        "Deportistas",
+        151
+      ],
+      [
+        "Oikoten",
+        18
+      ]
+    ],
+    "startingCities": [
+      [
+        "Sarria",
+        37605
+      ],
+      [
+        "S. Jean P. Port",
+        17869
+      ],
+      [
+        "Oporto",
+        9480
+      ],
+      [
+        "Tui",
+        7205
+      ],
+      [
+        "León",
+        6333
+      ],
+      [
+        "Cebreiro",
+        5454
+      ],
+      [
+        "Ferrol",
+        5116
+      ],
+      [
+        "Ponferrada",
+        4117
+      ],
+      [
+        "Valença do Minho",
+        3595
+      ],
+      [
+        "Roncesvalles",
+        3498
+      ],
+      [
+        "Oviedo - C.P.",
+        3445
+      ],
+      [
+        "Astorga",
+        3171
+      ],
+      [
+        "Pamplona",
+        2470
+      ],
+      [
+        "Irún",
+        2294
+      ],
+      [
+        "Le Puy",
+        1945
+      ],
+      [
+        "Burgos",
+        1804
+      ],
+      [
+        "Lugo - C.P.",
+        1648
+      ],
+      [
+        "Ourense",
+        1635
+      ],
+      [
+        "Sevilla",
+        1586
+      ],
+      [
+        "Resto Portugal",
+        1442
+      ],
+      [
+        "Lisboa",
+        1329
+      ],
+      [
+        "Vilafranca",
+        1132
+      ],
+      [
+        "Triacastela",
+        1124
+      ],
+      [
+        "Ponte de Lima",
+        1073
+      ],
+      [
+        "Francia - C.F.",
+        1070
+      ],
+      [
+        "Vilalba",
+        825
+      ],
+      [
+        "Ribadeo",
+        701
+      ],
+      [
+        "Samos",
+        701
+      ],
+      [
+        "Bilbao",
+        685
+      ],
+      [
+        "Resto Asturias - C.N",
+        683
+      ],
+      [
+        "Santander",
+        594
+      ],
+      [
+        "Resto C. León C.F.",
+        567
+      ],
+      [
+        "Vigo",
+        559
+      ],
+      [
+        "Porriño",
+        519
+      ],
+      [
+        "Gijón",
+        507
+      ],
+      [
+        "Logroño",
+        426
+      ],
+      [
+        "Barcelos",
+        408
+      ],
+      [
+        "San Sebastián",
+        345
+      ],
+      [
+        "Fonsagrada - C.P.",
+        335
+      ],
+      [
+        "Holanda",
+        329
+      ],
+      [
+        "Baiona",
+        323
+      ],
+      [
+        "Braga",
+        317
+      ],
+      [
+        "Avilés",
+        314
+      ],
+      [
+        "Alemania",
+        297
+      ],
+      [
+        "Baamonde",
+        297
+      ],
+      [
+        "Rates, S. Pedro",
+        285
+      ],
+      [
+        "Madrid - C.F.",
+        267
+      ],
+      [
+        "Vega de Valcarce",
+        266
+      ],
+      [
+        "Zamora",
+        257
+      ],
+      [
+        "Somport",
+        228
+      ],
+      [
+        "Salamanca",
+        225
+      ],
+      [
+        "Sahagún",
+        213
+      ],
+      [
+        "Viana do Castelo",
+        203
+      ],
+      [
+        "Chaves-Portugal",
+        200
+      ],
+      [
+        "A Guarda",
+        197
+      ],
+      [
+        "Resto Cantabria",
+        195
+      ],
+      [
+        "Resto Europa",
+        194
+      ],
+      [
+        "Laza",
+        193
+      ],
+      [
+        "Oviedo - C.N.",
+        179
+      ],
+      [
+        "Neda",
+        166
+      ],
+      [
+        "Muxia",
+        163
+      ],
+      [
+        "Bélgica",
+        160
+      ],
+      [
+        "Puebla de Sanabria",
+        157
+      ],
+      [
+        "Resto Asturias - C.P.",
+        141
+      ],
+      [
+        "Resto C. León - V.P.",
+        141
+      ],
+      [
+        "Resto Andalucia",
+        140
+      ],
+      [
+        "Francia - C.N",
+        139
+      ],
+      [
+        "Resto País Vasco - C.N.",
+        139
+      ],
+      [
+        "Finisterra",
+        138
+      ],
+      [
+        "Abadin",
+        136
+      ],
+      [
+        "Resto de Extremadura",
+        134
+      ],
+      [
+        "Lourdes",
+        134
+      ],
+      [
+        "Lourenzá",
+        133
+      ],
+      [
+        "Hendaya",
+        119
+      ],
+      [
+        "Vezelay",
+        118
+      ],
+      [
+        "Jaca",
+        116
+      ],
+      [
+        "Coimbra",
+        114
+      ],
+      [
+        "Allariz",
+        114
+      ],
+      [
+        "Hospital de Orbigo",
+        113
+      ],
+      [
+        "Cruz de Ferro",
+        104
+      ],
+      [
+        "Guimaraes",
+        97
+      ],
+      [
+        "Cadavo",
+        96
+      ],
+      [
+        "Frómista",
+        95
+      ],
+      [
+        "Puente la Reina",
+        95
+      ],
+      [
+        "Suiza",
+        94
+      ],
+      [
+        "Grandas de Salime - C.P.",
+        91
+      ],
+      [
+        "Carrión de los Condes",
+        90
+      ],
+      [
+        "París",
+        89
+      ],
+      [
+        "Madrid - V.P.",
+        89
+      ],
+      [
+        "Rabanal del Camino",
+        89
+      ],
+      [
+        "Povoa de Varzim",
+        79
+      ],
+      [
+        "Mérida",
+        79
+      ],
+      [
+        "Granja de Moreruela",
+        79
+      ],
+      [
+        "Ponferrada. C.Inv.",
+        78
+      ],
+      [
+        "Molinaseca",
+        78
+      ],
+      [
+        "Fatima",
+        74
+      ],
+      [
+        "Arles",
+        70
+      ],
+      [
+        "Salas",
+        70
+      ],
+      [
+        "Esposende",
+        69
+      ],
+      [
+        "Cataluña - C.F.",
+        69
+      ],
+      [
+        "Com. Valenciana - O.C.",
+        67
+      ],
+      [
+        "Montserrat",
+        66
+      ],
+      [
+        "Navarra",
+        65
+      ],
+      [
+        "Tineo - C.P.",
+        63
+      ],
+      [
+        "Mondoñedo",
+        63
+      ],
+      [
+        "Xunqueira de Ambia",
+        63
+      ],
+      [
+        "Com. Valenciana - C.F.",
+        62
+      ],
+      [
+        "Gudiña",
+        61
+      ],
+      [
+        "Rábade",
+        61
+      ],
+      [
+        "Zaragoza",
+        60
+      ],
+      [
+        "Sto. Domingo de la Calzada",
+        60
+      ],
+      [
+        "Verín",
+        59
+      ],
+      [
+        "Castilla la Mancha otros",
+        55
+      ],
+      [
+        "Valencia O.C.",
+        55
+      ],
+      [
+        "Monforte de Lemos",
+        54
+      ],
+      [
+        "Cáceres",
+        49
+      ],
+      [
+        "Estella",
+        46
+      ],
+      [
+        "Barcelona",
+        44
+      ],
+      [
+        "Viseu",
+        39
+      ],
+      [
+        "Granada",
+        34
+      ],
+      [
+        "Cast. la Mancha - C.F.",
+        34
+      ],
+      [
+        "Italia",
+        34
+      ],
+      [
+        "Resto Galicia",
+        30
+      ],
+      [
+        "Nájera",
+        30
+      ],
+      [
+        "Austria",
+        30
+      ],
+      [
+        "R.Pais Vasco C.F.",
+        29
+      ],
+      [
+        "Castrojeriz",
+        27
+      ],
+      [
+        "Huelva",
+        27
+      ],
+      [
+        "Castilla La Mancha VP",
+        26
+      ],
+      [
+        "La Rioja",
+        25
+      ],
+      [
+        "Malaga",
+        24
+      ],
+      [
+        "Canfranc",
+        23
+      ],
+      [
+        "Aveiro",
+        21
+      ],
+      [
+        "Grado",
+        19
+      ],
+      [
+        "Faro",
+        19
+      ],
+      [
+        "Cataluña - O.C.",
+        18
+      ],
+      [
+        "Quiroga",
+        16
+      ],
+      [
+        "Badajoz",
+        13
+      ],
+      [
+        "Córdoba",
+        13
+      ],
+      [
+        "Benavente",
+        13
+      ],
+      [
+        "Reino Unido C.F.",
+        13
+      ],
+      [
+        "XSan Sebastian",
+        12
+      ],
+      [
+        "Roma",
+        12
+      ],
+      [
+        "Polonia",
+        12
+      ],
+      [
+        "Valladolid",
+        11
+      ],
+      [
+        "Aragón",
+        10
+      ],
+      [
+        "La Mesa",
+        9
+      ],
+      [
+        "Murcia",
+        9
+      ],
+      [
+        "Dinamarca",
+        7
+      ],
+      [
+        "San Juan de Ortega",
+        6
+      ],
+      [
+        "Fonfría",
+        5
+      ],
+      [
+        "Chantada",
+        5
+      ],
+      [
+        "mirallos",
+        5
+      ],
+      [
+        "Guitiriz",
+        5
+      ],
+      [
+        "Sobrado",
+        4
+      ],
+      [
+        "XFonsagrada",
+        4
+      ],
+      [
+        "Vilabade",
+        4
+      ],
+      [
+        "Republica Checa",
+        3
+      ],
+      [
+        "Paradela",
+        3
+      ],
+      [
+        "Irlanda C. Ing",
+        3
+      ],
+      [
+        "Hungría",
+        3
+      ],
+      [
+        "Reino Unido C.Ing",
+        3
+      ],
+      [
+        "XLa Rioja",
+        3
+      ],
+      [
+        "Covelo",
+        3
+      ],
+      [
+        "Leyre",
+        2
+      ],
+      [
+        "Vincios",
+        2
+      ],
+      [
+        "A Rúa",
+        2
+      ],
+      [
+        "Las Médulas",
+        2
+      ],
+      [
+        "Irlanda C.F.",
+        2
+      ],
+      [
+        "Betanzos",
+        2
+      ],
+      [
+        "Egipto",
+        2
+      ],
+      [
+        "Luxemburgo",
+        2
+      ],
+      [
+        "Valcarlos",
+        2
+      ],
+      [
+        "",
+        2
+      ],
+      [
+        "Resto Africa",
+        2
+      ],
+      [
+        "Lalín",
+        1
+      ],
+      [
+        "Borres",
+        1
+      ],
+      [
+        "XGrandas de Salime",
+        1
+      ],
+      [
+        "Vegadeo",
+        1
+      ],
+      [
+        "Pontedeume",
+        1
+      ],
+      [
+        "Silleda",
+        1
+      ],
+      [
+        "O Barco de Valdeorras",
+        1
+      ],
+      [
+        "Finlandia",
+        1
+      ],
+      [
+        "Viveiro",
+        1
+      ],
+      [
+        "Sobrado dos Monxes",
+        1
+      ],
+      [
+        "Jaén",
+        1
+      ],
+      [
+        "Ortigueira",
+        1
+      ],
+      [
+        "Andorra",
+        1
+      ],
+      [
+        "Peñaseita",
+        1
+      ],
+      [
+        "Inglaterra C.F.",
+        1
+      ]
+    ],
+    "startingRegions": [
+      [
+        "Sarria",
+        37605
+      ],
+      [
+        "Port- ugal",
+        18490
+      ],
+      [
+        "St. Jean",
+        17869
+      ],
+      [
+        "León",
+        15272
+      ],
+      [
+        "Lugo - Sarria",
+        11606
+      ],
+      [
+        "Ponte- vedra",
+        8809
+      ],
+      [
+        "Navarra",
+        6178
+      ],
+      [
+        "A Coruña",
+        5587
+      ],
+      [
+        "Asturias",
+        5524
+      ],
+      [
+        "France - St. Jean",
+        3912
+      ],
+      [
+        "Gipuzkoa",
+        2639
+      ],
+      [
+        "Ourense",
+        2197
+      ],
+      [
+        "Other",
+        2085
+      ],
+      [
+        "Burgos",
+        1837
+      ],
+      [
+        "Sevilla",
+        1586
+      ],
+      [
+        "Cantabria",
+        789
+      ],
+      [
+        "Vizcaya",
+        685
+      ],
+      [
+        "La Rioja",
+        541
+      ],
+      [
+        "Zamora",
+        506
+      ],
+      [
+        "Madrid",
+        356
+      ],
+      [
+        "Holland",
+        329
+      ],
+      [
+        "Germany",
+        297
+      ],
+      [
+        "Salamanca",
+        225
+      ],
+      [
+        "Europe Other",
+        194
+      ],
+      [
+        "Palencia",
+        185
+      ],
+      [
+        "Valencia",
+        184
+      ],
+      [
+        "Belgium",
+        160
+      ],
+      [
+        "Huesca",
+        139
+      ],
+      [
+        "Albacete",
+        115
+      ],
+      [
+        "Barcelona",
+        110
+      ],
+      [
+        "Switzerland",
+        94
+      ],
+      [
+        "Badajoz",
+        92
+      ],
+      [
+        "Zaragoza",
+        60
+      ],
+      [
+        "Cáceres",
+        49
+      ],
+      [
+        "Italy",
+        46
+      ],
+      [
+        "Granada",
+        34
+      ],
+      [
+        "Austria",
+        30
+      ],
+      [
+        "Huelva",
+        27
+      ],
+      [
+        "Málaga",
+        24
+      ],
+      [
+        "UK",
+        17
+      ],
+      [
+        "Córdoba",
+        13
+      ],
+      [
+        "Poland",
+        12
+      ],
+      [
+        "Valladolid",
+        11
+      ],
+      [
+        "Murcia",
+        9
+      ],
+      [
+        "Denmark",
+        7
+      ],
+      [
+        "Ireland",
+        5
+      ],
+      [
+        "Hungary",
+        3
+      ],
+      [
+        "Czech Republic",
+        3
+      ],
+      [
+        "Luxembourg",
+        2
+      ],
+      [
+        "Finland",
+        1
+      ],
+      [
+        "Andorra",
+        1
+      ]
+    ],
+    "caminos": [
+      [
+        "Frances-Camino de",
+        93314
+      ],
+      [
+        "Portugues-Camino",
+        27452
+      ],
+      [
+        "Norte-Camino de",
+        8442
+      ],
+      [
+        "Primitivo-Camino",
+        5924
+      ],
+      [
+        "Via de la Plata",
+        5427
+      ],
+      [
+        "Ingles-Camino",
+        5292
+      ],
+      [
+        "Muxia-Finisterre",
+        301
+      ],
+      [
+        "Otros caminos",
+        239
+      ],
+      [
+        "Camino de Invierno",
+        158
+      ],
+      [
+        "Other",
+        2
       ]
     ]
   }
