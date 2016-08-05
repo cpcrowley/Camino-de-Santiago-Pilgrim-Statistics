@@ -1,6 +1,3 @@
-h1 {
-  /*text-align:center;*/
-}
 th,td {
   text-align:center;
 }
@@ -9,17 +6,15 @@ th,td {
 .tangerine-font { font-family: 'Tangerine', serif; }
 .font-48 {font-size: 48pt;}
 .font-36 {font-size: 36pt;}
-.top-header {
 
+.form-div {
+  font-size: 1.2em;
+  margin: 0.5em 0;
 }
-/*.top-header {
-  text-align:center;
-  font-family: 'Tangerine', serif;
-  font-size: 48pt;
-  text-shadow: 4px 4px 4px #aaa;
-}*/
-.question-li {
-  cursor: pointer;
+.footer-div {
+  font-size: 1.0em;
+  margin: 0.5em 0;
 }
-.removeable-box {
+.form-label {
+  margin: 0 0.5em 0 1em;
 }
