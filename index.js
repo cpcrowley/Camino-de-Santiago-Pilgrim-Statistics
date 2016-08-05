@@ -1,4 +1,5 @@
 "use strict";
+console.log('loading index.js')
 var dropDownMenus = {}
 var debugModeCheckbox = null
 
@@ -19,7 +20,7 @@ var paneDefinitions = [
         {label:'Where they started by city', value:'by-starting-city', selected:false},
         {label:'Where they started by province or country', value:'by-starting-region', selected:false},
         {label:'Method of transport', value:'by-transport', selected:false},
-        {label:'Reason for pilgramage', value:'by-reason', selected:false},
+        {label:'Reason for pilgrimage', value:'by-reason', selected:false},
         {label:'Profession of pilgrims', value:'by-profession', selected:false},
         {label:'Spanish pilgrims by region of residence', value:'spanish-by-region', selected:false},
       ]],
@@ -66,7 +67,12 @@ var paneDefinitions = [
 var recomputePane = function(pane) {
   if (!pane.createImmediately) {
     pane.form.find('.results-div').remove()
-  }
+    pane.form.append(`<div class="loading-message">
+    <h3>Please wait for server to respond...</h3>
+    <p>If the server does not seem to be responding, try the "WiFi"
+    version of this program (thechar.com/pilgrimsWiFi) which downloads all the required data
+    when it starts up. NOTE: this will fetch a MB of data to your device or computer.</p>`)
+}
   var params = []
   var paramsObject = {}
   pane.formSpec.forEach(function(item) {
@@ -96,9 +102,20 @@ var recomputePane = function(pane) {
     if (debugModeCheckbox[0].checked) {
       host = 'http://rimac.local'
     }
-    $.get(host + ':3867/' + pane.url, paramsObject, function (serverHtml){
-      pane.form.append(serverHtml)
-    });
+    if (typeof LOCAL === 'undefined') {
+      $.get(host + ':3867/' + pane.url, paramsObject, function (serverHtml){
+        pane.form.find('.loading-message').remove()
+        pane.form.append(serverHtml)
+      })
+    } else {
+      console.log(`pData state=${LOCAL.promise.state()} LOCAL.pdata=${LOCAL.pdata}`)
+      LOCAL.promise.done(() => { console.log('LOCAL.promise.done() called')})
+      responseShim.end = (serverHtml) => {
+        pane.form.find('.loading-message').remove()
+        pane.form.append(serverHtml)
+      }
+      handleRequest(requestShim, responseShim)
+    }
   } else {
     questionsRecompute(pane, params)
   }
@@ -107,6 +124,7 @@ var recomputePane = function(pane) {
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
 var addPanesToTabMenu = function() {
+  console.log('+++CALL addPanesToTabMenu')
   var paneIndex = 1
   paneDefinitions.forEach(function(pane, index) {
     pane.form = null
@@ -165,14 +183,12 @@ var addPanesToTabMenu = function() {
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
-var initCallbacks = function() {
+var docReady = () => {
+  console.log('***************Document is ready')
   addPanesToTabMenu()
   paneDefinitions[0].link.click()
-};
-
-//------------------------------------------------------------------------------
-//------------------------------------------------------------------------------
-$(initCallbacks);
+}
+$(docReady);
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
@@ -225,9 +241,6 @@ var makeTabPanel = function(pane, paneBody) {
   return '<div role="tabpanel" class="tab-pane active" id="'
   + pane.paneId + '">' + '<h4>' + pane.paneTitle + '</h4>' + paneBody + '</div>'
 };
-
-
-
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------

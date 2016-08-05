@@ -139,19 +139,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        137502
+        "España",
+        137795
       ],
       [
-        "Italy",
+        "Italia",
         7638
       ],
       [
-        "Germany",
+        "Alemania",
         6791
       ],
       [
-        "France",
+        "Francia",
         6527
       ],
       [
@@ -159,23 +159,23 @@
         3241
       ],
       [
-        "USA",
+        "Estados Unidos",
         2016
       ],
       [
-        "Brazil",
+        "Brasil",
         1433
       ],
       [
-        "UK",
+        "Reino Unido",
         1416
       ],
       [
-        "Holland",
+        "Holanda",
         1388
       ],
       [
-        "Belgium",
+        "Belgica",
         1276
       ],
       [
@@ -183,27 +183,27 @@
         1200
       ],
       [
-        "Canada",
+        "Canadá",
         1089
       ],
       [
-        "Mexico",
+        "México",
         991
       ],
       [
-        "Swiss",
+        "Suiza",
         698
-      ],
-      [
-        "Argentina",
-        571
       ],
       [
         "Venezuela",
         571
       ],
       [
-        "Ireland",
+        "Argentina",
+        571
+      ],
+      [
+        "Irlanda",
         561
       ],
       [
@@ -211,39 +211,35 @@
         479
       ],
       [
-        "Denmark",
+        "Dinamarca",
         410
       ],
       [
-        "Poland",
+        "Polonia",
         357
       ],
       [
-        "Sweden",
+        "Suecia",
         320
       ],
       [
-        "Finland",
+        "Finlandia",
         294
-      ],
-      [
-        "España",
-        293
       ],
       [
         "Colombia",
         277
       ],
       [
-        "Norway",
+        "Noruega",
         261
       ],
       [
-        "Japan",
+        "Japón",
         256
       ],
       [
-        "Hungary",
+        "Hungría",
         246
       ],
       [
@@ -251,7 +247,7 @@
         173
       ],
       [
-        "Czech",
+        "República Checa",
         153
       ],
       [
@@ -271,31 +267,31 @@
         102
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         97
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         84
       ],
       [
-        "Peru",
+        "Perú",
         73
-      ],
-      [
-        "Slovakia",
-        61
       ],
       [
         "Puerto Rico",
         61
       ],
       [
-        "Roumania",
+        "Eslovaquia",
+        61
+      ],
+      [
+        "Rumania",
         49
       ],
       [
-        "Russia",
+        "Rusia",
         46
       ],
       [
@@ -303,8 +299,12 @@
         30
       ],
       [
-        "Ukraine",
+        "Ucrania",
         26
+      ],
+      [
+        "Cuba",
+        25
       ],
       [
         "Bolivia",
@@ -315,31 +315,27 @@
         25
       ],
       [
-        "Cuba",
-        25
-      ],
-      [
         "Costa Rica",
         24
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         23
       ],
       [
-        "Philippines",
+        "Filipinas",
         19
       ],
       [
-        "Luxemburg",
-        18
-      ],
-      [
-        "",
+        "Luxemburgo",
         18
       ],
       [
         "Croacia",
+        18
+      ],
+      [
+        "",
         18
       ],
       [
@@ -363,31 +359,31 @@
         15
       ],
       [
-        "El Salvador",
-        13
-      ],
-      [
         "Paraguay",
         13
       ],
       [
-        "Taiwan",
+        "Taiwán",
         13
+      ],
+      [
+        "El Salvador",
+        13
+      ],
+      [
+        "Lituania",
+        12
       ],
       [
         "India",
         12
       ],
       [
-        "Lithuania",
-        12
-      ],
-      [
-        "Albania",
+        "Islandia",
         11
       ],
       [
-        "Iceland",
+        "Albania",
         11
       ],
       [
@@ -399,23 +395,23 @@
         9
       ],
       [
-        "Singapore",
+        "Turquía",
         7
       ],
       [
-        "Turkey",
+        "Singapur",
         7
-      ],
-      [
-        "Nicaragua",
-        6
       ],
       [
         "Mauricio",
         6
       ],
       [
-        "Latvia",
+        "Letonia",
+        6
+      ],
+      [
+        "Nicaragua",
         6
       ],
       [
@@ -427,19 +423,11 @@
         5
       ],
       [
-        "Greece",
-        4
-      ],
-      [
         "Nigeria",
         4
       ],
       [
-        "San Marino",
-        4
-      ],
-      [
-        "Serbia",
+        "Grecia",
         4
       ],
       [
@@ -451,19 +439,15 @@
         4
       ],
       [
-        "Irán",
-        3
+        "San Marino",
+        4
+      ],
+      [
+        "Serbia",
+        4
       ],
       [
         "Tailandia",
-        3
-      ],
-      [
-        "Haití",
-        3
-      ],
-      [
-        "Ghana",
         3
       ],
       [
@@ -471,7 +455,7 @@
         3
       ],
       [
-        "Yugoslavia",
+        "Ghana",
         3
       ],
       [
@@ -479,32 +463,20 @@
         3
       ],
       [
-        "Lebanon",
+        "Haití",
         3
       ],
       [
-        "Angola",
-        2
+        "Irán",
+        3
       ],
       [
-        "Malaysia",
-        2
+        "Yugoslavia",
+        3
       ],
       [
-        "Belarus",
-        2
-      ],
-      [
-        "Guinea Ecuatorial",
-        2
-      ],
-      [
-        "Vietnam",
-        2
-      ],
-      [
-        "Indonesia",
-        2
+        "Líbano",
+        3
       ],
       [
         "Senegal",
@@ -515,23 +487,35 @@
         2
       ],
       [
+        "Indonesia",
+        2
+      ],
+      [
+        "Malasia",
+        2
+      ],
+      [
+        "Angola",
+        2
+      ],
+      [
+        "Guinea Ecuatorial",
+        2
+      ],
+      [
+        "Bielorrusia",
+        2
+      ],
+      [
+        "Vietnam",
+        2
+      ],
+      [
         "Egipto",
         1
       ],
       [
-        "I. Reunión",
-        1
-      ],
-      [
-        "Túnez",
-        1
-      ],
-      [
-        "Islas Feroe",
-        1
-      ],
-      [
-        "Guinea",
+        "Herzegovina",
         1
       ],
       [
@@ -540,6 +524,18 @@
       ],
       [
         "Sri Lanka",
+        1
+      ],
+      [
+        "Guinea",
+        1
+      ],
+      [
+        "I. Reunión",
+        1
+      ],
+      [
+        "Túnez",
         1
       ],
       [
@@ -591,7 +587,7 @@
         1
       ],
       [
-        "Herzegovina",
+        "Islas Feroe",
         1
       ],
       [
@@ -1217,48 +1213,36 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        39583
-      ],
-      [
-        "Lugo - Sarria",
-        28838
+        "Lugo",
+        68521
       ],
       [
         "León",
-        28070
+        34058
       ],
       [
         "Navarra",
         16910
       ],
       [
-        "Other",
-        11909
+        "France",
+        15419
       ],
       [
-        "Ponte- vedra",
-        11769
-      ],
-      [
-        "St. Jean",
-        9343
+        "Pontevedra",
+        11771
       ],
       [
         "Ourense",
-        5975
-      ],
-      [
-        "France - St. Jean",
-        4233
-      ],
-      [
-        "Port- ugal",
-        4069
+        5977
       ],
       [
         "Asturias",
-        3980
+        5744
+      ],
+      [
+        "Portugal",
+        4069
       ],
       [
         "A Coruña",
@@ -1271,6 +1255,10 @@
       [
         "La Rioja",
         1256
+      ],
+      [
+        "Gipuzkoa",
+        1033
       ],
       [
         "Sevilla",
@@ -1289,6 +1277,10 @@
         672
       ],
       [
+        "Other",
+        643
+      ],
+      [
         "Holland",
         599
       ],
@@ -1297,16 +1289,20 @@
         536
       ],
       [
-        "Gipuzkoa",
-        534
-      ],
-      [
         "Badajoz",
-        496
+        527
       ],
       [
         "Salamanca",
         414
+      ],
+      [
+        "Madrid",
+        376
+      ],
+      [
+        "Albacete",
+        375
       ],
       [
         "Belgium",
@@ -1317,8 +1313,12 @@
         244
       ],
       [
-        "Madrid",
-        187
+        "Barcelona",
+        225
+      ],
+      [
+        "Valencia",
+        224
       ],
       [
         "Switzerland",
@@ -1337,8 +1337,12 @@
         71
       ],
       [
-        "Barcelona",
-        65
+        "Huelva",
+        56
+      ],
+      [
+        "UK",
+        51
       ],
       [
         "Cáceres",
@@ -1349,10 +1353,6 @@
         31
       ],
       [
-        "Huelva",
-        22
-      ],
-      [
         "Córdoba",
         13
       ],
@@ -1361,16 +1361,24 @@
         7
       ],
       [
-        "Finland",
+        "Valladolid",
         6
       ],
       [
-        "Valladolid",
+        "Finland",
         6
       ],
       [
         "Luxembourg",
         5
+      ],
+      [
+        "Ireland",
+        2
+      ],
+      [
+        "Greece",
+        2
       ],
       [
         "Zaragoza",
@@ -1411,16 +1419,12 @@
         3092
       ],
       [
-        "Other",
-        642
+        "Otros caminos",
+        786
       ],
       [
         "Muxia-Finisterre",
         280
-      ],
-      [
-        "Otros caminos",
-        144
       ]
     ]
   },
@@ -1568,19 +1572,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        52881
+        "España",
+        52934
       ],
       [
-        "Italy",
+        "Italia",
         7429
       ],
       [
-        "Germany",
+        "Alemania",
         7155
       ],
       [
-        "France",
+        "Francia",
         5909
       ],
       [
@@ -1588,15 +1592,15 @@
         2572
       ],
       [
-        "USA",
+        "Estados Unidos",
         2047
       ],
       [
-        "Holland",
+        "Holanda",
         1610
       ],
       [
-        "UK",
+        "Reino Unido",
         1512
       ],
       [
@@ -1604,23 +1608,23 @@
         1470
       ],
       [
-        "Canada",
+        "Canadá",
         1420
       ],
       [
-        "Belgium",
+        "Belgica",
         1283
       ],
       [
-        "Brazil",
+        "Brasil",
         1163
       ],
       [
-        "Swiss",
+        "Suiza",
         726
       ],
       [
-        "Denmark",
+        "Dinamarca",
         698
       ],
       [
@@ -1628,35 +1632,35 @@
         666
       ],
       [
-        "Ireland",
+        "Irlanda",
         622
       ],
       [
-        "Mexico",
+        "México",
         473
       ],
       [
-        "Poland",
+        "Polonia",
         422
       ],
       [
-        "Sweden",
+        "Suecia",
         340
       ],
       [
-        "Czech",
+        "República Checa",
         330
       ],
       [
-        "Hungary",
+        "Hungría",
         326
       ],
       [
-        "Norway",
+        "Noruega",
         278
       ],
       [
-        "Japan",
+        "Japón",
         278
       ],
       [
@@ -1664,15 +1668,15 @@
         277
       ],
       [
-        "Finland",
+        "Finlandia",
         272
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         174
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         162
       ],
       [
@@ -1688,7 +1692,7 @@
         128
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         125
       ],
       [
@@ -1708,11 +1712,7 @@
         56
       ],
       [
-        "España",
-        53
-      ],
-      [
-        "Peru",
+        "Perú",
         51
       ],
       [
@@ -1720,7 +1720,7 @@
         49
       ],
       [
-        "Roumania",
+        "Rumania",
         40
       ],
       [
@@ -1728,7 +1728,7 @@
         31
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         26
       ],
       [
@@ -1736,11 +1736,11 @@
         24
       ],
       [
-        "Korea",
+        "Corea",
         24
       ],
       [
-        "Russia",
+        "Rusia",
         23
       ],
       [
@@ -1756,7 +1756,7 @@
         15
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         14
       ],
       [
@@ -1776,19 +1776,19 @@
         12
       ],
       [
-        "Ukraine",
+        "Ucrania",
         11
       ],
       [
-        "Malaysia",
+        "Malasia",
         11
       ],
       [
-        "Iceland",
+        "Islandia",
         10
       ],
       [
-        "Philippines",
+        "Filipinas",
         10
       ],
       [
@@ -1796,7 +1796,7 @@
         8
       ],
       [
-        "Greece",
+        "Grecia",
         8
       ],
       [
@@ -1804,7 +1804,7 @@
         7
       ],
       [
-        "Lithuania",
+        "Lituania",
         7
       ],
       [
@@ -1828,11 +1828,11 @@
         5
       ],
       [
-        "Taiwan",
+        "Taiwán",
         5
       ],
       [
-        "Latvia",
+        "Letonia",
         5
       ],
       [
@@ -1856,7 +1856,7 @@
         3
       ],
       [
-        "Singapore",
+        "Singapur",
         3
       ],
       [
@@ -1872,11 +1872,11 @@
         3
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         2
       ],
       [
-        "Cyprus",
+        "Chipre",
         2
       ],
       [
@@ -1888,7 +1888,7 @@
         2
       ],
       [
-        "Turkey",
+        "Turquía",
         2
       ],
       [
@@ -1920,7 +1920,7 @@
         2
       ],
       [
-        "Lebanon",
+        "Líbano",
         2
       ],
       [
@@ -2642,44 +2642,36 @@
     ],
     "startingRegions": [
       [
-        "León",
-        18205
+        "Lugo",
+        25355
       ],
       [
-        "Sarria",
-        14848
+        "León",
+        20725
+      ],
+      [
+        "France",
+        15069
       ],
       [
         "Navarra",
         12844
       ],
       [
-        "Lugo - Sarria",
-        10485
-      ],
-      [
-        "St. Jean",
-        9851
-      ],
-      [
-        "Other",
-        5720
-      ],
-      [
-        "France - St. Jean",
-        3607
-      ],
-      [
-        "Port- ugal",
+        "Portugal",
         2845
       ],
       [
-        "Ponte- vedra",
+        "Pontevedra",
         2662
       ],
       [
         "Burgos",
         2661
+      ],
+      [
+        "Asturias",
+        1681
       ],
       [
         "Ourense",
@@ -2690,20 +2682,16 @@
         1084
       ],
       [
-        "Sevilla",
-        1004
+        "Gipuzkoa",
+        1056
       ],
       [
-        "Asturias",
-        908
+        "Sevilla",
+        1015
       ],
       [
         "A Coruña",
         758
-      ],
-      [
-        "Gipuzkoa",
-        720
       ],
       [
         "Holland",
@@ -2727,7 +2715,7 @@
       ],
       [
         "Badajoz",
-        335
+        357
       ],
       [
         "Vizcaya",
@@ -2751,15 +2739,23 @@
       ],
       [
         "Madrid",
-        154
+        177
+      ],
+      [
+        "Other",
+        155
+      ],
+      [
+        "Barcelona",
+        129
       ],
       [
         "Austria",
         78
       ],
       [
-        "Barcelona",
-        58
+        "Valencia",
+        76
       ],
       [
         "Italy",
@@ -2774,11 +2770,19 @@
         54
       ],
       [
-        "Málaga",
-        15
+        "Huelva",
+        53
       ],
       [
-        "Huelva",
+        "Albacete",
+        28
+      ],
+      [
+        "UK",
+        27
+      ],
+      [
+        "Málaga",
         15
       ],
       [
@@ -2790,15 +2794,15 @@
         11
       ],
       [
-        "Valladolid",
-        10
-      ],
-      [
         "Granada",
         10
       ],
       [
         "Czech Republic",
+        10
+      ],
+      [
+        "Valladolid",
         10
       ],
       [
@@ -2818,8 +2822,16 @@
         6
       ],
       [
+        "Israel",
+        4
+      ],
+      [
         "Córdoba",
         4
+      ],
+      [
+        "Ireland",
+        3
       ],
       [
         "Finland",
@@ -2852,16 +2864,12 @@
         651
       ],
       [
-        "Other",
-        155
+        "Otros caminos",
+        252
       ],
       [
         "Muxia-Finisterre",
         107
-      ],
-      [
-        "Otros caminos",
-        97
       ]
     ]
   },
@@ -3009,19 +3017,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        52211
+        "España",
+        52248
       ],
       [
-        "Italy",
+        "Italia",
         10013
       ],
       [
-        "Germany",
+        "Alemania",
         8097
       ],
       [
-        "France",
+        "Francia",
         6791
       ],
       [
@@ -3029,23 +3037,23 @@
         3365
       ],
       [
-        "USA",
+        "Estados Unidos",
         1909
       ],
       [
-        "Holland",
+        "Holanda",
         1633
       ],
       [
-        "Canada",
+        "Canadá",
         1546
       ],
       [
-        "UK",
+        "Reino Unido",
         1541
       ],
       [
-        "Belgium",
+        "Belgica",
         1443
       ],
       [
@@ -3053,19 +3061,19 @@
         1422
       ],
       [
-        "Brazil",
+        "Brasil",
         1172
       ],
       [
-        "Ireland",
+        "Irlanda",
         849
       ],
       [
-        "Denmark",
+        "Dinamarca",
         801
       ],
       [
-        "Swiss",
+        "Suiza",
         780
       ],
       [
@@ -3073,31 +3081,31 @@
         730
       ],
       [
-        "Hungary",
+        "Hungría",
         609
       ],
       [
-        "Poland",
+        "Polonia",
         600
       ],
       [
-        "Mexico",
+        "México",
         484
       ],
       [
-        "Sweden",
+        "Suecia",
         411
       ],
       [
-        "Finland",
+        "Finlandia",
         408
       ],
       [
-        "Czech",
+        "República Checa",
         399
       ],
       [
-        "Norway",
+        "Noruega",
         373
       ],
       [
@@ -3105,15 +3113,15 @@
         347
       ],
       [
-        "Japan",
+        "Japón",
         282
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         222
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         198
       ],
       [
@@ -3125,7 +3133,7 @@
         140
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         138
       ],
       [
@@ -3137,11 +3145,11 @@
         89
       ],
       [
-        "Estonia",
+        "Chile",
         84
       ],
       [
-        "Chile",
+        "Estonia",
         84
       ],
       [
@@ -3149,7 +3157,7 @@
         80
       ],
       [
-        "Korea",
+        "Corea",
         66
       ],
       [
@@ -3157,11 +3165,11 @@
         60
       ],
       [
-        "Peru",
+        "Perú",
         46
       ],
       [
-        "Roumania",
+        "Rumania",
         45
       ],
       [
@@ -3169,19 +3177,15 @@
         42
       ],
       [
-        "España",
-        37
-      ],
-      [
         "Puerto Rico",
         37
       ],
       [
-        "Russia",
+        "Rusia",
         30
       ],
       [
-        "Latvia",
+        "Letonia",
         26
       ],
       [
@@ -3189,15 +3193,15 @@
         25
       ],
       [
-        "Philippines",
+        "Luxemburgo",
         24
       ],
       [
-        "Luxemburg",
+        "Filipinas",
         24
       ],
       [
-        "Iceland",
+        "Islandia",
         22
       ],
       [
@@ -3205,11 +3209,11 @@
         20
       ],
       [
-        "Greece",
+        "Grecia",
         20
       ],
       [
-        "Lithuania",
+        "Lituania",
         18
       ],
       [
@@ -3229,7 +3233,7 @@
         16
       ],
       [
-        "Taiwan",
+        "Taiwán",
         15
       ],
       [
@@ -3241,7 +3245,7 @@
         13
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         11
       ],
       [
@@ -3257,7 +3261,7 @@
         9
       ],
       [
-        "Turkey",
+        "Turquía",
         9
       ],
       [
@@ -3265,11 +3269,11 @@
         8
       ],
       [
-        "Singapore",
+        "Singapur",
         8
       ],
       [
-        "Ukraine",
+        "Paraguay",
         7
       ],
       [
@@ -3277,11 +3281,11 @@
         7
       ],
       [
-        "Paraguay",
+        "Ucrania",
         7
       ],
       [
-        "Malaysia",
+        "Malasia",
         6
       ],
       [
@@ -3333,7 +3337,7 @@
         2
       ],
       [
-        "Lebanon",
+        "Líbano",
         2
       ],
       [
@@ -3353,7 +3357,7 @@
         2
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         2
       ],
       [
@@ -3397,7 +3401,7 @@
         1
       ],
       [
-        "Cyprus",
+        "Chipre",
         1
       ],
       [
@@ -4091,48 +4095,40 @@
     ],
     "startingRegions": [
       [
-        "León",
-        18081
+        "Lugo",
+        26777
       ],
       [
-        "Sarria",
-        16215
+        "León",
+        20828
+      ],
+      [
+        "France",
+        16964
       ],
       [
         "Navarra",
         12893
       ],
       [
-        "St. Jean",
-        10875
-      ],
-      [
-        "Lugo - Sarria",
-        10527
-      ],
-      [
-        "Other",
-        6519
-      ],
-      [
-        "France - St. Jean",
-        4315
-      ],
-      [
-        "Port- ugal",
-        4143
+        "Portugal",
+        4070
       ],
       [
         "Burgos",
         2858
       ],
       [
-        "Ponte- vedra",
+        "Asturias",
+        2407
+      ],
+      [
+        "Pontevedra",
         2396
       ],
       [
-        "Asturias",
-        1386
+        "Gipuzkoa",
+        1320
       ],
       [
         "Ourense",
@@ -4140,7 +4136,7 @@
       ],
       [
         "Sevilla",
-        1015
+        1051
       ],
       [
         "La Rioja",
@@ -4149,10 +4145,6 @@
       [
         "A Coruña",
         919
-      ],
-      [
-        "Gipuzkoa",
-        875
       ],
       [
         "Holland",
@@ -4183,12 +4175,12 @@
         331
       ],
       [
-        "Belgium",
-        315
+        "Badajoz",
+        329
       ],
       [
-        "Badajoz",
-        301
+        "Belgium",
+        315
       ],
       [
         "Switzerland",
@@ -4200,15 +4192,31 @@
       ],
       [
         "Madrid",
-        189
+        208
+      ],
+      [
+        "Barcelona",
+        169
+      ],
+      [
+        "Other",
+        120
+      ],
+      [
+        "Valencia",
+        83
       ],
       [
         "Austria",
         78
       ],
       [
-        "Barcelona",
-        70
+        "Porgugal",
+        73
+      ],
+      [
+        "Huelva",
+        67
       ],
       [
         "Zaragoza",
@@ -4227,6 +4235,14 @@
         32
       ],
       [
+        "Albacete",
+        25
+      ],
+      [
+        "UK",
+        24
+      ],
+      [
         "Málaga",
         21
       ],
@@ -4239,10 +4255,6 @@
         20
       ],
       [
-        "Huelva",
-        13
-      ],
-      [
         "Valladolid",
         10
       ],
@@ -4251,7 +4263,11 @@
         9
       ],
       [
-        "Luxembourg",
+        "Ireland",
+        9
+      ],
+      [
+        "Poland",
         5
       ],
       [
@@ -4259,7 +4275,7 @@
         5
       ],
       [
-        "Poland",
+        "Luxembourg",
         5
       ],
       [
@@ -4305,16 +4321,12 @@
         804
       ],
       [
-        "Other",
-        120
+        "Otros caminos",
+        215
       ],
       [
         "Muxia-Finisterre",
         115
-      ],
-      [
-        "Otros caminos",
-        95
       ]
     ]
   },
@@ -4462,19 +4474,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
+        "España",
         55326
       ],
       [
-        "Germany",
+        "Alemania",
         13837
       ],
       [
-        "Italy",
+        "Italia",
         10275
       ],
       [
-        "France",
+        "Francia",
         6982
       ],
       [
@@ -4482,15 +4494,15 @@
         4001
       ],
       [
-        "USA",
+        "Estados Unidos",
         2229
       ],
       [
-        "Canada",
+        "Canadá",
         1850
       ],
       [
-        "UK",
+        "Reino Unido",
         1696
       ],
       [
@@ -4498,31 +4510,31 @@
         1686
       ],
       [
-        "Holland",
+        "Holanda",
         1655
       ],
       [
-        "Brazil",
+        "Brasil",
         1395
       ],
       [
-        "Belgium",
+        "Belgica",
         1332
       ],
       [
-        "Swiss",
+        "Suiza",
         1136
       ],
       [
-        "Ireland",
+        "Irlanda",
         1090
       ],
       [
-        "Poland",
+        "Polonia",
         867
       ],
       [
-        "Denmark",
+        "Dinamarca",
         835
       ],
       [
@@ -4530,31 +4542,31 @@
         785
       ],
       [
-        "Norway",
+        "Noruega",
         628
       ],
       [
-        "Hungary",
+        "Hungría",
         625
       ],
       [
-        "Sweden",
+        "Suecia",
         588
       ],
       [
-        "Czech",
+        "República Checa",
         560
       ],
       [
-        "Mexico",
+        "México",
         514
       ],
       [
-        "Finland",
+        "Finlandia",
         427
       ],
       [
-        "Korea",
+        "Corea",
         423
       ],
       [
@@ -4562,19 +4574,19 @@
         377
       ],
       [
-        "Japan",
+        "Japón",
         327
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         269
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         262
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         195
       ],
       [
@@ -4606,7 +4618,7 @@
         79
       ],
       [
-        "Roumania",
+        "Rumania",
         75
       ],
       [
@@ -4618,15 +4630,15 @@
         56
       ],
       [
-        "Peru",
+        "Perú",
         56
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         53
       ],
       [
-        "Russia",
+        "Rusia",
         50
       ],
       [
@@ -4638,7 +4650,7 @@
         36
       ],
       [
-        "Ukraine",
+        "Ucrania",
         33
       ],
       [
@@ -4646,7 +4658,7 @@
         31
       ],
       [
-        "Lithuania",
+        "Lituania",
         30
       ],
       [
@@ -4662,7 +4674,7 @@
         26
       ],
       [
-        "Iceland",
+        "Islandia",
         24
       ],
       [
@@ -4678,7 +4690,7 @@
         20
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         20
       ],
       [
@@ -4690,7 +4702,7 @@
         19
       ],
       [
-        "Philippines",
+        "Filipinas",
         16
       ],
       [
@@ -4698,11 +4710,11 @@
         15
       ],
       [
-        "Greece",
+        "Grecia",
         14
       ],
       [
-        "Latvia",
+        "Letonia",
         13
       ],
       [
@@ -4714,11 +4726,11 @@
         10
       ],
       [
-        "Lebanon",
+        "Líbano",
         10
       ],
       [
-        "Taiwan",
+        "Taiwán",
         8
       ],
       [
@@ -4726,7 +4738,7 @@
         7
       ],
       [
-        "Singapore",
+        "Singapur",
         7
       ],
       [
@@ -4762,7 +4774,7 @@
         4
       ],
       [
-        "Malaysia",
+        "Malasia",
         4
       ],
       [
@@ -4814,7 +4826,7 @@
         2
       ],
       [
-        "Turkey",
+        "Turquía",
         2
       ],
       [
@@ -4946,7 +4958,7 @@
         1
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         1
       ]
     ],
@@ -5596,64 +5608,52 @@
     ],
     "startingRegions": [
       [
+        "Lugo",
+        30777
+      ],
+      [
         "León",
-        19371
+        22374
       ],
       [
-        "Sarria",
-        18969
-      ],
-      [
-        "St. Jean",
-        14040
+        "France",
+        20537
       ],
       [
         "Navarra",
         13193
       ],
       [
-        "Lugo - Sarria",
-        11786
+        "Portugal",
+        5200
       ],
       [
-        "Other",
-        6681
-      ],
-      [
-        "Port- ugal",
-        5334
-      ],
-      [
-        "France - St. Jean",
-        4627
+        "Asturias",
+        3168
       ],
       [
         "Burgos",
         3020
       ],
       [
-        "Ponte- vedra",
+        "Pontevedra",
         2910
       ],
       [
-        "Asturias",
-        2336
+        "Gipuzkoa",
+        1579
       ],
       [
         "Sevilla",
-        1432
+        1486
       ],
       [
         "Ourense",
-        1415
+        1417
       ],
       [
         "A Coruña",
         1266
-      ],
-      [
-        "Gipuzkoa",
-        1096
       ],
       [
         "La Rioja",
@@ -5692,12 +5692,12 @@
         314
       ],
       [
-        "Belgium",
-        284
+        "Badajoz",
+        294
       ],
       [
-        "Badajoz",
-        267
+        "Belgium",
+        284
       ],
       [
         "Salamanca",
@@ -5705,7 +5705,19 @@
       ],
       [
         "Madrid",
-        222
+        247
+      ],
+      [
+        "Barcelona",
+        167
+      ],
+      [
+        "Porgugal",
+        134
+      ],
+      [
+        "Valencia",
+        98
       ],
       [
         "Austria",
@@ -5716,6 +5728,10 @@
         69
       ],
       [
+        "Other",
+        63
+      ],
+      [
         "Italy",
         60
       ],
@@ -5724,8 +5740,12 @@
         59
       ],
       [
-        "Barcelona",
-        55
+        "Huelva",
+        46
+      ],
+      [
+        "Albacete",
+        34
       ],
       [
         "Murcia",
@@ -5740,12 +5760,12 @@
         18
       ],
       [
-        "Denmark",
-        15
+        "UK",
+        16
       ],
       [
-        "Huelva",
-        13
+        "Denmark",
+        15
       ],
       [
         "Málaga",
@@ -5772,11 +5792,27 @@
         5
       ],
       [
-        "Hungary",
+        "Ireland",
+        3
+      ],
+      [
+        "Israel",
+        2
+      ],
+      [
+        "Greece",
+        1
+      ],
+      [
+        "Egypt",
         1
       ],
       [
         "Andorra",
+        1
+      ],
+      [
+        "Hungary",
         1
       ]
     ],
@@ -5806,16 +5842,12 @@
         1085
       ],
       [
+        "Otros caminos",
+        201
+      ],
+      [
         "Muxia-Finisterre",
         179
-      ],
-      [
-        "Otros caminos",
-        138
-      ],
-      [
-        "Other",
-        63
       ]
     ]
   },
@@ -5963,19 +5995,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        60992
+        "España",
+        61112
       ],
       [
-        "Germany",
+        "Alemania",
         15746
       ],
       [
-        "Italy",
+        "Italia",
         10707
       ],
       [
-        "France",
+        "Francia",
         6618
       ],
       [
@@ -5983,15 +6015,15 @@
         4341
       ],
       [
-        "USA",
+        "Estados Unidos",
         2214
       ],
       [
-        "Canada",
+        "Canadá",
         1933
       ],
       [
-        "Holland",
+        "Holanda",
         1864
       ],
       [
@@ -5999,27 +6031,27 @@
         1847
       ],
       [
-        "UK",
+        "Reino Unido",
         1559
       ],
       [
-        "Ireland",
+        "Irlanda",
         1535
       ],
       [
-        "Brazil",
+        "Brasil",
         1365
       ],
       [
-        "Belgium",
+        "Belgica",
         1291
       ],
       [
-        "Swiss",
+        "Suiza",
         1246
       ],
       [
-        "Poland",
+        "Polonia",
         1102
       ],
       [
@@ -6027,39 +6059,39 @@
         1022
       ],
       [
-        "Denmark",
+        "Dinamarca",
         986
       ],
       [
-        "Sweden",
+        "Suecia",
         929
       ],
       [
-        "Korea",
+        "Corea",
         830
       ],
       [
-        "Hungary",
+        "Hungría",
         730
       ],
       [
-        "Norway",
+        "Noruega",
         718
       ],
       [
-        "Mexico",
+        "México",
         653
       ],
       [
-        "Finland",
+        "Finlandia",
         619
       ],
       [
-        "Czech",
+        "República Checa",
         564
       ],
       [
-        "Japan",
+        "Japón",
         412
       ],
       [
@@ -6067,11 +6099,11 @@
         360
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         274
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         249
       ],
       [
@@ -6087,16 +6119,12 @@
         196
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         162
       ],
       [
         "Estonia",
         129
-      ],
-      [
-        "España",
-        120
       ],
       [
         "",
@@ -6107,7 +6135,7 @@
         83
       ],
       [
-        "Roumania",
+        "Rumania",
         78
       ],
       [
@@ -6115,7 +6143,7 @@
         77
       ],
       [
-        "Russia",
+        "Rusia",
         72
       ],
       [
@@ -6123,11 +6151,11 @@
         67
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         66
       ],
       [
-        "Peru",
+        "Perú",
         64
       ],
       [
@@ -6139,7 +6167,7 @@
         59
       ],
       [
-        "Lithuania",
+        "Lituania",
         54
       ],
       [
@@ -6155,15 +6183,15 @@
         37
       ],
       [
-        "Ukraine",
+        "Ucrania",
         31
       ],
       [
-        "Latvia",
+        "Letonia",
         29
       ],
       [
-        "Iceland",
+        "Islandia",
         28
       ],
       [
@@ -6171,7 +6199,7 @@
         26
       ],
       [
-        "Greece",
+        "Grecia",
         26
       ],
       [
@@ -6183,11 +6211,11 @@
         23
       ],
       [
-        "Philippines",
+        "Filipinas",
         22
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         21
       ],
       [
@@ -6195,11 +6223,11 @@
         20
       ],
       [
-        "Malta",
+        "Marruecos",
         16
       ],
       [
-        "Marruecos",
+        "Malta",
         16
       ],
       [
@@ -6207,7 +6235,7 @@
         14
       ],
       [
-        "Turkey",
+        "Turquía",
         13
       ],
       [
@@ -6215,7 +6243,7 @@
         12
       ],
       [
-        "Taiwan",
+        "Taiwán",
         11
       ],
       [
@@ -6223,7 +6251,11 @@
         11
       ],
       [
-        "Singapore",
+        "El Salvador",
+        9
+      ],
+      [
+        "Singapur",
         9
       ],
       [
@@ -6231,15 +6263,15 @@
         9
       ],
       [
-        "El Salvador",
-        9
-      ],
-      [
-        "Cyprus",
+        "Honduras",
         8
       ],
       [
-        "Honduras",
+        "Líbano",
+        8
+      ],
+      [
+        "Chipre",
         8
       ],
       [
@@ -6247,23 +6279,11 @@
         8
       ],
       [
-        "Lebanon",
-        8
-      ],
-      [
-        "Malaysia",
+        "Malasia",
         6
       ],
       [
-        "Panamá",
-        5
-      ],
-      [
         "Argelia",
-        5
-      ],
-      [
-        "Serbia",
         5
       ],
       [
@@ -6271,11 +6291,15 @@
         5
       ],
       [
-        "Angola",
-        4
+        "Panamá",
+        5
       ],
       [
-        "Liechtensein",
+        "Serbia",
+        5
+      ],
+      [
+        "Angola",
         4
       ],
       [
@@ -6283,15 +6307,15 @@
         4
       ],
       [
+        "Liechtensein",
+        4
+      ],
+      [
         "Moldavia",
         4
       ],
       [
-        "San Marino",
-        3
-      ],
-      [
-        "Vietnam",
+        "Sri Lanka",
         3
       ],
       [
@@ -6299,7 +6323,7 @@
         3
       ],
       [
-        "Sri Lanka",
+        "San Marino",
         3
       ],
       [
@@ -6307,11 +6331,11 @@
         3
       ],
       [
-        "Camerún",
-        2
+        "Vietnam",
+        3
       ],
       [
-        "Egipto",
+        "Camerún",
         2
       ],
       [
@@ -6335,15 +6359,19 @@
         2
       ],
       [
+        "Egipto",
+        2
+      ],
+      [
         "Armenia",
         1
       ],
       [
-        "Belarus",
+        "Jordania",
         1
       ],
       [
-        "Islas Vírgenes",
+        "Bielorrusia",
         1
       ],
       [
@@ -6363,7 +6391,7 @@
         1
       ],
       [
-        "Jordania",
+        "Ghana",
         1
       ],
       [
@@ -6407,7 +6435,7 @@
         1
       ],
       [
-        "Ghana",
+        "Islas Vírgenes",
         1
       ]
     ],
@@ -7057,64 +7085,52 @@
     ],
     "startingRegions": [
       [
+        "Lugo",
+        33511
+      ],
+      [
         "León",
-        21016
+        24201
       ],
       [
-        "Sarria",
-        20853
-      ],
-      [
-        "St. Jean",
-        15763
+        "France",
+        22174
       ],
       [
         "Navarra",
         13835
       ],
       [
-        "Lugo - Sarria",
-        12644
+        "Portugal",
+        6065
       ],
       [
-        "Other",
-        7407
+        "Asturias",
+        3781
       ],
       [
-        "Port- ugal",
-        6220
-      ],
-      [
-        "France - St. Jean",
-        4450
-      ],
-      [
-        "Ponte- vedra",
-        3705
+        "Pontevedra",
+        3706
       ],
       [
         "Burgos",
         3246
       ],
       [
-        "Asturias",
-        2737
+        "Gipuzkoa",
+        1911
+      ],
+      [
+        "Sevilla",
+        1770
       ],
       [
         "Ourense",
         1716
       ],
       [
-        "Sevilla",
-        1703
-      ],
-      [
         "A Coruña",
         1531
-      ],
-      [
-        "Gipuzkoa",
-        1356
       ],
       [
         "La Rioja",
@@ -7158,18 +7174,26 @@
       ],
       [
         "Madrid",
-        271
+        300
+      ],
+      [
+        "Barcelona",
+        269
+      ],
+      [
+        "Badajoz",
+        264
       ],
       [
         "Belgium",
         230
       ],
       [
-        "Badajoz",
-        225
+        "Porgugal",
+        155
       ],
       [
-        "Barcelona",
+        "Valencia",
         116
       ],
       [
@@ -7177,16 +7201,28 @@
         97
       ],
       [
+        "Albacete",
+        84
+      ],
+      [
         "Cáceres",
         76
+      ],
+      [
+        "Other",
+        73
+      ],
+      [
+        "Austria",
+        72
       ],
       [
         "Zaragoza",
         72
       ],
       [
-        "Austria",
-        72
+        "Huelva",
+        49
       ],
       [
         "Murcia",
@@ -7201,12 +7237,16 @@
         30
       ],
       [
-        "Valladolid",
-        15
+        "Ireland",
+        29
       ],
       [
-        "Huelva",
-        11
+        "UK",
+        16
+      ],
+      [
+        "Valladolid",
+        15
       ],
       [
         "Poland",
@@ -7217,11 +7257,11 @@
         6
       ],
       [
-        "Córdoba",
+        "Europe Other",
         4
       ],
       [
-        "Europe Other",
+        "Córdoba",
         4
       ],
       [
@@ -7229,15 +7269,23 @@
         3
       ],
       [
+        "Greece",
+        2
+      ],
+      [
         "Luxembourg",
         2
+      ],
+      [
+        "Denmark",
+        1
       ],
       [
         "Hungary",
         1
       ],
       [
-        "Denmark",
+        "Israel",
         1
       ],
       [
@@ -7272,15 +7320,11 @@
       ],
       [
         "Otros caminos",
-        227
+        300
       ],
       [
         "Muxia-Finisterre",
         104
-      ],
-      [
-        "Other",
-        73
       ]
     ]
   },
@@ -7428,19 +7472,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        78902
+        "España",
+        79007
       ],
       [
-        "Germany",
+        "Alemania",
         14789
       ],
       [
-        "Italy",
+        "Italia",
         10340
       ],
       [
-        "France",
+        "Francia",
         7459
       ],
       [
@@ -7448,11 +7492,11 @@
         4855
       ],
       [
-        "USA",
+        "Estados Unidos",
         2540
       ],
       [
-        "Canada",
+        "Canadá",
         2194
       ],
       [
@@ -7460,43 +7504,43 @@
         1995
       ],
       [
-        "Holland",
+        "Holanda",
         1916
       ],
       [
-        "Ireland",
+        "Irlanda",
         1722
       ],
       [
-        "UK",
+        "Reino Unido",
         1700
       ],
       [
-        "Belgium",
+        "Belgica",
         1410
       ],
       [
-        "Poland",
+        "Polonia",
         1321
       ],
       [
-        "Brazil",
+        "Brasil",
         1248
       ],
       [
-        "Swiss",
+        "Suiza",
         1208
       ],
       [
-        "Korea",
+        "Corea",
         1079
       ],
       [
-        "Denmark",
+        "Dinamarca",
         1061
       ],
       [
-        "Sweden",
+        "Suecia",
         1039
       ],
       [
@@ -7504,27 +7548,27 @@
         1015
       ],
       [
-        "Finland",
+        "Finlandia",
         825
       ],
       [
-        "Hungary",
+        "Hungría",
         710
       ],
       [
-        "Norway",
+        "Noruega",
         647
       ],
       [
-        "Mexico",
+        "México",
         638
       ],
       [
-        "Czech",
+        "República Checa",
         618
       ],
       [
-        "Japan",
+        "Japón",
         527
       ],
       [
@@ -7532,7 +7576,7 @@
         461
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         413
       ],
       [
@@ -7548,11 +7592,11 @@
         273
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         262
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         200
       ],
       [
@@ -7564,15 +7608,11 @@
         110
       ],
       [
-        "España",
-        105
-      ],
-      [
-        "Roumania",
+        "Rumania",
         104
       ],
       [
-        "Russia",
+        "Rusia",
         94
       ],
       [
@@ -7584,15 +7624,15 @@
         85
       ],
       [
-        "Lithuania",
+        "Lituania",
         83
       ],
       [
-        "Peru",
+        "Luxemburgo",
         82
       ],
       [
-        "Luxemburg",
+        "Perú",
         82
       ],
       [
@@ -7620,15 +7660,11 @@
         52
       ],
       [
-        "Greece",
+        "Grecia",
         37
       ],
       [
-        "Costa Rica",
-        35
-      ],
-      [
-        "Latvia",
+        "Letonia",
         35
       ],
       [
@@ -7636,11 +7672,15 @@
         35
       ],
       [
-        "Ukraine",
+        "Costa Rica",
+        35
+      ],
+      [
+        "Ucrania",
         33
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         27
       ],
       [
@@ -7648,35 +7688,35 @@
         27
       ],
       [
-        "Turkey",
+        "Turquía",
         16
-      ],
-      [
-        "Philippines",
-        15
       ],
       [
         "Guatemala",
         15
       ],
       [
-        "",
-        14
-      ],
-      [
-        "Taiwan",
-        14
+        "Filipinas",
+        15
       ],
       [
         "Islas Feroe",
         14
       ],
       [
-        "Paraguay",
+        "Taiwán",
+        14
+      ],
+      [
+        "",
+        14
+      ],
+      [
+        "Islandia",
         13
       ],
       [
-        "Iceland",
+        "Paraguay",
         13
       ],
       [
@@ -7684,7 +7724,7 @@
         12
       ],
       [
-        "Singapore",
+        "Singapur",
         12
       ],
       [
@@ -7708,15 +7748,15 @@
         8
       ],
       [
-        "Irán",
-        7
-      ],
-      [
         "Honduras",
         7
       ],
       [
         "El Salvador",
+        7
+      ],
+      [
+        "Irán",
         7
       ],
       [
@@ -7732,11 +7772,11 @@
         5
       ],
       [
-        "Egipto",
+        "Nicaragua",
         5
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         5
       ],
       [
@@ -7748,7 +7788,7 @@
         5
       ],
       [
-        "Nicaragua",
+        "Egipto",
         5
       ],
       [
@@ -7756,7 +7796,7 @@
         5
       ],
       [
-        "Malaysia",
+        "Malasia",
         4
       ],
       [
@@ -7784,7 +7824,7 @@
         4
       ],
       [
-        "Lebanon",
+        "Líbano",
         4
       ],
       [
@@ -7848,7 +7888,7 @@
         2
       ],
       [
-        "Cyprus",
+        "Chipre",
         2
       ],
       [
@@ -8598,39 +8638,31 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        26203
+        "Lugo",
+        41121
       ],
       [
         "León",
-        24309
+        28316
       ],
       [
-        "St. Jean",
-        15826
+        "France",
+        22544
       ],
       [
         "Navarra",
         15059
       ],
       [
-        "Lugo - Sarria",
-        14846
+        "Portugal",
+        7618
       ],
       [
-        "Other",
-        9499
+        "Asturias",
+        5420
       ],
       [
-        "Port- ugal",
-        7762
-      ],
-      [
-        "France - St. Jean",
-        4828
-      ],
-      [
-        "Ponte- vedra",
+        "Pontevedra",
         4334
       ],
       [
@@ -8638,8 +8670,8 @@
         3818
       ],
       [
-        "Asturias",
-        3301
+        "Gipuzkoa",
+        2429
       ],
       [
         "Ourense",
@@ -8647,15 +8679,11 @@
       ],
       [
         "Sevilla",
-        1905
-      ],
-      [
-        "Gipuzkoa",
-        1892
+        1990
       ],
       [
         "A Coruña",
-        1863
+        1865
       ],
       [
         "La Rioja",
@@ -8694,24 +8722,36 @@
         399
       ],
       [
-        "Switzerland",
-        297
+        "Barcelona",
+        353
       ],
       [
         "Madrid",
-        287
+        340
       ],
       [
         "Badajoz",
-        265
+        317
+      ],
+      [
+        "Switzerland",
+        297
       ],
       [
         "Belgium",
         261
       ],
       [
-        "Barcelona",
-        170
+        "Other",
+        205
+      ],
+      [
+        "Valencia",
+        147
+      ],
+      [
+        "Porgugal",
+        144
       ],
       [
         "Zaragoza",
@@ -8720,6 +8760,10 @@
       [
         "Austria",
         118
+      ],
+      [
+        "Huelva",
+        88
       ],
       [
         "Poland",
@@ -8732,6 +8776,10 @@
       [
         "Italy",
         60
+      ],
+      [
+        "Albacete",
+        56
       ],
       [
         "Europe Other",
@@ -8750,8 +8798,8 @@
         26
       ],
       [
-        "Huelva",
-        24
+        "UK",
+        17
       ],
       [
         "Valladolid",
@@ -8760,6 +8808,10 @@
       [
         "Murcia",
         13
+      ],
+      [
+        "Ireland",
+        9
       ],
       [
         "Czech Republic",
@@ -8778,6 +8830,10 @@
         2
       ],
       [
+        "Andorra",
+        1
+      ],
+      [
         "Russia",
         1
       ],
@@ -8786,7 +8842,7 @@
         1
       ],
       [
-        "Andorra",
+        "Egypt",
         1
       ]
     ],
@@ -8817,11 +8873,7 @@
       ],
       [
         "Otros caminos",
-        216
-      ],
-      [
-        "Other",
-        205
+        421
       ],
       [
         "Muxia-Finisterre",
@@ -8973,19 +9025,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        189908
+        "España",
+        189943
       ],
       [
-        "Germany",
+        "Alemania",
         14241
       ],
       [
-        "Italy",
+        "Italia",
         13963
       ],
       [
-        "France",
+        "Francia",
         8961
       ],
       [
@@ -8993,31 +9045,31 @@
         7668
       ],
       [
-        "USA",
+        "Estados Unidos",
         3241
       ],
       [
-        "Ireland",
+        "Irlanda",
         2254
       ],
       [
-        "Brazil",
+        "Brasil",
         2072
       ],
       [
-        "Holland",
+        "Holanda",
         2046
       ],
       [
-        "Poland",
+        "Polonia",
         2016
       ],
       [
-        "UK",
+        "Reino Unido",
         1991
       ],
       [
-        "Canada",
+        "Canadá",
         1854
       ],
       [
@@ -9025,19 +9077,19 @@
         1744
       ],
       [
-        "Belgium",
+        "Belgica",
         1478
       ],
       [
-        "Korea",
+        "Corea",
         1447
       ],
       [
-        "Mexico",
+        "México",
         1411
       ],
       [
-        "Sweden",
+        "Suecia",
         1248
       ],
       [
@@ -9045,7 +9097,7 @@
         1149
       ],
       [
-        "Swiss",
+        "Suiza",
         1124
       ],
       [
@@ -9053,7 +9105,7 @@
         1104
       ],
       [
-        "Denmark",
+        "Dinamarca",
         975
       ],
       [
@@ -9061,11 +9113,11 @@
         839
       ],
       [
-        "Japan",
+        "Japón",
         786
       ],
       [
-        "Finland",
+        "Finlandia",
         741
       ],
       [
@@ -9073,19 +9125,19 @@
         733
       ],
       [
-        "Hungary",
+        "Hungría",
         708
       ],
       [
-        "Czech",
+        "República Checa",
         665
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         600
       ],
       [
-        "Norway",
+        "Noruega",
         590
       ],
       [
@@ -9093,7 +9145,7 @@
         421
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         299
       ],
       [
@@ -9113,19 +9165,19 @@
         238
       ],
       [
-        "Roumania",
+        "Rumania",
         235
       ],
       [
-        "Russia",
+        "Rusia",
         229
       ],
       [
-        "Peru",
+        "Perú",
         221
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         217
       ],
       [
@@ -9133,7 +9185,7 @@
         173
       ],
       [
-        "Lithuania",
+        "Lituania",
         140
       ],
       [
@@ -9145,7 +9197,7 @@
         123
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         114
       ],
       [
@@ -9165,15 +9217,15 @@
         68
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         66
       ],
       [
-        "Greece",
+        "Grecia",
         62
       ],
       [
-        "Ukraine",
+        "Ucrania",
         61
       ],
       [
@@ -9181,15 +9233,15 @@
         56
       ],
       [
-        "Philippines",
+        "Filipinas",
         50
       ],
       [
-        "Latvia",
+        "Cuba",
         47
       ],
       [
-        "Cuba",
+        "Letonia",
         47
       ],
       [
@@ -9209,23 +9261,19 @@
         40
       ],
       [
-        "Malta",
-        38
-      ],
-      [
         "Guatemala",
         38
       ],
       [
-        "España",
-        35
+        "Malta",
+        38
       ],
       [
-        "",
+        "Taiwán",
         28
       ],
       [
-        "Taiwan",
+        "",
         28
       ],
       [
@@ -9237,7 +9285,7 @@
         20
       ],
       [
-        "Turkey",
+        "Turquía",
         19
       ],
       [
@@ -9249,7 +9297,7 @@
         18
       ],
       [
-        "Singapore",
+        "Singapur",
         18
       ],
       [
@@ -9257,11 +9305,11 @@
         16
       ],
       [
-        "Islas Feroe",
+        "Irán",
         14
       ],
       [
-        "Irán",
+        "Islas Feroe",
         14
       ],
       [
@@ -9273,19 +9321,15 @@
         13
       ],
       [
-        "Iceland",
-        12
-      ],
-      [
         "Guinea Ecuatorial",
         12
       ],
       [
-        "Belarus",
-        11
+        "Islandia",
+        12
       ],
       [
-        "Pakistán",
+        "Bielorrusia",
         11
       ],
       [
@@ -9293,7 +9337,11 @@
         11
       ],
       [
-        "Lebanon",
+        "Pakistán",
+        11
+      ],
+      [
+        "Líbano",
         10
       ],
       [
@@ -9301,7 +9349,7 @@
         10
       ],
       [
-        "Malaysia",
+        "Malasia",
         10
       ],
       [
@@ -9309,11 +9357,7 @@
         9
       ],
       [
-        "Armenia",
-        8
-      ],
-      [
-        "Cyprus",
+        "Chipre",
         8
       ],
       [
@@ -9321,15 +9365,11 @@
         8
       ],
       [
-        "Cabo Verde",
-        7
+        "Armenia",
+        8
       ],
       [
         "Kenya",
-        7
-      ],
-      [
-        "Georgia",
         7
       ],
       [
@@ -9337,15 +9377,23 @@
         7
       ],
       [
-        "Indonesia",
-        6
+        "Georgia",
+        7
+      ],
+      [
+        "Cabo Verde",
+        7
       ],
       [
         "Guyana",
         6
       ],
       [
-        "Nigeria",
+        "Indonesia",
+        6
+      ],
+      [
+        "Argelia",
         5
       ],
       [
@@ -9353,32 +9401,12 @@
         5
       ],
       [
+        "Nigeria",
+        5
+      ],
+      [
         "Vietnam",
         5
-      ],
-      [
-        "Argelia",
-        5
-      ],
-      [
-        "Mozambique",
-        4
-      ],
-      [
-        "Madagascar",
-        4
-      ],
-      [
-        "Nepal",
-        4
-      ],
-      [
-        "Jordania",
-        4
-      ],
-      [
-        "Antillas Holandesas",
-        4
       ],
       [
         "Gabón",
@@ -9393,11 +9421,31 @@
         4
       ],
       [
-        "Rwanda",
+        "Madagascar",
+        4
+      ],
+      [
+        "Antillas Holandesas",
+        4
+      ],
+      [
+        "Nepal",
+        4
+      ],
+      [
+        "Jordania",
+        4
+      ],
+      [
+        "Mozambique",
+        4
+      ],
+      [
+        "Namibia",
         3
       ],
       [
-        "Congo",
+        "Senegal",
         3
       ],
       [
@@ -9413,11 +9461,11 @@
         3
       ],
       [
-        "Namibia",
+        "Rwanda",
         3
       ],
       [
-        "Macedonia",
+        "Congo",
         3
       ],
       [
@@ -9437,35 +9485,15 @@
         3
       ],
       [
+        "Macedonia",
+        3
+      ],
+      [
         "Emiratos Arabes Unidos",
         3
       ],
       [
-        "Senegal",
-        3
-      ],
-      [
-        "Mónaco",
-        2
-      ],
-      [
-        "Sudán",
-        2
-      ],
-      [
-        "Bahamas",
-        2
-      ],
-      [
         "Groenlandia",
-        2
-      ],
-      [
-        "Mauricio",
-        2
-      ],
-      [
-        "Zimbabwe",
         2
       ],
       [
@@ -9473,11 +9501,31 @@
         2
       ],
       [
+        "Mónaco",
+        2
+      ],
+      [
+        "Bahamas",
+        2
+      ],
+      [
+        "Zimbabwe",
+        2
+      ],
+      [
+        "Mauricio",
+        2
+      ],
+      [
+        "Sudán",
+        2
+      ],
+      [
         "Ghana",
         2
       ],
       [
-        "Martinica",
+        "Bahrein",
         1
       ],
       [
@@ -9505,7 +9553,7 @@
         1
       ],
       [
-        "Bahrein",
+        "Kazajistán",
         1
       ],
       [
@@ -9525,7 +9573,7 @@
         1
       ],
       [
-        "Kazajistán",
+        "Martinica",
         1
       ]
     ],
@@ -10307,19 +10355,19 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        67730
-      ],
-      [
-        "Lugo - Sarria",
-        36334
+        "Lugo",
+        104196
       ],
       [
         "León",
-        33936
+        40810
       ],
       [
-        "Ponte- vedra",
+        "France",
+        25254
+      ],
+      [
+        "Pontevedra",
         19864
       ],
       [
@@ -10327,16 +10375,12 @@
         18279
       ],
       [
-        "St. Jean",
-        17833
+        "Portugal",
+        14389
       ],
       [
-        "Other",
-        15803
-      ],
-      [
-        "Port- ugal",
-        14561
+        "Asturias",
+        10745
       ],
       [
         "Ourense",
@@ -10344,15 +10388,7 @@
       ],
       [
         "A Coruña",
-        8258
-      ],
-      [
-        "Asturias",
-        5957
-      ],
-      [
-        "France - St. Jean",
-        5202
+        8329
       ],
       [
         "Burgos",
@@ -10360,11 +10396,11 @@
       ],
       [
         "Gipuzkoa",
-        2698
+        3258
       ],
       [
         "Sevilla",
-        2385
+        2510
       ],
       [
         "Cantabria",
@@ -10377,6 +10413,10 @@
       [
         "La Rioja",
         1344
+      ],
+      [
+        "Madrid",
+        815
       ],
       [
         "Vizcaya",
@@ -10395,10 +10435,6 @@
         649
       ],
       [
-        "Madrid",
-        647
-      ],
-      [
         "Germany",
         603
       ],
@@ -10407,24 +10443,36 @@
         495
       ],
       [
-        "Belgium",
-        266
+        "Barcelona",
+        451
       ],
       [
-        "Barcelona",
-        252
+        "Badajoz",
+        303
+      ],
+      [
+        "Valencia",
+        301
+      ],
+      [
+        "Belgium",
+        266
       ],
       [
         "Switzerland",
         252
       ],
       [
-        "Badajoz",
-        224
+        "Porgugal",
+        172
       ],
       [
         "Zaragoza",
         166
+      ],
+      [
+        "Albacete",
+        165
       ],
       [
         "Cáceres",
@@ -10451,8 +10499,16 @@
         71
       ],
       [
+        "Other",
+        63
+      ],
+      [
         "Córdoba",
         58
+      ],
+      [
+        "Huelva",
+        44
       ],
       [
         "Valladolid",
@@ -10463,8 +10519,8 @@
         38
       ],
       [
-        "Huelva",
-        36
+        "UK",
+        32
       ],
       [
         "Poland",
@@ -10477,6 +10533,14 @@
       [
         "Denmark",
         10
+      ],
+      [
+        "Ireland",
+        7
+      ],
+      [
+        "Egypt",
+        5
       ],
       [
         "Finland",
@@ -10493,6 +10557,18 @@
       [
         "Luxembourg",
         3
+      ],
+      [
+        "Greece",
+        3
+      ],
+      [
+        "Israel",
+        3
+      ],
+      [
+        "Africa",
+        1
       ]
     ],
     "caminos": [
@@ -10526,11 +10602,7 @@
       ],
       [
         "Otros caminos",
-        659
-      ],
-      [
-        "Other",
-        63
+        722
       ]
     ]
   },
@@ -10678,15 +10750,15 @@
     ],
     "byCountry": [
       [
-        "Spain",
+        "España",
         98985
       ],
       [
-        "Germany",
+        "Alemania",
         16385
       ],
       [
-        "Italy",
+        "Italia",
         12023
       ],
       [
@@ -10694,31 +10766,31 @@
         8559
       ],
       [
-        "France",
+        "Francia",
         8047
       ],
       [
-        "USA",
+        "Estados Unidos",
         3670
       ],
       [
-        "Ireland",
+        "Irlanda",
         2641
       ],
       [
-        "Holland",
+        "Holanda",
         2375
       ],
       [
-        "UK",
+        "Reino Unido",
         2351
       ],
       [
-        "Canada",
+        "Canadá",
         2330
       ],
       [
-        "Brazil",
+        "Brasil",
         1960
       ],
       [
@@ -10726,19 +10798,19 @@
         1897
       ],
       [
-        "Poland",
+        "Polonia",
         1786
       ],
       [
-        "Korea",
+        "Corea",
         1723
       ],
       [
-        "Belgium",
+        "Belgica",
         1655
       ],
       [
-        "Denmark",
+        "Dinamarca",
         1635
       ],
       [
@@ -10746,31 +10818,31 @@
         1326
       ],
       [
-        "Sweden",
+        "Suecia",
         1250
       ],
       [
-        "Swiss",
+        "Suiza",
         1212
       ],
       [
-        "Mexico",
+        "México",
         1169
       ],
       [
-        "Czech",
+        "República Checa",
         958
       ],
       [
-        "Norway",
+        "Noruega",
         890
       ],
       [
-        "Japan",
+        "Japón",
         865
       ],
       [
-        "Hungary",
+        "Hungría",
         757
       ],
       [
@@ -10778,15 +10850,15 @@
         713
       ],
       [
-        "Finland",
+        "Finlandia",
         646
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         605
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         509
       ],
       [
@@ -10802,15 +10874,15 @@
         415
       ],
       [
-        "Russia",
+        "Rusia",
         244
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         233
       ],
       [
-        "Roumania",
+        "Rumania",
         195
       ],
       [
@@ -10826,7 +10898,7 @@
         166
       ],
       [
-        "Peru",
+        "Perú",
         147
       ],
       [
@@ -10834,7 +10906,7 @@
         125
       ],
       [
-        "Lithuania",
+        "Lituania",
         112
       ],
       [
@@ -10850,7 +10922,7 @@
         81
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         73
       ],
       [
@@ -10866,23 +10938,23 @@
         64
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         62
       ],
       [
-        "Taiwan",
+        "Taiwán",
         58
       ],
       [
-        "Greece",
+        "Grecia",
         54
       ],
       [
-        "Ukraine",
+        "Ucrania",
         46
       ],
       [
-        "Philippines",
+        "Filipinas",
         45
       ],
       [
@@ -10898,7 +10970,7 @@
         35
       ],
       [
-        "Latvia",
+        "Letonia",
         34
       ],
       [
@@ -10906,11 +10978,11 @@
         34
       ],
       [
-        "Iceland",
+        "Islandia",
         33
       ],
       [
-        "Malaysia",
+        "Malasia",
         31
       ],
       [
@@ -10918,7 +10990,7 @@
         31
       ],
       [
-        "Singapore",
+        "Singapur",
         29
       ],
       [
@@ -10938,11 +11010,11 @@
         22
       ],
       [
-        "Turkey",
+        "Turquía",
         19
       ],
       [
-        "Lebanon",
+        "Líbano",
         17
       ],
       [
@@ -10958,7 +11030,7 @@
         13
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         12
       ],
       [
@@ -10982,7 +11054,7 @@
         10
       ],
       [
-        "Cyprus",
+        "Chipre",
         8
       ],
       [
@@ -11884,56 +11956,44 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        39158
+        "Lugo",
+        56286
       ],
       [
         "León",
-        26046
+        30497
       ],
       [
-        "St. Jean",
-        19416
-      ],
-      [
-        "Lugo - Sarria",
-        17068
-      ],
-      [
-        "Port- ugal",
-        14106
+        "France",
+        26506
       ],
       [
         "Navarra",
         14020
       ],
       [
-        "Other",
-        10640
+        "Portugal",
+        13957
       ],
       [
-        "Ponte- vedra",
+        "Pontevedra",
         8105
       ],
       [
         "Asturias",
-        5264
-      ],
-      [
-        "France - St. Jean",
-        4916
+        7492
       ],
       [
         "Burgos",
         3962
       ],
       [
-        "A Coruña",
-        2920
+        "Gipuzkoa",
+        3451
       ],
       [
-        "Gipuzkoa",
-        2864
+        "A Coruña",
+        2931
       ],
       [
         "Ourense",
@@ -11941,7 +12001,7 @@
       ],
       [
         "Sevilla",
-        2308
+        2405
       ],
       [
         "La Rioja",
@@ -11972,12 +12032,16 @@
         669
       ],
       [
+        "Madrid",
+        591
+      ],
+      [
         "Palencia",
         537
       ],
       [
-        "Madrid",
-        395
+        "Barcelona",
+        443
       ],
       [
         "Huesca",
@@ -11992,12 +12056,20 @@
         345
       ],
       [
-        "Barcelona",
-        211
+        "Valencia",
+        284
       ],
       [
         "Badajoz",
-        195
+        277
+      ],
+      [
+        "Albacete",
+        161
+      ],
+      [
+        "Porgugal",
+        149
       ],
       [
         "Zaragoza",
@@ -12006,6 +12078,10 @@
       [
         "Cáceres",
         117
+      ],
+      [
+        "Huelva",
+        99
       ],
       [
         "Austria",
@@ -12032,10 +12108,6 @@
         43
       ],
       [
-        "Huelva",
-        41
-      ],
-      [
         "Córdoba",
         32
       ],
@@ -12046,6 +12118,10 @@
       [
         "Poland",
         19
+      ],
+      [
+        "UK",
+        17
       ],
       [
         "Czech Republic",
@@ -12068,7 +12144,15 @@
         3
       ],
       [
+        "Ireland",
+        1
+      ],
+      [
         "Andorra",
+        1
+      ],
+      [
+        "Greece",
         1
       ]
     ],
@@ -12251,15 +12335,15 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        95274
+        "España",
+        95275
       ],
       [
-        "Germany",
+        "Alemania",
         15621
       ],
       [
-        "Italy",
+        "Italia",
         12404
       ],
       [
@@ -12267,43 +12351,43 @@
         10329
       ],
       [
-        "France",
+        "Francia",
         8121
       ],
       [
-        "USA",
+        "Estados Unidos",
         7071
       ],
       [
-        "Ireland",
+        "Irlanda",
         3844
       ],
       [
-        "UK",
+        "Reino Unido",
         3758
       ],
       [
-        "Holland",
+        "Holanda",
         3015
       ],
       [
-        "Canada",
+        "Canadá",
         2904
       ],
       [
-        "Korea",
+        "Corea",
         2492
       ],
       [
-        "Poland",
+        "Polonia",
         2307
       ],
       [
-        "Brazil",
+        "Brasil",
         2229
       ],
       [
-        "Belgium",
+        "Belgica",
         1955
       ],
       [
@@ -12315,35 +12399,35 @@
         1772
       ],
       [
-        "Denmark",
+        "Dinamarca",
         1682
       ],
       [
-        "Swiss",
+        "Suiza",
         1308
       ],
       [
-        "Sweden",
+        "Suecia",
         1275
       ],
       [
-        "Mexico",
+        "México",
         1047
       ],
       [
-        "Norway",
+        "Noruega",
         969
       ],
       [
-        "Hungary",
+        "Hungría",
         885
       ],
       [
-        "Japan",
+        "Japón",
         860
       ],
       [
-        "Czech",
+        "República Checa",
         832
       ],
       [
@@ -12351,19 +12435,19 @@
         822
       ],
       [
-        "Finland",
+        "Finlandia",
         720
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         711
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         636
       ],
       [
-        "Russia",
+        "Rusia",
         503
       ],
       [
@@ -12375,7 +12459,7 @@
         444
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         377
       ],
       [
@@ -12383,7 +12467,7 @@
         373
       ],
       [
-        "Roumania",
+        "Rumania",
         281
       ],
       [
@@ -12403,7 +12487,7 @@
         178
       ],
       [
-        "Lithuania",
+        "Lituania",
         169
       ],
       [
@@ -12411,7 +12495,7 @@
         165
       ],
       [
-        "Peru",
+        "Perú",
         162
       ],
       [
@@ -12419,7 +12503,7 @@
         160
       ],
       [
-        "Philippines",
+        "Filipinas",
         127
       ],
       [
@@ -12439,11 +12523,11 @@
         106
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         105
       ],
       [
-        "Ukraine",
+        "Ucrania",
         91
       ],
       [
@@ -12451,23 +12535,23 @@
         71
       ],
       [
-        "Latvia",
+        "Letonia",
         60
       ],
       [
-        "Greece",
+        "Grecia",
         59
       ],
       [
-        "Taiwan",
+        "Taiwán",
         58
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         56
       ],
       [
-        "Iceland",
+        "Islandia",
         55
       ],
       [
@@ -12483,7 +12567,7 @@
         49
       ],
       [
-        "Singapore",
+        "Singapur",
         46
       ],
       [
@@ -12495,7 +12579,7 @@
         38
       ],
       [
-        "Malaysia",
+        "Malasia",
         36
       ],
       [
@@ -12503,7 +12587,7 @@
         33
       ],
       [
-        "Lebanon",
+        "Líbano",
         33
       ],
       [
@@ -12515,11 +12599,11 @@
         26
       ],
       [
-        "Turkey",
+        "Marruecos",
         21
       ],
       [
-        "Marruecos",
+        "Turquía",
         21
       ],
       [
@@ -12535,7 +12619,7 @@
         16
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         12
       ],
       [
@@ -12543,23 +12627,23 @@
         11
       ],
       [
-        "Angola",
-        11
-      ],
-      [
         "Bosnia",
         11
       ],
       [
-        "Guinea Ecuatorial",
-        8
-      ],
-      [
-        "Tailandia",
-        8
+        "Angola",
+        11
       ],
       [
         "Islas Feroe",
+        8
+      ],
+      [
+        "Argelia",
+        8
+      ],
+      [
+        "Guinea Ecuatorial",
         8
       ],
       [
@@ -12567,7 +12651,7 @@
         8
       ],
       [
-        "Argelia",
+        "Tailandia",
         8
       ],
       [
@@ -12583,11 +12667,7 @@
         6
       ],
       [
-        "Nigeria",
-        6
-      ],
-      [
-        "Egipto",
+        "Macedonia",
         6
       ],
       [
@@ -12595,11 +12675,15 @@
         6
       ],
       [
-        "Macedonia",
+        "Egipto",
         6
       ],
       [
-        "Mozambique",
+        "Nigeria",
+        6
+      ],
+      [
+        "Albania",
         5
       ],
       [
@@ -12607,16 +12691,24 @@
         5
       ],
       [
-        "Moldavia",
-        5
-      ],
-      [
         "Arabia Saudita",
         5
       ],
       [
-        "Albania",
+        "Moldavia",
         5
+      ],
+      [
+        "Mozambique",
+        5
+      ],
+      [
+        "Zimbabwe",
+        4
+      ],
+      [
+        "Camerún",
+        4
       ],
       [
         "Senegal",
@@ -12631,15 +12723,7 @@
         4
       ],
       [
-        "Camerún",
-        4
-      ],
-      [
-        "Zimbabwe",
-        4
-      ],
-      [
-        "Pakistán",
+        "Congo",
         3
       ],
       [
@@ -12647,19 +12731,19 @@
         3
       ],
       [
-        "Congo",
-        3
-      ],
-      [
         "Trinidad y Tobago",
         3
       ],
       [
-        "Georgia",
+        "Ghana",
         3
       ],
       [
-        "Ghana",
+        "Pakistán",
+        3
+      ],
+      [
+        "Georgia",
         3
       ],
       [
@@ -12671,11 +12755,15 @@
         2
       ],
       [
-        "Túnez",
+        "Santo Tomé y Príncipe",
         2
       ],
       [
-        "Santo Tomé y Príncipe",
+        "Libia",
+        2
+      ],
+      [
+        "Guyana",
         2
       ],
       [
@@ -12683,7 +12771,23 @@
         2
       ],
       [
-        "Guyana",
+        "Túnez",
+        2
+      ],
+      [
+        "Jordania",
+        2
+      ],
+      [
+        "Chipre",
+        2
+      ],
+      [
+        "Sri Lanka",
+        2
+      ],
+      [
+        "Irak",
         2
       ],
       [
@@ -12695,27 +12799,7 @@
         2
       ],
       [
-        "Libia",
-        2
-      ],
-      [
-        "Irak",
-        2
-      ],
-      [
-        "Sri Lanka",
-        2
-      ],
-      [
-        "Cyprus",
-        2
-      ],
-      [
-        "Jordania",
-        2
-      ],
-      [
-        "Benin",
+        "Tanzania",
         1
       ],
       [
@@ -12723,15 +12807,11 @@
         1
       ],
       [
-        "Tanzania",
+        "Nepal",
         1
       ],
       [
-        "Timor Oriental",
-        1
-      ],
-      [
-        "Jamaica",
+        "Costa de Marfil",
         1
       ],
       [
@@ -12739,7 +12819,7 @@
         1
       ],
       [
-        "Costa de Marfil",
+        "Benin",
         1
       ],
       [
@@ -12751,7 +12831,7 @@
         1
       ],
       [
-        "Nepal",
+        "Bahamas",
         1
       ],
       [
@@ -12759,11 +12839,11 @@
         1
       ],
       [
-        "Bahamas",
+        "Jamaica",
         1
       ],
       [
-        "España",
+        "Cabo Verde",
         1
       ],
       [
@@ -12783,7 +12863,7 @@
         1
       ],
       [
-        "Cabo Verde",
+        "Timor Oriental",
         1
       ]
     ],
@@ -13573,56 +13653,44 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        40734
+        "Lugo",
+        59364
+      ],
+      [
+        "France",
+        29405
       ],
       [
         "León",
-        25139
+        29164
       ],
       [
-        "St. Jean",
-        22213
-      ],
-      [
-        "Lugo - Sarria",
-        18483
-      ],
-      [
-        "Port- ugal",
-        16547
+        "Portugal",
+        16257
       ],
       [
         "Navarra",
         13037
       ],
       [
-        "Other",
-        10341
-      ],
-      [
-        "Ponte- vedra",
+        "Pontevedra",
         9017
       ],
       [
         "Asturias",
-        5802
-      ],
-      [
-        "France - St. Jean",
-        4921
+        7822
       ],
       [
         "A Coruña",
-        3992
+        3998
+      ],
+      [
+        "Gipuzkoa",
+        3996
       ],
       [
         "Burgos",
         3905
-      ],
-      [
-        "Gipuzkoa",
-        3450
       ],
       [
         "Ourense",
@@ -13630,7 +13698,7 @@
       ],
       [
         "Sevilla",
-        2287
+        2441
       ],
       [
         "Cantabria",
@@ -13653,6 +13721,10 @@
         786
       ],
       [
+        "Madrid",
+        606
+      ],
+      [
         "Germany",
         603
       ],
@@ -13661,12 +13733,12 @@
         515
       ],
       [
-        "Madrid",
-        481
-      ],
-      [
         "Palencia",
         437
+      ],
+      [
+        "Barcelona",
+        422
       ],
       [
         "Belgium",
@@ -13677,16 +13749,28 @@
         357
       ],
       [
+        "Other",
+        343
+      ],
+      [
+        "Porgugal",
+        290
+      ],
+      [
+        "Badajoz",
+        278
+      ],
+      [
         "Switzerland",
         277
       ],
       [
-        "Barcelona",
-        237
+        "Valencia",
+        243
       ],
       [
-        "Badajoz",
-        192
+        "Albacete",
+        151
       ],
       [
         "Austria",
@@ -13710,7 +13794,7 @@
       ],
       [
         "Huelva",
-        43
+        46
       ],
       [
         "Córdoba",
@@ -13725,12 +13809,16 @@
         32
       ],
       [
+        "Valladolid",
+        28
+      ],
+      [
         "Europe Other",
         28
       ],
       [
-        "Valladolid",
-        28
+        "UK",
+        24
       ],
       [
         "Murcia",
@@ -13743,6 +13831,10 @@
       [
         "Slovakia",
         13
+      ],
+      [
+        "Ireland",
+        10
       ],
       [
         "Hungary",
@@ -13761,15 +13853,15 @@
         4
       ],
       [
-        "Ireland",
-        1
+        "Israel",
+        3
       ],
       [
         "Andorra",
         1
       ],
       [
-        "UK",
+        "Egypt",
         1
       ]
     ],
@@ -13952,15 +14044,15 @@
     ],
     "byCountry": [
       [
-        "Spain",
+        "España",
         105891
       ],
       [
-        "Germany",
+        "Alemania",
         16203
       ],
       [
-        "Italy",
+        "Italia",
         15621
       ],
       [
@@ -13968,23 +14060,23 @@
         10698
       ],
       [
-        "USA",
+        "Estados Unidos",
         10125
       ],
       [
-        "France",
+        "Francia",
         8305
       ],
       [
-        "Ireland",
+        "Irlanda",
         5012
       ],
       [
-        "UK",
+        "Reino Unido",
         4207
       ],
       [
-        "Canada",
+        "Canadá",
         3373
       ],
       [
@@ -13992,27 +14084,27 @@
         3098
       ],
       [
-        "Holland",
+        "Holanda",
         2890
       ],
       [
-        "Korea",
+        "Corea",
         2774
       ],
       [
-        "Poland",
+        "Polonia",
         2515
       ],
       [
-        "Brazil",
+        "Brasil",
         2431
       ],
       [
-        "Belgium",
+        "Belgica",
         1857
       ],
       [
-        "Denmark",
+        "Dinamarca",
         1757
       ],
       [
@@ -14020,11 +14112,11 @@
         1711
       ],
       [
-        "Swiss",
+        "Suiza",
         1276
       ],
       [
-        "Mexico",
+        "México",
         1173
       ],
       [
@@ -14032,23 +14124,23 @@
         1090
       ],
       [
-        "Sweden",
+        "Suecia",
         1056
       ],
       [
-        "Hungary",
+        "Hungría",
         954
       ],
       [
-        "Japan",
+        "Japón",
         840
       ],
       [
-        "Norway",
+        "Noruega",
         839
       ],
       [
-        "Czech",
+        "República Checa",
         769
       ],
       [
@@ -14056,11 +14148,11 @@
         734
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         727
       ],
       [
-        "Finland",
+        "Finlandia",
         709
       ],
       [
@@ -14068,15 +14160,15 @@
         680
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         560
       ],
       [
-        "Russia",
+        "Rusia",
         526
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         520
       ],
       [
@@ -14096,11 +14188,11 @@
         292
       ],
       [
-        "Roumania",
+        "Rumania",
         262
       ],
       [
-        "Lithuania",
+        "Lituania",
         255
       ],
       [
@@ -14112,15 +14204,15 @@
         208
       ],
       [
-        "Peru",
+        "Perú",
         174
       ],
       [
-        "Ukraine",
+        "Ucrania",
         143
       ],
       [
-        "Philippines",
+        "Filipinas",
         142
       ],
       [
@@ -14144,7 +14236,7 @@
         100
       ],
       [
-        "Singapore",
+        "Singapur",
         100
       ],
       [
@@ -14152,23 +14244,23 @@
         99
       ],
       [
-        "Taiwan",
+        "Taiwán",
         88
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         84
       ],
       [
-        "Lebanon",
+        "Líbano",
         74
       ],
       [
-        "Latvia",
+        "Letonia",
         70
       ],
       [
-        "Greece",
+        "Grecia",
         63
       ],
       [
@@ -14176,7 +14268,7 @@
         60
       ],
       [
-        "Iceland",
+        "Islandia",
         58
       ],
       [
@@ -14200,7 +14292,7 @@
         43
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         43
       ],
       [
@@ -14208,7 +14300,7 @@
         41
       ],
       [
-        "Malaysia",
+        "Malasia",
         39
       ],
       [
@@ -14216,11 +14308,11 @@
         32
       ],
       [
-        "Turkey",
+        "Turquía",
         24
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         23
       ],
       [
@@ -14276,7 +14368,7 @@
         12
       ],
       [
-        "Cyprus",
+        "Chipre",
         10
       ],
       [
@@ -15430,56 +15522,44 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        52063
+        "Lugo",
+        71267
+      ],
+      [
+        "France",
+        33525
       ],
       [
         "León",
-        27923
+        29243
       ],
       [
-        "St. Jean",
-        26569
-      ],
-      [
-        "Lugo - Sarria",
-        19173
-      ],
-      [
-        "Port- ugal",
-        18933
+        "Portugal",
+        18565
       ],
       [
         "Navarra",
         12987
       ],
       [
-        "Ponte- vedra",
-        10312
+        "Pontevedra",
+        10313
       ],
       [
         "Asturias",
-        8116
-      ],
-      [
-        "France - St. Jean",
-        6956
+        8131
       ],
       [
         "A Coruña",
-        4854
+        4865
       ],
       [
-        "Other",
-        4466
+        "Gipuzkoa",
+        4323
       ],
       [
         "Ourense",
         3850
-      ],
-      [
-        "Gipuzkoa",
-        3790
       ],
       [
         "Burgos",
@@ -15487,7 +15567,11 @@
       ],
       [
         "Sevilla",
-        2292
+        2444
+      ],
+      [
+        "León`",
+        1419
       ],
       [
         "Cantabria",
@@ -15514,6 +15598,10 @@
         683
       ],
       [
+        "Other",
+        639
+      ],
+      [
         "Germany",
         617
       ],
@@ -15526,8 +15614,16 @@
         421
       ],
       [
+        "Barcelona",
+        418
+      ],
+      [
         "Belgium",
         386
+      ],
+      [
+        "Porgugal",
+        368
       ],
       [
         "Huesca",
@@ -15542,12 +15638,8 @@
         269
       ],
       [
-        "Barcelona",
-        214
-      ],
-      [
         "Badajoz",
-        157
+        254
       ],
       [
         "Albacete",
@@ -15570,20 +15662,20 @@
         81
       ],
       [
-        "Europe Other",
-        67
+        "Huelva",
+        72
       ],
       [
         "Granada",
         67
       ],
       [
-        "Málaga",
-        40
+        "Europe Other",
+        67
       ],
       [
-        "Huelva",
-        35
+        "Málaga",
+        40
       ],
       [
         "UK",
@@ -15606,11 +15698,11 @@
         15
       ],
       [
-        "Czech Republic",
+        "Murcia",
         13
       ],
       [
-        "Murcia",
+        "Czech Republic",
         13
       ],
       [
@@ -15630,6 +15722,10 @@
         4
       ],
       [
+        "Africa",
+        3
+      ],
+      [
         "Finland",
         3
       ],
@@ -15640,6 +15736,14 @@
       [
         "Russia",
         3
+      ],
+      [
+        "Egypt",
+        2
+      ],
+      [
+        "Israel",
+        2
       ]
     ],
     "caminos": [
@@ -15673,11 +15777,7 @@
       ],
       [
         "Otros caminos",
-        444
-      ],
-      [
-        "Other",
-        4
+        448
       ]
     ]
   },
@@ -15825,15 +15925,15 @@
     ],
     "byCountry": [
       [
-        "Spain",
-        113624
+        "España",
+        113625
       ],
       [
-        "Italy",
+        "Italia",
         20241
       ],
       [
-        "Germany",
+        "Alemania",
         16345
       ],
       [
@@ -15841,23 +15941,23 @@
         11655
       ],
       [
-        "USA",
+        "Estados Unidos",
         11577
       ],
       [
-        "France",
+        "Francia",
         9345
       ],
       [
-        "Ireland",
+        "Irlanda",
         5020
       ],
       [
-        "UK",
+        "Reino Unido",
         4395
       ],
       [
-        "Korea",
+        "Corea",
         3840
       ],
       [
@@ -15865,31 +15965,31 @@
         3775
       ],
       [
-        "Canada",
+        "Canadá",
         3575
       ],
       [
-        "Holland",
+        "Holanda",
         3458
       ],
       [
-        "Brazil",
+        "Brasil",
         3271
       ],
       [
-        "Poland",
+        "Polonia",
         2957
       ],
       [
-        "Belgium",
+        "Belgica",
         1834
       ],
       [
-        "Denmark",
+        "Dinamarca",
         1741
       ],
       [
-        "Mexico",
+        "México",
         1654
       ],
       [
@@ -15897,7 +15997,7 @@
         1598
       ],
       [
-        "Swiss",
+        "Suiza",
         1385
       ],
       [
@@ -15905,27 +16005,27 @@
         1168
       ],
       [
-        "Japan",
+        "Japón",
         1095
       ],
       [
-        "Hungary",
+        "Hungría",
         1087
       ],
       [
-        "Sweden",
+        "Suecia",
         1043
       ],
       [
-        "Norway",
+        "Noruega",
         805
       ],
       [
-        "Czech",
+        "República Checa",
         760
       ],
       [
-        "Russia",
+        "Rusia",
         742
       ],
       [
@@ -15933,19 +16033,19 @@
         693
       ],
       [
-        "Finland",
+        "Finlandia",
         680
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         646
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         642
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         608
       ],
       [
@@ -15961,7 +16061,7 @@
         506
       ],
       [
-        "Lithuania",
+        "Lituania",
         405
       ],
       [
@@ -15969,7 +16069,7 @@
         368
       ],
       [
-        "Roumania",
+        "Rumania",
         293
       ],
       [
@@ -15993,15 +16093,15 @@
         184
       ],
       [
-        "Peru",
+        "Perú",
         180
       ],
       [
-        "Philippines",
+        "Filipinas",
         173
       ],
       [
-        "Ukraine",
+        "Ucrania",
         169
       ],
       [
@@ -16017,19 +16117,19 @@
         140
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         125
       ],
       [
-        "Iceland",
+        "Islandia",
         112
       ],
       [
-        "Latvia",
+        "Letonia",
         104
       ],
       [
-        "Taiwan",
+        "Taiwán",
         97
       ],
       [
@@ -16037,11 +16137,11 @@
         96
       ],
       [
-        "Greece",
+        "Grecia",
         93
       ],
       [
-        "Singapore",
+        "Singapur",
         92
       ],
       [
@@ -16053,11 +16153,11 @@
         63
       ],
       [
-        "Lebanon",
+        "Rep. Dominicana",
         58
       ],
       [
-        "Dom. Rep.",
+        "Líbano",
         58
       ],
       [
@@ -16065,11 +16165,11 @@
         58
       ],
       [
-        "India",
+        "Paraguay",
         52
       ],
       [
-        "Paraguay",
+        "India",
         52
       ],
       [
@@ -16077,15 +16177,15 @@
         46
       ],
       [
-        "Malaysia",
+        "Malasia",
         45
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         36
       ],
       [
-        "Turkey",
+        "Turquía",
         35
       ],
       [
@@ -16153,7 +16253,7 @@
         13
       ],
       [
-        "Cyprus",
+        "Chipre",
         12
       ],
       [
@@ -16161,11 +16261,11 @@
         11
       ],
       [
-        "San Marino",
+        "Rwanda",
         9
       ],
       [
-        "Rwanda",
+        "San Marino",
         9
       ],
       [
@@ -16177,20 +16277,16 @@
         7
       ],
       [
-        "Cabo Verde",
+        "Angola",
         7
       ],
       [
-        "Angola",
+        "Cabo Verde",
         7
       ],
       [
         "Haití",
         7
-      ],
-      [
-        "Camerún",
-        6
       ],
       [
         "Georgia",
@@ -16205,7 +16301,15 @@
         6
       ],
       [
+        "Camerún",
+        6
+      ],
+      [
         "Kenya",
+        5
+      ],
+      [
+        "Siria",
         5
       ],
       [
@@ -16217,8 +16321,20 @@
         5
       ],
       [
-        "Siria",
-        5
+        "Congo",
+        4
+      ],
+      [
+        "Jamaica",
+        4
+      ],
+      [
+        "Antillas Holandesas",
+        4
+      ],
+      [
+        "Uganda",
+        4
       ],
       [
         "Mongolia",
@@ -16229,35 +16345,7 @@
         4
       ],
       [
-        "Congo",
-        4
-      ],
-      [
-        "Antillas Holandesas",
-        4
-      ],
-      [
-        "Jamaica",
-        4
-      ],
-      [
-        "Uganda",
-        4
-      ],
-      [
-        "Macedonia",
-        3
-      ],
-      [
-        "Túnez",
-        3
-      ],
-      [
-        "Senegal",
-        3
-      ],
-      [
-        "Mauritania",
+        "Mauricio",
         3
       ],
       [
@@ -16265,23 +16353,31 @@
         3
       ],
       [
-        "Mauricio",
+        "Macedonia",
         3
       ],
       [
-        "Mónaco",
-        2
+        "Senegal",
+        3
+      ],
+      [
+        "Túnez",
+        3
+      ],
+      [
+        "Mauritania",
+        3
       ],
       [
         "Benin",
         2
       ],
       [
-        "Timor Oriental",
+        "Mónaco",
         2
       ],
       [
-        "Camboya",
+        "Timor Oriental",
         2
       ],
       [
@@ -16297,6 +16393,10 @@
         2
       ],
       [
+        "Camboya",
+        2
+      ],
+      [
         "Bangladesh",
         1
       ],
@@ -16305,7 +16405,7 @@
         1
       ],
       [
-        "Nigeria",
+        "Tanzania",
         1
       ],
       [
@@ -16317,11 +16417,11 @@
         1
       ],
       [
-        "Groenlandia",
+        "Fiji",
         1
       ],
       [
-        "Tanzania",
+        "Aruba",
         1
       ],
       [
@@ -16345,7 +16445,7 @@
         1
       ],
       [
-        "Aruba",
+        "Nigeria",
         1
       ],
       [
@@ -16377,11 +16477,7 @@
         1
       ],
       [
-        "España",
-        1
-      ],
-      [
-        "Fiji",
+        "Groenlandia",
         1
       ]
     ],
@@ -17263,52 +17359,40 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        58554
+        "Lugo",
+        78646
       ],
       [
-        "St. Jean",
-        29344
+        "France",
+        37304
       ],
       [
         "León",
-        28133
+        29035
       ],
       [
-        "Port- ugal",
-        22580
-      ],
-      [
-        "Lugo - Sarria",
-        20059
+        "Portugal",
+        22252
       ],
       [
         "Navarra",
         12767
       ],
       [
-        "Ponte- vedra",
-        12685
+        "Pontevedra",
+        12686
       ],
       [
         "Asturias",
-        9506
-      ],
-      [
-        "France - St. Jean",
-        7960
+        9524
       ],
       [
         "A Coruña",
-        7847
-      ],
-      [
-        "Other",
-        4426
+        8009
       ],
       [
         "Gipuzkoa",
-        4340
+        4822
       ],
       [
         "Burgos",
@@ -17316,11 +17400,15 @@
       ],
       [
         "Ourense",
-        3623
+        3626
       ],
       [
         "Sevilla",
-        2132
+        2377
+      ],
+      [
+        "León`",
+        1654
       ],
       [
         "Cantabria",
@@ -17328,7 +17416,7 @@
       ],
       [
         "La Rioja",
-        1246
+        1251
       ],
       [
         "Vizcaya",
@@ -17351,8 +17439,16 @@
         618
       ],
       [
+        "Other",
+        534
+      ],
+      [
         "Salamanca",
         506
+      ],
+      [
+        "Barcelona",
+        456
       ],
       [
         "Valencia",
@@ -17361,6 +17457,10 @@
       [
         "Palencia",
         331
+      ],
+      [
+        "Porgugal",
+        328
       ],
       [
         "Belgium",
@@ -17379,16 +17479,12 @@
         241
       ],
       [
-        "Barcelona",
-        211
+        "Badajoz",
+        232
       ],
       [
         "Switzerland",
         210
-      ],
-      [
-        "Badajoz",
-        144
       ],
       [
         "Zaragoza",
@@ -17407,6 +17503,10 @@
         93
       ],
       [
+        "Huelva",
+        71
+      ],
+      [
         "Granada",
         70
       ],
@@ -17415,15 +17515,11 @@
         37
       ],
       [
-        "Huelva",
-        34
-      ],
-      [
-        "Málaga",
+        "Poland",
         30
       ],
       [
-        "Poland",
+        "Málaga",
         30
       ],
       [
@@ -17437,6 +17533,10 @@
       [
         "Valladolid",
         20
+      ],
+      [
+        "Africa",
+        14
       ],
       [
         "Ireland",
@@ -17471,6 +17571,14 @@
         3
       ],
       [
+        "Israel",
+        2
+      ],
+      [
+        "Greece",
+        1
+      ],
+      [
         "Russia",
         1
       ]
@@ -17502,15 +17610,11 @@
       ],
       [
         "Otros caminos",
-        717
+        719
       ],
       [
         "Muxia-Finisterre",
         652
-      ],
-      [
-        "Other",
-        2
       ]
     ]
   },
@@ -17658,19 +17762,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
+        "España",
         122387
       ],
       [
-        "Italy",
+        "Italia",
         22148
       ],
       [
-        "Germany",
+        "Alemania",
         18869
       ],
       [
-        "USA",
+        "Estados Unidos",
         13669
       ],
       [
@@ -17678,27 +17782,27 @@
         12481
       ],
       [
-        "France",
+        "Francia",
         9912
       ],
       [
-        "UK",
+        "Reino Unido",
         5417
       ],
       [
-        "Ireland",
+        "Irlanda",
         5367
       ],
       [
-        "Canada",
+        "Canadá",
         4199
       ],
       [
-        "Korea",
+        "Corea",
         4073
       ],
       [
-        "Brazil",
+        "Brasil",
         3937
       ],
       [
@@ -17706,23 +17810,23 @@
         3856
       ],
       [
-        "Poland",
+        "Polonia",
         3782
       ],
       [
-        "Holland",
+        "Holanda",
         3500
       ],
       [
-        "Denmark",
+        "Dinamarca",
         2163
       ],
       [
-        "Belgium",
+        "Belgica",
         2102
       ],
       [
-        "Mexico",
+        "México",
         1768
       ],
       [
@@ -17734,31 +17838,31 @@
         1530
       ],
       [
-        "Swiss",
+        "Suiza",
         1446
       ],
       [
-        "Japan",
+        "Japón",
         1197
       ],
       [
-        "Hungary",
+        "Hungría",
         1158
       ],
       [
-        "Czech",
+        "República Checa",
         1145
       ],
       [
-        "Sweden",
+        "Suecia",
         1093
       ],
       [
-        "Finland",
+        "Finlandia",
         897
       ],
       [
-        "Russia",
+        "Rusia",
         873
       ],
       [
@@ -17766,11 +17870,11 @@
         823
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         808
       ],
       [
-        "Norway",
+        "Noruega",
         800
       ],
       [
@@ -17778,11 +17882,11 @@
         706
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         692
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         646
       ],
       [
@@ -17790,7 +17894,7 @@
         608
       ],
       [
-        "Lithuania",
+        "Lituania",
         586
       ],
       [
@@ -17802,7 +17906,7 @@
         411
       ],
       [
-        "Roumania",
+        "Rumania",
         378
       ],
       [
@@ -17826,7 +17930,7 @@
         247
       ],
       [
-        "Philippines",
+        "Filipinas",
         236
       ],
       [
@@ -17834,7 +17938,7 @@
         230
       ],
       [
-        "Iceland",
+        "Islandia",
         199
       ],
       [
@@ -17842,15 +17946,15 @@
         182
       ],
       [
-        "Peru",
+        "Perú",
         181
       ],
       [
-        "Latvia",
+        "Letonia",
         176
       ],
       [
-        "Taiwan",
+        "Taiwán",
         175
       ],
       [
@@ -17858,7 +17962,7 @@
         172
       ],
       [
-        "Ukraine",
+        "Ucrania",
         159
       ],
       [
@@ -17866,11 +17970,11 @@
         128
       ],
       [
-        "Singapore",
+        "Singapur",
         116
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         99
       ],
       [
@@ -17878,11 +17982,11 @@
         95
       ],
       [
-        "Malaysia",
+        "Malasia",
         90
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         78
       ],
       [
@@ -17890,11 +17994,11 @@
         78
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         75
       ],
       [
-        "Greece",
+        "Grecia",
         74
       ],
       [
@@ -17906,7 +18010,7 @@
         61
       ],
       [
-        "Lebanon",
+        "Líbano",
         60
       ],
       [
@@ -17950,7 +18054,7 @@
         28
       ],
       [
-        "Turkey",
+        "Turquía",
         27
       ],
       [
@@ -17962,7 +18066,7 @@
         22
       ],
       [
-        "Cyprus",
+        "Chipre",
         22
       ],
       [
@@ -19096,28 +19200,24 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        67406
+        "Lugo",
+        89234
       ],
       [
-        "St. Jean",
-        31053
+        "France",
+        38657
       ],
       [
         "León",
-        28855
+        29978
       ],
       [
-        "Port- ugal",
-        27272
+        "Portugal",
+        26950
       ],
       [
-        "Lugo - Sarria",
-        21828
-      ],
-      [
-        "Ponte- vedra",
-        15352
+        "Pontevedra",
+        15353
       ],
       [
         "Navarra",
@@ -19129,23 +19229,15 @@
       ],
       [
         "A Coruña",
-        10004
-      ],
-      [
-        "France - St. Jean",
-        7604
+        10033
       ],
       [
         "Gipuzkoa",
-        4804
-      ],
-      [
-        "Other",
-        4370
+        5273
       ],
       [
         "Ourense",
-        3752
+        3753
       ],
       [
         "Burgos",
@@ -19153,11 +19245,15 @@
       ],
       [
         "Sevilla",
-        2290
+        2538
       ],
       [
         "Cantabria",
         1441
+      ],
+      [
+        "León`",
+        1430
       ],
       [
         "Vizcaya",
@@ -19170,6 +19266,10 @@
       [
         "Zamora",
         1073
+      ],
+      [
+        "Other",
+        777
       ],
       [
         "Madrid",
@@ -19188,6 +19288,10 @@
         559
       ],
       [
+        "Barcelona",
+        440
+      ],
+      [
         "Europe Other",
         412
       ],
@@ -19200,24 +19304,24 @@
         337
       ],
       [
+        "Porgugal",
+        322
+      ],
+      [
         "Belgium",
         294
+      ],
+      [
+        "Badajoz",
+        267
       ],
       [
         "Switzerland",
         267
       ],
       [
-        "Barcelona",
-        250
-      ],
-      [
         "Huesca",
         189
-      ],
-      [
-        "Badajoz",
-        165
       ],
       [
         "Albacete",
@@ -19339,15 +19443,11 @@
       ],
       [
         "Otros caminos",
-        371
+        383
       ],
       [
         "Camino de Invierno",
         210
-      ],
-      [
-        "Other",
-        12
       ]
     ]
   },
@@ -19495,19 +19595,19 @@
     ],
     "byCountry": [
       [
-        "Spain",
+        "España",
         63518
       ],
       [
-        "Germany",
+        "Alemania",
         11906
       ],
       [
-        "Italy",
+        "Italia",
         10831
       ],
       [
-        "USA",
+        "Estados Unidos",
         8944
       ],
       [
@@ -19515,23 +19615,23 @@
         7949
       ],
       [
-        "France",
+        "Francia",
         5153
       ],
       [
-        "Ireland",
+        "Irlanda",
         3834
       ],
       [
-        "UK",
+        "Reino Unido",
         3416
       ],
       [
-        "Korea",
+        "Corea",
         2649
       ],
       [
-        "Brazil",
+        "Brasil",
         2432
       ],
       [
@@ -19539,23 +19639,23 @@
         2346
       ],
       [
-        "Holland",
+        "Holanda",
         2165
       ],
       [
-        "Canada",
+        "Canadá",
         2066
       ],
       [
-        "Poland",
+        "Polonia",
         1655
       ],
       [
-        "Denmark",
+        "Dinamarca",
         1442
       ],
       [
-        "Mexico",
+        "México",
         1405
       ],
       [
@@ -19563,7 +19663,7 @@
         1075
       ],
       [
-        "Belgium",
+        "Belgica",
         1067
       ],
       [
@@ -19571,15 +19671,15 @@
         957
       ],
       [
-        "Swiss",
+        "Suiza",
         811
       ],
       [
-        "Japan",
+        "Japón",
         799
       ],
       [
-        "Sweden",
+        "Suecia",
         718
       ],
       [
@@ -19587,23 +19687,23 @@
         687
       ],
       [
-        "Czech",
+        "República Checa",
         648
       ],
       [
-        "Hungary",
+        "Hungría",
         556
       ],
       [
-        "Finland",
+        "Finlandia",
         484
       ],
       [
-        "Russia",
+        "Rusia",
         442
       ],
       [
-        "New Zealand",
+        "Nueva Zelanda",
         418
       ],
       [
@@ -19611,11 +19711,11 @@
         418
       ],
       [
-        "Norway",
+        "Noruega",
         410
       ],
       [
-        "S. Africa",
+        "Sudáfrica",
         405
       ],
       [
@@ -19623,11 +19723,11 @@
         355
       ],
       [
-        "Slovakia",
+        "Eslovaquia",
         351
       ],
       [
-        "Lithuania",
+        "Lituania",
         340
       ],
       [
@@ -19639,7 +19739,7 @@
         260
       ],
       [
-        "Roumania",
+        "Rumania",
         244
       ],
       [
@@ -19659,11 +19759,11 @@
         170
       ],
       [
-        "Philippines",
+        "Filipinas",
         166
       ],
       [
-        "Taiwan",
+        "Taiwán",
         158
       ],
       [
@@ -19675,11 +19775,11 @@
         149
       ],
       [
-        "Ukraine",
+        "Ucrania",
         125
       ],
       [
-        "Peru",
+        "Perú",
         107
       ],
       [
@@ -19695,11 +19795,11 @@
         95
       ],
       [
-        "Singapore",
+        "Singapur",
         95
       ],
       [
-        "Latvia",
+        "Letonia",
         71
       ],
       [
@@ -19707,11 +19807,11 @@
         65
       ],
       [
-        "Iceland",
+        "Islandia",
         60
       ],
       [
-        "Malaysia",
+        "Malasia",
         54
       ],
       [
@@ -19719,15 +19819,15 @@
         54
       ],
       [
-        "Greece",
+        "Grecia",
         49
       ],
       [
-        "Luxemburg",
+        "Luxemburgo",
         47
       ],
       [
-        "Dom. Rep.",
+        "Rep. Dominicana",
         38
       ],
       [
@@ -19751,7 +19851,7 @@
         27
       ],
       [
-        "Turkey",
+        "Turquía",
         26
       ],
       [
@@ -19763,7 +19863,7 @@
         24
       ],
       [
-        "Cyprus",
+        "Chipre",
         23
       ],
       [
@@ -19775,7 +19875,7 @@
         22
       ],
       [
-        "Belarus",
+        "Bielorrusia",
         21
       ],
       [
@@ -19783,7 +19883,7 @@
         17
       ],
       [
-        "Lebanon",
+        "Líbano",
         16
       ],
       [
@@ -20949,28 +21049,24 @@
     ],
     "startingRegions": [
       [
-        "Sarria",
-        37605
+        "Lugo",
+        49220
       ],
       [
-        "Port- ugal",
-        18490
+        "France",
+        21781
       ],
       [
-        "St. Jean",
-        17869
+        "Portugal",
+        18290
       ],
       [
         "León",
-        15272
+        15837
       ],
       [
-        "Lugo - Sarria",
-        11606
-      ],
-      [
-        "Ponte- vedra",
-        8809
+        "Pontevedra",
+        8810
       ],
       [
         "Navarra",
@@ -20978,27 +21074,19 @@
       ],
       [
         "A Coruña",
-        5587
+        5622
       ],
       [
         "Asturias",
-        5524
-      ],
-      [
-        "France - St. Jean",
-        3912
+        5525
       ],
       [
         "Gipuzkoa",
-        2639
+        2819
       ],
       [
         "Ourense",
         2197
-      ],
-      [
-        "Other",
-        2085
       ],
       [
         "Burgos",
@@ -21006,7 +21094,7 @@
       ],
       [
         "Sevilla",
-        1586
+        1726
       ],
       [
         "Cantabria",
@@ -21017,8 +21105,12 @@
         685
       ],
       [
+        "León`",
+        567
+      ],
+      [
         "La Rioja",
-        541
+        544
       ],
       [
         "Zamora",
@@ -21033,12 +21125,28 @@
         329
       ],
       [
+        "Other",
+        298
+      ],
+      [
         "Germany",
         297
       ],
       [
+        "Badajoz",
+        226
+      ],
+      [
         "Salamanca",
         225
+      ],
+      [
+        "Porgugal",
+        200
+      ],
+      [
+        "Barcelona",
+        197
       ],
       [
         "Europe Other",
@@ -21065,16 +21173,12 @@
         115
       ],
       [
-        "Barcelona",
-        110
-      ],
-      [
         "Switzerland",
         94
       ],
       [
-        "Badajoz",
-        92
+        "Huelva",
+        88
       ],
       [
         "Zaragoza",
@@ -21095,10 +21199,6 @@
       [
         "Austria",
         30
-      ],
-      [
-        "Huelva",
-        27
       ],
       [
         "Málaga",
@@ -21139,6 +21239,14 @@
       [
         "Czech Republic",
         3
+      ],
+      [
+        "Egypt",
+        2
+      ],
+      [
+        "Africa",
+        2
       ],
       [
         "Luxembourg",
@@ -21184,15 +21292,11 @@
       ],
       [
         "Otros caminos",
-        239
+        241
       ],
       [
         "Camino de Invierno",
         158
-      ],
-      [
-        "Other",
-        2
       ]
     ]
   }
