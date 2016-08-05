@@ -279,11 +279,11 @@
         73
       ],
       [
-        "Puerto Rico",
+        "Eslovaquia",
         61
       ],
       [
-        "Eslovaquia",
+        "Puerto Rico",
         61
       ],
       [
@@ -303,11 +303,11 @@
         26
       ],
       [
-        "Cuba",
+        "Bolivia",
         25
       ],
       [
-        "Bolivia",
+        "Cuba",
         25
       ],
       [
@@ -327,15 +327,11 @@
         19
       ],
       [
-        "Luxemburgo",
-        18
-      ],
-      [
         "Croacia",
         18
       ],
       [
-        "",
+        "Luxemburgo",
         18
       ],
       [
@@ -363,27 +359,27 @@
         13
       ],
       [
-        "Taiwán",
-        13
-      ],
-      [
         "El Salvador",
         13
       ],
       [
-        "Lituania",
-        12
+        "Taiwán",
+        13
       ],
       [
         "India",
         12
       ],
       [
-        "Islandia",
-        11
+        "Lituania",
+        12
       ],
       [
         "Albania",
+        11
+      ],
+      [
+        "Islandia",
         11
       ],
       [
@@ -407,11 +403,11 @@
         6
       ],
       [
-        "Letonia",
+        "Nicaragua",
         6
       ],
       [
-        "Nicaragua",
+        "Letonia",
         6
       ],
       [
@@ -423,7 +419,7 @@
         5
       ],
       [
-        "Nigeria",
+        "Serbia",
         4
       ],
       [
@@ -443,7 +439,7 @@
         4
       ],
       [
-        "Serbia",
+        "Nigeria",
         4
       ],
       [
@@ -567,11 +563,11 @@
         1
       ],
       [
-        "Mónaco",
+        "Belice",
         1
       ],
       [
-        "Belice",
+        "Mónaco",
         1
       ],
       [
@@ -1812,7 +1808,7 @@
         6
       ],
       [
-        "Panamá",
+        "Malta",
         5
       ],
       [
@@ -1820,11 +1816,7 @@
         5
       ],
       [
-        "Malta",
-        5
-      ],
-      [
-        "",
+        "Angola",
         5
       ],
       [
@@ -1836,11 +1828,11 @@
         5
       ],
       [
-        "Angola",
+        "Panamá",
         5
       ],
       [
-        "Ghana",
+        "Paraguay",
         4
       ],
       [
@@ -1848,8 +1840,16 @@
         4
       ],
       [
-        "Paraguay",
+        "Ghana",
         4
+      ],
+      [
+        "Serbia",
+        3
+      ],
+      [
+        "Camerún",
+        3
       ],
       [
         "Nicaragua",
@@ -1864,12 +1864,8 @@
         3
       ],
       [
-        "Camerún",
-        3
-      ],
-      [
-        "Serbia",
-        3
+        "Namibia",
+        2
       ],
       [
         "Bielorrusia",
@@ -1880,15 +1876,11 @@
         2
       ],
       [
-        "Jamaica",
-        2
-      ],
-      [
-        "Namibia",
-        2
-      ],
-      [
         "Turquía",
+        2
+      ],
+      [
+        "Jamaica",
         2
       ],
       [
@@ -1924,6 +1916,10 @@
         2
       ],
       [
+        "Congo",
+        1
+      ],
+      [
         "Trinidad y Tobago",
         1
       ],
@@ -1940,11 +1936,11 @@
         1
       ],
       [
-        "Antillas Holandesas",
+        "Mónaco",
         1
       ],
       [
-        "Mónaco",
+        "Antillas Holandesas",
         1
       ],
       [
@@ -1953,10 +1949,6 @@
       ],
       [
         "Sri Lanka",
-        1
-      ],
-      [
-        "Madagascar",
         1
       ],
       [
@@ -1996,7 +1988,7 @@
         1
       ],
       [
-        "Congo",
+        "Madagascar",
         1
       ]
     ],
@@ -3205,11 +3197,11 @@
         22
       ],
       [
-        "Marruecos",
+        "Grecia",
         20
       ],
       [
-        "Grecia",
+        "Marruecos",
         20
       ],
       [
@@ -3222,10 +3214,6 @@
       ],
       [
         "Costa Rica",
-        18
-      ],
-      [
-        "",
         18
       ],
       [
@@ -3257,11 +3245,11 @@
         10
       ],
       [
-        "Panamá",
+        "Turquía",
         9
       ],
       [
-        "Turquía",
+        "Panamá",
         9
       ],
       [
@@ -3273,15 +3261,15 @@
         8
       ],
       [
+        "Ucrania",
+        7
+      ],
+      [
         "Paraguay",
         7
       ],
       [
         "Serbia",
-        7
-      ],
-      [
-        "Ucrania",
         7
       ],
       [
@@ -3313,7 +3301,7 @@
         3
       ],
       [
-        "Camerún",
+        "Honduras",
         2
       ],
       [
@@ -3326,10 +3314,6 @@
       ],
       [
         "Kenya",
-        2
-      ],
-      [
-        "Honduras",
         2
       ],
       [
@@ -3349,11 +3333,11 @@
         2
       ],
       [
-        "Liberia",
+        "Camerún",
         2
       ],
       [
-        "Yugoslavia",
+        "Liberia",
         2
       ],
       [
@@ -3362,6 +3346,10 @@
       ],
       [
         "Antillas Holandesas",
+        2
+      ],
+      [
+        "Yugoslavia",
         2
       ],
       [
@@ -3377,7 +3365,7 @@
         1
       ],
       [
-        "Islas Feroe",
+        "Trinidad y Tobago",
         1
       ],
       [
@@ -3393,11 +3381,11 @@
         1
       ],
       [
-        "Trinidad y Tobago",
+        "Angola",
         1
       ],
       [
-        "Mauricio",
+        "Islas Feroe",
         1
       ],
       [
@@ -3405,7 +3393,7 @@
         1
       ],
       [
-        "Laos",
+        "Mauricio",
         1
       ],
       [
@@ -3421,7 +3409,7 @@
         1
       ],
       [
-        "Angola",
+        "Laos",
         1
       ],
       [
@@ -4626,11 +4614,11 @@
         64
       ],
       [
-        "Ecuador",
+        "Perú",
         56
       ],
       [
-        "Perú",
+        "Ecuador",
         56
       ],
       [
@@ -4658,20 +4646,16 @@
         31
       ],
       [
-        "Lituania",
+        "Bulgaria",
         30
       ],
       [
-        "Bulgaria",
+        "Lituania",
         30
       ],
       [
         "Bolivia",
         27
-      ],
-      [
-        "",
-        26
       ],
       [
         "Islandia",
@@ -4682,7 +4666,7 @@
         21
       ],
       [
-        "El Salvador",
+        "Marruecos",
         20
       ],
       [
@@ -4690,11 +4674,11 @@
         20
       ],
       [
-        "Rep. Dominicana",
+        "El Salvador",
         20
       ],
       [
-        "Marruecos",
+        "Rep. Dominicana",
         20
       ],
       [
@@ -4722,20 +4706,16 @@
         10
       ],
       [
-        "India",
+        "Líbano",
         10
       ],
       [
-        "Líbano",
+        "India",
         10
       ],
       [
         "Taiwán",
         8
-      ],
-      [
-        "Panamá",
-        7
       ],
       [
         "Singapur",
@@ -4746,12 +4726,12 @@
         7
       ],
       [
-        "Islas Feroe",
-        6
+        "Panamá",
+        7
       ],
       [
-        "Paraguay",
-        5
+        "Islas Feroe",
+        6
       ],
       [
         "Bosnia",
@@ -4766,19 +4746,11 @@
         5
       ],
       [
+        "Paraguay",
+        5
+      ],
+      [
         "Honduras",
-        4
-      ],
-      [
-        "Kenya",
-        4
-      ],
-      [
-        "Malasia",
-        4
-      ],
-      [
-        "Serbia",
         4
       ],
       [
@@ -4786,15 +4758,23 @@
         4
       ],
       [
-        "Indonesia",
-        3
+        "Malasia",
+        4
+      ],
+      [
+        "Kenya",
+        4
+      ],
+      [
+        "Serbia",
+        4
       ],
       [
         "Zimbabwe",
         3
       ],
       [
-        "Santo Tomé y Príncipe",
+        "Indonesia",
         3
       ],
       [
@@ -4802,47 +4782,11 @@
         3
       ],
       [
-        "Moldavia",
-        2
-      ],
-      [
-        "Argelia",
-        2
-      ],
-      [
-        "Fiji",
-        2
+        "Santo Tomé y Príncipe",
+        3
       ],
       [
         "Nigeria",
-        2
-      ],
-      [
-        "Sri Lanka",
-        2
-      ],
-      [
-        "Etiopía",
-        2
-      ],
-      [
-        "Turquía",
-        2
-      ],
-      [
-        "Malawi",
-        2
-      ],
-      [
-        "Egipto",
-        2
-      ],
-      [
-        "Jordania",
-        2
-      ],
-      [
-        "Namibia",
         2
       ],
       [
@@ -4850,19 +4794,59 @@
         2
       ],
       [
+        "Sri Lanka",
+        2
+      ],
+      [
+        "Malawi",
+        2
+      ],
+      [
+        "Turquía",
+        2
+      ],
+      [
+        "Moldavia",
+        2
+      ],
+      [
+        "Egipto",
+        2
+      ],
+      [
+        "Namibia",
+        2
+      ],
+      [
+        "Fiji",
+        2
+      ],
+      [
+        "Argelia",
+        2
+      ],
+      [
+        "Etiopía",
+        2
+      ],
+      [
+        "Jordania",
+        2
+      ],
+      [
+        "Omán",
+        1
+      ],
+      [
         "Mauricio",
         1
       ],
       [
-        "Vietnam",
-        1
-      ],
-      [
-        "Pakistán",
-        1
-      ],
-      [
         "Dominica",
+        1
+      ],
+      [
+        "Trinidad y Tobago",
         1
       ],
       [
@@ -4874,7 +4858,7 @@
         1
       ],
       [
-        "Arabia Saudita",
+        "Bermudas",
         1
       ],
       [
@@ -4882,7 +4866,7 @@
         1
       ],
       [
-        "Bermudas",
+        "Bielorrusia",
         1
       ],
       [
@@ -4906,7 +4890,7 @@
         1
       ],
       [
-        "Omán",
+        "Vietnam",
         1
       ],
       [
@@ -4934,11 +4918,11 @@
         1
       ],
       [
-        "Jamaica",
+        "Arabia Saudita",
         1
       ],
       [
-        "Trinidad y Tobago",
+        "Pakistán",
         1
       ],
       [
@@ -4954,11 +4938,11 @@
         1
       ],
       [
-        "Congo",
+        "Jamaica",
         1
       ],
       [
-        "Bielorrusia",
+        "Congo",
         1
       ]
     ],
@@ -6127,10 +6111,6 @@
         129
       ],
       [
-        "",
-        85
-      ],
-      [
         "Chile",
         83
       ],
@@ -6195,11 +6175,11 @@
         28
       ],
       [
-        "Costa Rica",
+        "Grecia",
         26
       ],
       [
-        "Grecia",
+        "Costa Rica",
         26
       ],
       [
@@ -6251,6 +6231,10 @@
         11
       ],
       [
+        "Paraguay",
+        9
+      ],
+      [
         "El Salvador",
         9
       ],
@@ -6259,15 +6243,7 @@
         9
       ],
       [
-        "Paraguay",
-        9
-      ],
-      [
         "Honduras",
-        8
-      ],
-      [
-        "Líbano",
         8
       ],
       [
@@ -6279,12 +6255,12 @@
         8
       ],
       [
-        "Malasia",
-        6
+        "Líbano",
+        8
       ],
       [
-        "Argelia",
-        5
+        "Malasia",
+        6
       ],
       [
         "Nicaragua",
@@ -6299,7 +6275,11 @@
         5
       ],
       [
-        "Angola",
+        "Argelia",
+        5
+      ],
+      [
+        "Moldavia",
         4
       ],
       [
@@ -6307,19 +6287,15 @@
         4
       ],
       [
+        "Angola",
+        4
+      ],
+      [
         "Liechtensein",
         4
       ],
       [
-        "Moldavia",
-        4
-      ],
-      [
-        "Sri Lanka",
-        3
-      ],
-      [
-        "Kazajistán",
+        "Vietnam",
         3
       ],
       [
@@ -6327,19 +6303,23 @@
         3
       ],
       [
+        "Kazajistán",
+        3
+      ],
+      [
+        "Sri Lanka",
+        3
+      ],
+      [
         "Guinea",
         3
       ],
       [
-        "Vietnam",
-        3
-      ],
-      [
-        "Camerún",
+        "Nigeria",
         2
       ],
       [
-        "Nigeria",
+        "Egipto",
         2
       ],
       [
@@ -6351,6 +6331,10 @@
         2
       ],
       [
+        "Camerún",
+        2
+      ],
+      [
         "Pakistán",
         2
       ],
@@ -6359,11 +6343,23 @@
         2
       ],
       [
-        "Egipto",
-        2
+        "Islas Vírgenes",
+        1
+      ],
+      [
+        "Bosnia",
+        1
+      ],
+      [
+        "Nepal",
+        1
       ],
       [
         "Armenia",
+        1
+      ],
+      [
+        "Yugoslavia",
         1
       ],
       [
@@ -6375,19 +6371,7 @@
         1
       ],
       [
-        "Jamaica",
-        1
-      ],
-      [
-        "Bosnia",
-        1
-      ],
-      [
-        "Yugoslavia",
-        1
-      ],
-      [
-        "Nepal",
+        "Bangladesh",
         1
       ],
       [
@@ -6395,15 +6379,7 @@
         1
       ],
       [
-        "Bangladesh",
-        1
-      ],
-      [
         "Albania",
-        1
-      ],
-      [
-        "Siria",
         1
       ],
       [
@@ -6423,6 +6399,10 @@
         1
       ],
       [
+        "Siria",
+        1
+      ],
+      [
         "Macedonia",
         1
       ],
@@ -6435,7 +6415,7 @@
         1
       ],
       [
-        "Islas Vírgenes",
+        "Jamaica",
         1
       ]
     ],
@@ -7664,15 +7644,15 @@
         37
       ],
       [
+        "Costa Rica",
+        35
+      ],
+      [
         "Letonia",
         35
       ],
       [
         "China",
-        35
-      ],
-      [
-        "Costa Rica",
         35
       ],
       [
@@ -7700,23 +7680,19 @@
         15
       ],
       [
-        "Islas Feroe",
-        14
-      ],
-      [
         "Taiwán",
         14
       ],
       [
-        "",
+        "Islas Feroe",
         14
       ],
       [
-        "Islandia",
+        "Paraguay",
         13
       ],
       [
-        "Paraguay",
+        "Islandia",
         13
       ],
       [
@@ -7728,11 +7704,11 @@
         12
       ],
       [
-        "India",
+        "Malta",
         11
       ],
       [
-        "Malta",
+        "India",
         11
       ],
       [
@@ -7748,6 +7724,10 @@
         8
       ],
       [
+        "Irán",
+        7
+      ],
+      [
         "Honduras",
         7
       ],
@@ -7756,16 +7736,24 @@
         7
       ],
       [
-        "Irán",
-        7
+        "Indonesia",
+        6
       ],
       [
         "Serbia",
         6
       ],
       [
-        "Indonesia",
-        6
+        "San Marino",
+        5
+      ],
+      [
+        "Egipto",
+        5
+      ],
+      [
+        "Jamaica",
+        5
       ],
       [
         "Argelia",
@@ -7784,23 +7772,7 @@
         5
       ],
       [
-        "Jamaica",
-        5
-      ],
-      [
-        "Egipto",
-        5
-      ],
-      [
-        "San Marino",
-        5
-      ],
-      [
-        "Malasia",
-        4
-      ],
-      [
-        "Liechtensein",
+        "Moldavia",
         4
       ],
       [
@@ -7808,7 +7780,15 @@
         4
       ],
       [
-        "Bosnia",
+        "Nigeria",
+        4
+      ],
+      [
+        "Liechtensein",
+        4
+      ],
+      [
+        "Malasia",
         4
       ],
       [
@@ -7816,35 +7796,23 @@
         4
       ],
       [
-        "Nigeria",
-        4
-      ],
-      [
-        "Moldavia",
-        4
-      ],
-      [
         "Líbano",
         4
       ],
       [
-        "Albania",
-        3
-      ],
-      [
-        "Jordania",
-        3
-      ],
-      [
-        "Vanuatu",
-        3
+        "Bosnia",
+        4
       ],
       [
         "Emiratos Arabes Unidos",
         3
       ],
       [
-        "Ghana",
+        "Dominica",
+        3
+      ],
+      [
+        "Vanuatu",
         3
       ],
       [
@@ -7856,31 +7824,27 @@
         3
       ],
       [
-        "Dominica",
+        "Jordania",
         3
       ],
       [
-        "Guinea Ecuatorial",
-        2
+        "Albania",
+        3
       ],
       [
-        "Kenya",
-        2
-      ],
-      [
-        "Namibia",
-        2
+        "Ghana",
+        3
       ],
       [
         "Gambia",
         2
       ],
       [
-        "Togo",
+        "Zimbabwe",
         2
       ],
       [
-        "Zimbabwe",
+        "Namibia",
         2
       ],
       [
@@ -7896,27 +7860,27 @@
         2
       ],
       [
+        "Kenya",
+        2
+      ],
+      [
+        "Guinea Ecuatorial",
+        2
+      ],
+      [
         "Vietnam",
         2
       ],
       [
-        "Mónaco",
-        1
-      ],
-      [
-        "Angola",
-        1
+        "Togo",
+        2
       ],
       [
         "Qatar",
         1
       ],
       [
-        "Guayana Francesa",
-        1
-      ],
-      [
-        "Senegal",
+        "Mónaco",
         1
       ],
       [
@@ -7924,11 +7888,23 @@
         1
       ],
       [
-        "Libia",
+        "Santa Lucía",
         1
       ],
       [
-        "Santa Lucía",
+        "Senegal",
+        1
+      ],
+      [
+        "Angola",
+        1
+      ],
+      [
+        "Guayana Francesa",
+        1
+      ],
+      [
+        "Libia",
         1
       ],
       [
@@ -9273,10 +9249,6 @@
         28
       ],
       [
-        "",
-        28
-      ],
-      [
         "Nicaragua",
         23
       ],
@@ -9285,19 +9257,19 @@
         20
       ],
       [
-        "Turquía",
-        19
-      ],
-      [
         "Honduras",
         19
       ],
       [
-        "Albania",
-        18
+        "Turquía",
+        19
       ],
       [
         "Singapur",
+        18
+      ],
+      [
+        "Albania",
         18
       ],
       [
@@ -9321,16 +9293,12 @@
         13
       ],
       [
-        "Guinea Ecuatorial",
-        12
-      ],
-      [
         "Islandia",
         12
       ],
       [
-        "Bielorrusia",
-        11
+        "Guinea Ecuatorial",
+        12
       ],
       [
         "Swazilandia",
@@ -9338,6 +9306,10 @@
       ],
       [
         "Pakistán",
+        11
+      ],
+      [
+        "Bielorrusia",
         11
       ],
       [
@@ -9357,7 +9329,7 @@
         9
       ],
       [
-        "Chipre",
+        "Armenia",
         8
       ],
       [
@@ -9365,12 +9337,8 @@
         8
       ],
       [
-        "Armenia",
+        "Chipre",
         8
-      ],
-      [
-        "Kenya",
-        7
       ],
       [
         "Moldavia",
@@ -9385,11 +9353,15 @@
         7
       ],
       [
-        "Guyana",
-        6
+        "Kenya",
+        7
       ],
       [
         "Indonesia",
+        6
+      ],
+      [
+        "Guyana",
         6
       ],
       [
@@ -9401,11 +9373,11 @@
         5
       ],
       [
-        "Nigeria",
+        "Vietnam",
         5
       ],
       [
-        "Vietnam",
+        "Nigeria",
         5
       ],
       [
@@ -10982,19 +10954,19 @@
         33
       ],
       [
-        "Malasia",
-        31
-      ],
-      [
         "Paraguay",
         31
       ],
       [
-        "Singapur",
-        29
+        "Malasia",
+        31
       ],
       [
         "Panamá",
+        29
+      ],
+      [
+        "Singapur",
         29
       ],
       [
@@ -11030,6 +11002,10 @@
         13
       ],
       [
+        "Irán",
+        12
+      ],
+      [
         "Bielorrusia",
         12
       ],
@@ -11038,19 +11014,15 @@
         12
       ],
       [
-        "Irán",
-        12
-      ],
-      [
         "Liechtensein",
         11
       ],
       [
-        "Indonesia",
+        "Serbia",
         10
       ],
       [
-        "Serbia",
+        "Indonesia",
         10
       ],
       [
@@ -11062,15 +11034,11 @@
         8
       ],
       [
-        "Islas Feroe",
-        7
-      ],
-      [
-        "Moldavia",
-        7
-      ],
-      [
         "Macedonia",
+        7
+      ],
+      [
+        "Islas Feroe",
         7
       ],
       [
@@ -11078,11 +11046,15 @@
         7
       ],
       [
-        "Dominica",
+        "Cabo Verde",
         7
       ],
       [
-        "Cabo Verde",
+        "Moldavia",
+        7
+      ],
+      [
+        "Dominica",
         7
       ],
       [
@@ -11094,6 +11066,10 @@
         6
       ],
       [
+        "Nigeria",
+        5
+      ],
+      [
         "Bosnia",
         5
       ],
@@ -11102,8 +11078,12 @@
         5
       ],
       [
-        "Nigeria",
-        5
+        "Egipto",
+        4
+      ],
+      [
+        "Angola",
+        4
       ],
       [
         "Camerún",
@@ -11112,18 +11092,6 @@
       [
         "Mozambique",
         4
-      ],
-      [
-        "Angola",
-        4
-      ],
-      [
-        "Egipto",
-        4
-      ],
-      [
-        "Nepal",
-        3
       ],
       [
         "Sri Lanka",
@@ -11138,19 +11106,15 @@
         3
       ],
       [
-        "",
-        3
-      ],
-      [
         "Timor Oriental",
         3
       ],
       [
-        "Seychelles",
-        2
+        "Nepal",
+        3
       ],
       [
-        "Zimbabwe",
+        "Senegal",
         2
       ],
       [
@@ -11158,7 +11122,19 @@
         2
       ],
       [
+        "Emiratos Arabes Unidos",
+        2
+      ],
+      [
         "Georgia",
+        2
+      ],
+      [
+        "Tanzania",
+        2
+      ],
+      [
+        "Seychelles",
         2
       ],
       [
@@ -11166,11 +11142,7 @@
         2
       ],
       [
-        "Senegal",
-        2
-      ],
-      [
-        "Tanzania",
+        "Zimbabwe",
         2
       ],
       [
@@ -11182,19 +11154,15 @@
         2
       ],
       [
-        "Emiratos Arabes Unidos",
-        2
-      ],
-      [
-        "Mauricio",
-        1
-      ],
-      [
         "Bhután",
         1
       ],
       [
-        "Madagascar",
+        "Afganistán",
+        1
+      ],
+      [
+        "Costa de Marfil",
         1
       ],
       [
@@ -11218,15 +11186,15 @@
         1
       ],
       [
-        "Costa de Marfil",
-        1
-      ],
-      [
-        "Ghana",
+        "Jordania",
         1
       ],
       [
         "Belice",
+        1
+      ],
+      [
+        "Madagascar",
         1
       ],
       [
@@ -11238,7 +11206,7 @@
         1
       ],
       [
-        "Afganistán",
+        "Ghana",
         1
       ],
       [
@@ -11254,7 +11222,7 @@
         1
       ],
       [
-        "Jordania",
+        "Mauricio",
         1
       ]
     ],
