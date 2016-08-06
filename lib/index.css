@@ -6,6 +6,7 @@ th,td {
 .tangerine-font { font-family: 'Tangerine', serif; }
 .font-48 {font-size: 48pt;}
 .font-36 {font-size: 36pt;}
+
 th {background: #fff8dc;}
 
 .form-div {
@@ -18,4 +19,5 @@ th {background: #fff8dc;}
 }
 .form-label {
   margin: 0 0.5em 0 1em;
+  font-weight: bold;
 }
