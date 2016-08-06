@@ -8,6 +8,9 @@ th,td {
 .font-36 {font-size: 36pt;}
 
 th {background: #fff8dc;}
+.cc-tab-title {
+  font-weight: bold;
+}
 
 .form-div {
   font-size: 1.2em;
