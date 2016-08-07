@@ -1273,8 +1273,8 @@
         672
       ],
       [
-        "Other",
-        643
+        "City&nbsp;Was Blank",
+        642
       ],
       [
         "Holland",
@@ -1386,6 +1386,10 @@
       ],
       [
         "Murcia",
+        1
+      ],
+      [
+        "Málaga",
         1
       ]
     ],
@@ -2734,7 +2738,7 @@
         177
       ],
       [
-        "Other",
+        "City&nbsp;Was Blank",
         155
       ],
       [
@@ -4187,7 +4191,7 @@
         169
       ],
       [
-        "Other",
+        "City&nbsp;Was Blank",
         120
       ],
       [
@@ -5712,7 +5716,7 @@
         69
       ],
       [
-        "Other",
+        "City&nbsp;Was Blank",
         63
       ],
       [
@@ -7189,7 +7193,7 @@
         76
       ],
       [
-        "Other",
+        "City&nbsp;Was Blank",
         73
       ],
       [
@@ -8718,7 +8722,7 @@
         261
       ],
       [
-        "Other",
+        "City&nbsp;Was Blank",
         205
       ],
       [
@@ -10471,7 +10475,7 @@
         71
       ],
       [
-        "Other",
+        "City&nbsp;Was Blank",
         63
       ],
       [
@@ -13634,7 +13638,7 @@
       ],
       [
         "Portugal",
-        16257
+        16600
       ],
       [
         "Navarra",
@@ -13717,10 +13721,6 @@
         357
       ],
       [
-        "Other",
-        343
-      ],
-      [
         "Porgugal",
         290
       ],
@@ -13777,19 +13777,19 @@
         32
       ],
       [
-        "Valladolid",
-        28
-      ],
-      [
         "Europe Other",
         28
       ],
       [
-        "UK",
-        24
+        "Valladolid",
+        28
       ],
       [
         "Murcia",
+        24
+      ],
+      [
+        "UK",
         24
       ],
       [
@@ -15499,11 +15499,11 @@
       ],
       [
         "León",
-        29243
+        30662
       ],
       [
         "Portugal",
-        18565
+        19200
       ],
       [
         "Navarra",
@@ -15538,10 +15538,6 @@
         2444
       ],
       [
-        "León`",
-        1419
-      ],
-      [
         "Cantabria",
         1332
       ],
@@ -15564,10 +15560,6 @@
       [
         "Madrid",
         683
-      ],
-      [
-        "Other",
-        639
       ],
       [
         "Germany",
@@ -15654,11 +15646,11 @@
         29
       ],
       [
-        "Valladolid",
+        "Córdoba",
         26
       ],
       [
-        "Córdoba",
+        "Valladolid",
         26
       ],
       [
@@ -15666,11 +15658,11 @@
         15
       ],
       [
-        "Murcia",
+        "Czech Republic",
         13
       ],
       [
-        "Czech Republic",
+        "Murcia",
         13
       ],
       [
@@ -15687,6 +15679,10 @@
       ],
       [
         "Andorra",
+        4
+      ],
+      [
+        "City&nbsp;Was Blank",
         4
       ],
       [
@@ -17336,11 +17332,11 @@
       ],
       [
         "León",
-        29035
+        30689
       ],
       [
         "Portugal",
-        22252
+        22783
       ],
       [
         "Navarra",
@@ -17375,10 +17371,6 @@
         2377
       ],
       [
-        "León`",
-        1654
-      ],
-      [
         "Cantabria",
         1419
       ],
@@ -17405,10 +17397,6 @@
       [
         "Germany",
         618
-      ],
-      [
-        "Other",
-        534
       ],
       [
         "Salamanca",
@@ -17483,11 +17471,11 @@
         37
       ],
       [
-        "Poland",
-        30
+        "Málaga",
+        31
       ],
       [
-        "Málaga",
+        "Poland",
         30
       ],
       [
@@ -17507,11 +17495,11 @@
         14
       ],
       [
-        "Ireland",
+        "Slovakia",
         13
       ],
       [
-        "Slovakia",
+        "Ireland",
         13
       ],
       [
@@ -17537,6 +17525,10 @@
       [
         "Finland",
         3
+      ],
+      [
+        "City&nbsp;Was Blank",
+        2
       ],
       [
         "Israel",
@@ -19177,11 +19169,11 @@
       ],
       [
         "León",
-        29978
+        31408
       ],
       [
         "Portugal",
-        26950
+        27715
       ],
       [
         "Pontevedra",
@@ -19220,10 +19212,6 @@
         1441
       ],
       [
-        "León`",
-        1430
-      ],
-      [
         "Vizcaya",
         1230
       ],
@@ -19234,10 +19222,6 @@
       [
         "Zamora",
         1073
-      ],
-      [
-        "Other",
-        777
       ],
       [
         "Madrid",
@@ -19280,11 +19264,11 @@
         294
       ],
       [
-        "Badajoz",
+        "Switzerland",
         267
       ],
       [
-        "Switzerland",
+        "Badajoz",
         267
       ],
       [
@@ -19346,6 +19330,10 @@
       [
         "Murcia",
         17
+      ],
+      [
+        "City&nbsp;Was Blank",
+        12
       ],
       [
         "Denmark",
@@ -21026,11 +21014,11 @@
       ],
       [
         "Portugal",
-        18290
+        18575
       ],
       [
         "León",
-        15837
+        16404
       ],
       [
         "Pontevedra",
@@ -21073,10 +21061,6 @@
         685
       ],
       [
-        "León`",
-        567
-      ],
-      [
         "La Rioja",
         544
       ],
@@ -21091,10 +21075,6 @@
       [
         "Holland",
         329
-      ],
-      [
-        "Other",
-        298
       ],
       [
         "Germany",
@@ -21150,7 +21130,7 @@
       ],
       [
         "Zaragoza",
-        60
+        70
       ],
       [
         "Cáceres",
@@ -21209,7 +21189,15 @@
         3
       ],
       [
+        "Luxembourg",
+        2
+      ],
+      [
         "Egypt",
+        2
+      ],
+      [
+        "City&nbsp;Was Blank",
         2
       ],
       [
@@ -21217,11 +21205,11 @@
         2
       ],
       [
-        "Luxembourg",
-        2
+        "Finland",
+        1
       ],
       [
-        "Finland",
+        "Jaén",
         1
       ],
       [
