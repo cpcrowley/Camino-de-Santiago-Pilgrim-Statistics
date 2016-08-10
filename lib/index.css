@@ -1,8 +1,10 @@
 th,td {
   text-align:center;
 }
+.bold {font-weight: bold}
 .text-align-right {text-align:right;}
 .text-align-left {text-align:left;}
+.text-align-center {text-align:center;}
 .tangerine-font { font-family: 'Tangerine', serif; }
 .font-48 {font-size: 48pt;}
 .font-36 {font-size: 36pt;}
