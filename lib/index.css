@@ -9,6 +9,11 @@ th,td {
 .font-48 {font-size: 48pt;}
 .font-36 {font-size: 36pt;}
 
+.list-item-title {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
 th {background: #fff8dc;}
 .cc-tab-title {
   font-weight: bold;
