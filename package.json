@@ -4,15 +4,20 @@
   "description": "Camino de Santiago Pilgrim Statistics",
   "main": "lib/server.js",
   "keywords": [
-    "jeopardy"
+    "Camino"
   ],
   "author": "Charles Crowley <cpcrowley@gmail.com>",
   "license": "ISC",
   "scripts": {
+    "restart-apache-sudo": "sudo apachectl graceful",
     "merge": "echo '-----merge'; git checkout master; git merge work; git branch -d work; echo '-----push'; git push; echo '-----co work'; git checkout -b work; git status",
     "watch": "watchify lib/main.js -d -o public/bundle.js -v",
-    "bundle": "browserify lib/main.js -d -o public/bundle.js -v; echo '******** DONE ************'"
-  },
+    "test": "npm run bundle; npm run update",
+    "doall": "npm run bundle; npm run update; npm run upload",
+    "bundle": "browserify lib/main.js -d -o public/bundle.js -v",
+    "update": "rsync -va public/ ~/a/public/thechar.com/pilgrims; rsync -va public/ ~/a/public/wynchar.com/pilgrims",
+    "upload": "gsutil -m rsync -e -r ~/a/public/thechar.com/ gs://thechar.com; gsutil -m rsync -e -r ~/a/public/wynchar.com/ gs://wynchar.com"
+},
   "repository": {
     "type": "git",
     "url": "git://github.com/cpcrowley/pilgrims.git"
