@@ -9,7 +9,11 @@ th,td {
 .font-48 {font-size: 48pt;}
 .font-36 {font-size: 36pt;}
 
-#graph1 {
+.size-up-btn {
+  font-size: 18pt;
+}
+.size-dn-btn {
+  font-size: 18pt;
 }
 
 .in-text-img {

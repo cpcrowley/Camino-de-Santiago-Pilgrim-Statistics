@@ -13,10 +13,10 @@
     "merge": "echo '-----merge'; git checkout master; git merge work; git branch -d work; echo '-----push'; git push; echo '-----co work'; git checkout -b work; git status",
     "watch": "watchify lib/main.js -d -o public/bundle.js -v",
     "test": "npm run bundle; npm run update",
-    "doall": "npm run bundle; npm run update; npm run upload",
+    "install": "npm run bundle; npm run update; npm run upload",
     "bundle": "browserify lib/main.js -d -o public/bundle.js -v",
-    "update": "rsync -va public/ ~/a/public/thechar.com/pilgrims; rsync -va public/ ~/a/public/wynchar.com/pilgrims",
-    "upload": "gsutil -m rsync -e -r ~/a/public/thechar.com/ gs://thechar.com; gsutil -m rsync -e -r ~/a/public/wynchar.com/ gs://wynchar.com"
+    "update": "rsync -va public/ ~/a/public/wynchar.com/pilgrims",
+    "upload": "gsutil -m rsync -e -r ~/a/public/wynchar.com/ gs://wynchar.com"
 },
   "repository": {
     "type": "git",

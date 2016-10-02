@@ -1,0 +1,8 @@
+******* To add a new months data *******
+1. Change shared.js: montheForYear, add month, or a new year
+2. Run: node lib/fetchPilgrimData.js
+   Note: this will not refetch data we have already fetched, only the new month.
+   If you want it to refetch data, delete files from /data.raw
+3. Run: node lib/combineYears.js
+   Note: this creates a new "./data/pData.json" which the web app reads.
+4. Change the title for the current year in months: recomputePane.js line: 114
