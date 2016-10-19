@@ -9,11 +9,9 @@ th,td {
 .font-48 {font-size: 48pt;}
 .font-36 {font-size: 36pt;}
 
-.size-up-btn {
-  font-size: 18pt;
-}
-.size-dn-btn {
-  font-size: 18pt;
+.pie3 {
+  display: inline-block;
+  width: 300px;
 }
 
 .in-text-img {
