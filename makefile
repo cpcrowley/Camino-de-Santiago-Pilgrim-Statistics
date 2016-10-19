@@ -1,12 +1,12 @@
 # ~/a/pilgrimsWebApp
-help: ; @cat ./mf
+help: ; @cat ./makefile
 .PHONY: hexo upload watch bundle upload
 GCS_BUCKET_DIR = gs://crowley.pw/pilgrimsApp/
 hexo:
 	hexo clean
 	hexo generate
 	hexo serve --draft
-upload:
+upload-hexo:
 	hexo clean
 	hexo generate
 	gsutil -m $(CACHE_CONTROL) rsync -e -r public/ $(GCS_BUCKET_DIR)
